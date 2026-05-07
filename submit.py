@@ -242,3 +242,7 @@ def clean_easy_2d(d,rep):
                 for i in range(len(W1)):
                     f.write(str(W1[i])+" ")
                 f.write("\n")
+#Gaussian experiments
+clean_easy_2d(2,10)
+clean_easy_2d(5,10)
+clean_easy_2d(20,10)
