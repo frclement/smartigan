@@ -1,0 +1,2700 @@
+Hartigan: 2 clusters 250 points 0 rep. Mean: 367.8232404273241
+Smartigan: 2 clusters 250 points 0 rep. Mean: 367.82813090192235
+
+Hartigan: 2 clusters 250 points 1 rep. Mean: 124.10354396621112
+Smartigan: 2 clusters 250 points 1 rep. Mean: 124.10354396621112
+
+Hartigan: 2 clusters 250 points 2 rep. Mean: 368.77401055407364
+Smartigan: 2 clusters 250 points 2 rep. Mean: 368.7852408622537
+
+Hartigan: 2 clusters 250 points 3 rep. Mean: 123.84015785955698
+Smartigan: 2 clusters 250 points 3 rep. Mean: 123.84015785955698
+
+Hartigan: 2 clusters 250 points 4 rep. Mean: 370.49645890079546
+Smartigan: 2 clusters 250 points 4 rep. Mean: 370.54632136043267
+
+Hartigan: 2 clusters 250 points 5 rep. Mean: 125.07644035039732
+Smartigan: 2 clusters 250 points 5 rep. Mean: 125.07644035039732
+
+Hartigan: 2 clusters 250 points 6 rep. Mean: 365.60450121756844
+Smartigan: 2 clusters 250 points 6 rep. Mean: 365.61097487331745
+
+Hartigan: 2 clusters 250 points 7 rep. Mean: 124.07289696132241
+Smartigan: 2 clusters 250 points 7 rep. Mean: 124.07289696132241
+
+Hartigan: 2 clusters 250 points 8 rep. Mean: 367.11726396691796
+Smartigan: 2 clusters 250 points 8 rep. Mean: 367.11991226874466
+
+Hartigan: 2 clusters 250 points 9 rep. Mean: 123.38381123814845
+Smartigan: 2 clusters 250 points 9 rep. Mean: 123.38381123814845
+
+Hartigan: 2 clusters 250 points 10 rep. Mean: 367.0208747795416
+Smartigan: 2 clusters 250 points 10 rep. Mean: 367.03635782682
+
+Hartigan: 2 clusters 250 points 11 rep. Mean: 123.8266682093924
+Smartigan: 2 clusters 250 points 11 rep. Mean: 123.8266682093924
+
+Hartigan: 2 clusters 250 points 12 rep. Mean: 365.3612303031314
+Smartigan: 2 clusters 250 points 12 rep. Mean: 365.369696852686
+
+Hartigan: 2 clusters 250 points 13 rep. Mean: 123.45808673933269
+Smartigan: 2 clusters 250 points 13 rep. Mean: 123.45808673933269
+
+Hartigan: 2 clusters 250 points 14 rep. Mean: 369.9673968045694
+Smartigan: 2 clusters 250 points 14 rep. Mean: 369.9704657755622
+
+Hartigan: 2 clusters 250 points 15 rep. Mean: 124.7679074288241
+Smartigan: 2 clusters 250 points 15 rep. Mean: 124.7679074288241
+
+Hartigan: 2 clusters 250 points 16 rep. Mean: 370.5822544233109
+Smartigan: 2 clusters 250 points 16 rep. Mean: 370.59583741574124
+
+Hartigan: 2 clusters 250 points 17 rep. Mean: 124.46746098905992
+Smartigan: 2 clusters 250 points 17 rep. Mean: 124.46746098905992
+
+Hartigan: 2 clusters 250 points 18 rep. Mean: 367.5408034311504
+Smartigan: 2 clusters 250 points 18 rep. Mean: 367.5408034311504
+
+Hartigan: 2 clusters 250 points 19 rep. Mean: 123.56276420994632
+Smartigan: 2 clusters 250 points 19 rep. Mean: 123.56276420994632
+
+Hartigan: 2 clusters 250 points 20 rep. Mean: 364.7924319577939
+Smartigan: 2 clusters 250 points 20 rep. Mean: 364.8317453527626
+
+Hartigan: 2 clusters 250 points 21 rep. Mean: 123.57509840802757
+Smartigan: 2 clusters 250 points 21 rep. Mean: 123.57509840802757
+
+Hartigan: 2 clusters 250 points 22 rep. Mean: 367.73827734491107
+Smartigan: 2 clusters 250 points 22 rep. Mean: 367.7395499826419
+
+Hartigan: 2 clusters 250 points 23 rep. Mean: 123.7735883024164
+Smartigan: 2 clusters 250 points 23 rep. Mean: 123.7735883024164
+
+Hartigan: 2 clusters 250 points 24 rep. Mean: 364.1033432388996
+Smartigan: 2 clusters 250 points 24 rep. Mean: 364.1039047912943
+
+Hartigan: 2 clusters 250 points 25 rep. Mean: 122.67589717459562
+Smartigan: 2 clusters 250 points 25 rep. Mean: 122.67589717459562
+
+Hartigan: 2 clusters 250 points 26 rep. Mean: 366.80713099401146
+Smartigan: 2 clusters 250 points 26 rep. Mean: 366.82498384528384
+
+Hartigan: 2 clusters 250 points 27 rep. Mean: 123.73179157091583
+Smartigan: 2 clusters 250 points 27 rep. Mean: 123.73179157091583
+
+Hartigan: 2 clusters 250 points 28 rep. Mean: 370.339429241572
+Smartigan: 2 clusters 250 points 28 rep. Mean: 370.36062551744004
+
+Hartigan: 2 clusters 250 points 29 rep. Mean: 125.44179730183427
+Smartigan: 2 clusters 250 points 29 rep. Mean: 125.44179730183427
+
+Hartigan: 2 clusters 250 points 30 rep. Mean: 365.3988847784416
+Smartigan: 2 clusters 250 points 30 rep. Mean: 365.40839025315705
+
+Hartigan: 2 clusters 250 points 31 rep. Mean: 122.96219932168358
+Smartigan: 2 clusters 250 points 31 rep. Mean: 122.96219932168358
+
+Hartigan: 2 clusters 250 points 32 rep. Mean: 365.6842465829293
+Smartigan: 2 clusters 250 points 32 rep. Mean: 365.68895886076365
+
+Hartigan: 2 clusters 250 points 33 rep. Mean: 122.72493835055522
+Smartigan: 2 clusters 250 points 33 rep. Mean: 122.72493835055522
+
+Hartigan: 2 clusters 250 points 34 rep. Mean: 365.7534572577574
+Smartigan: 2 clusters 250 points 34 rep. Mean: 365.77091936655705
+
+Hartigan: 2 clusters 250 points 35 rep. Mean: 124.22115579155054
+Smartigan: 2 clusters 250 points 35 rep. Mean: 124.22115579155054
+
+Hartigan: 2 clusters 250 points 36 rep. Mean: 360.9927136141649
+Smartigan: 2 clusters 250 points 36 rep. Mean: 360.9954697600957
+
+Hartigan: 2 clusters 250 points 37 rep. Mean: 122.89498053843838
+Smartigan: 2 clusters 250 points 37 rep. Mean: 122.89498053843838
+
+Hartigan: 2 clusters 250 points 38 rep. Mean: 369.73006091387055
+Smartigan: 2 clusters 250 points 38 rep. Mean: 369.73006091387055
+
+Hartigan: 2 clusters 250 points 39 rep. Mean: 124.55821837123524
+Smartigan: 2 clusters 250 points 39 rep. Mean: 124.55821837123524
+
+Hartigan: 2 clusters 250 points 40 rep. Mean: 370.89982705376605
+Smartigan: 2 clusters 250 points 40 rep. Mean: 370.91396431195915
+
+Hartigan: 2 clusters 250 points 41 rep. Mean: 125.40669148144225
+Smartigan: 2 clusters 250 points 41 rep. Mean: 125.40669148144225
+
+Hartigan: 2 clusters 250 points 42 rep. Mean: 367.7992927987035
+Smartigan: 2 clusters 250 points 42 rep. Mean: 367.8118056940585
+
+Hartigan: 2 clusters 250 points 43 rep. Mean: 124.01575341326934
+Smartigan: 2 clusters 250 points 43 rep. Mean: 124.01575341326934
+
+Hartigan: 2 clusters 250 points 44 rep. Mean: 373.7161867443232
+Smartigan: 2 clusters 250 points 44 rep. Mean: 373.71776564747046
+
+Hartigan: 2 clusters 250 points 45 rep. Mean: 124.85776383245832
+Smartigan: 2 clusters 250 points 45 rep. Mean: 124.85776383245832
+
+Hartigan: 2 clusters 250 points 46 rep. Mean: 373.31336606528754
+Smartigan: 2 clusters 250 points 46 rep. Mean: 373.3316289759366
+
+Hartigan: 2 clusters 250 points 47 rep. Mean: 125.4358937692853
+Smartigan: 2 clusters 250 points 47 rep. Mean: 125.4358937692853
+
+Hartigan: 2 clusters 250 points 48 rep. Mean: 368.9842354482134
+Smartigan: 2 clusters 250 points 48 rep. Mean: 369.0720026321206
+
+Hartigan: 2 clusters 250 points 49 rep. Mean: 124.7190000884502
+Smartigan: 2 clusters 250 points 49 rep. Mean: 124.7190000884502
+
+Hartigan: 2 clusters 250 points 50 rep. Mean: 364.80598392757474
+Smartigan: 2 clusters 250 points 50 rep. Mean: 364.823270752372
+
+Hartigan: 2 clusters 250 points 51 rep. Mean: 122.81163040440484
+Smartigan: 2 clusters 250 points 51 rep. Mean: 122.81163040440484
+
+Hartigan: 2 clusters 250 points 52 rep. Mean: 363.1858164285928
+Smartigan: 2 clusters 250 points 52 rep. Mean: 363.18915675563505
+
+Hartigan: 2 clusters 250 points 53 rep. Mean: 123.16746074039524
+Smartigan: 2 clusters 250 points 53 rep. Mean: 123.16746074039524
+
+Hartigan: 2 clusters 250 points 54 rep. Mean: 368.02912008854037
+Smartigan: 2 clusters 250 points 54 rep. Mean: 368.0517192087942
+
+Hartigan: 2 clusters 250 points 55 rep. Mean: 124.71738474174981
+Smartigan: 2 clusters 250 points 55 rep. Mean: 124.71738474174981
+
+Hartigan: 2 clusters 250 points 56 rep. Mean: 366.5029823087246
+Smartigan: 2 clusters 250 points 56 rep. Mean: 366.521519059579
+
+Hartigan: 2 clusters 250 points 57 rep. Mean: 123.73837770535003
+Smartigan: 2 clusters 250 points 57 rep. Mean: 123.73837770535003
+
+Hartigan: 2 clusters 250 points 58 rep. Mean: 365.0313452936203
+Smartigan: 2 clusters 250 points 58 rep. Mean: 365.03849203398875
+
+Hartigan: 2 clusters 250 points 59 rep. Mean: 123.45760809247273
+Smartigan: 2 clusters 250 points 59 rep. Mean: 123.45760809247273
+
+Hartigan: 2 clusters 250 points 60 rep. Mean: 364.8599348399359
+Smartigan: 2 clusters 250 points 60 rep. Mean: 364.8650450392785
+
+Hartigan: 2 clusters 250 points 61 rep. Mean: 122.40191039752555
+Smartigan: 2 clusters 250 points 61 rep. Mean: 122.40191039752555
+
+Hartigan: 2 clusters 250 points 62 rep. Mean: 361.1515495064367
+Smartigan: 2 clusters 250 points 62 rep. Mean: 361.14936429902804
+
+Hartigan: 2 clusters 250 points 63 rep. Mean: 122.62068234511275
+Smartigan: 2 clusters 250 points 63 rep. Mean: 122.62183372113861
+
+Hartigan: 2 clusters 250 points 64 rep. Mean: 365.5480106941595
+Smartigan: 2 clusters 250 points 64 rep. Mean: 365.55350667363257
+
+Hartigan: 2 clusters 250 points 65 rep. Mean: 123.26833409531841
+Smartigan: 2 clusters 250 points 65 rep. Mean: 123.26833409531841
+
+Hartigan: 2 clusters 250 points 66 rep. Mean: 362.8065883407879
+Smartigan: 2 clusters 250 points 66 rep. Mean: 362.82785267261323
+
+Hartigan: 2 clusters 250 points 67 rep. Mean: 123.27773198027114
+Smartigan: 2 clusters 250 points 67 rep. Mean: 123.27773198027114
+
+Hartigan: 2 clusters 250 points 68 rep. Mean: 372.17468833940273
+Smartigan: 2 clusters 250 points 68 rep. Mean: 372.16888579666494
+
+Hartigan: 2 clusters 250 points 69 rep. Mean: 125.34933908746989
+Smartigan: 2 clusters 250 points 69 rep. Mean: 125.34933908746989
+
+Hartigan: 2 clusters 250 points 70 rep. Mean: 367.97312490234054
+Smartigan: 2 clusters 250 points 70 rep. Mean: 367.99255062313205
+
+Hartigan: 2 clusters 250 points 71 rep. Mean: 123.95373717725128
+Smartigan: 2 clusters 250 points 71 rep. Mean: 123.95373717725128
+
+Hartigan: 2 clusters 250 points 72 rep. Mean: 364.08960173622614
+Smartigan: 2 clusters 250 points 72 rep. Mean: 364.0878587275621
+
+Hartigan: 2 clusters 250 points 73 rep. Mean: 123.18635873648955
+Smartigan: 2 clusters 250 points 73 rep. Mean: 123.18635873648955
+
+Hartigan: 2 clusters 250 points 74 rep. Mean: 362.6221557914845
+Smartigan: 2 clusters 250 points 74 rep. Mean: 362.6631188493997
+
+Hartigan: 2 clusters 250 points 75 rep. Mean: 122.86618350942906
+Smartigan: 2 clusters 250 points 75 rep. Mean: 122.86682501411849
+
+Hartigan: 2 clusters 250 points 76 rep. Mean: 362.3184790709773
+Smartigan: 2 clusters 250 points 76 rep. Mean: 362.323365086182
+
+Hartigan: 2 clusters 250 points 77 rep. Mean: 122.43142338055263
+Smartigan: 2 clusters 250 points 77 rep. Mean: 122.43142338055263
+
+Hartigan: 2 clusters 250 points 78 rep. Mean: 366.0752522533104
+Smartigan: 2 clusters 250 points 78 rep. Mean: 366.07985645811175
+
+Hartigan: 2 clusters 250 points 79 rep. Mean: 124.15208356570497
+Smartigan: 2 clusters 250 points 79 rep. Mean: 124.15208356570497
+
+Hartigan: 2 clusters 250 points 80 rep. Mean: 365.9216239582323
+Smartigan: 2 clusters 250 points 80 rep. Mean: 365.9216239582323
+
+Hartigan: 2 clusters 250 points 81 rep. Mean: 123.68587888592303
+Smartigan: 2 clusters 250 points 81 rep. Mean: 123.68587888592303
+
+Hartigan: 2 clusters 250 points 82 rep. Mean: 365.6901333679588
+Smartigan: 2 clusters 250 points 82 rep. Mean: 365.6991024944381
+
+Hartigan: 2 clusters 250 points 83 rep. Mean: 123.85300313888527
+Smartigan: 2 clusters 250 points 83 rep. Mean: 123.85300313888527
+
+Hartigan: 2 clusters 250 points 84 rep. Mean: 367.9939554706208
+Smartigan: 2 clusters 250 points 84 rep. Mean: 368.00723307370674
+
+Hartigan: 2 clusters 250 points 85 rep. Mean: 124.76636010800662
+Smartigan: 2 clusters 250 points 85 rep. Mean: 124.76636010800662
+
+Hartigan: 2 clusters 250 points 86 rep. Mean: 369.73454988469155
+Smartigan: 2 clusters 250 points 86 rep. Mean: 369.7413638622788
+
+Hartigan: 2 clusters 250 points 87 rep. Mean: 124.01318769590992
+Smartigan: 2 clusters 250 points 87 rep. Mean: 124.01318769590992
+
+Hartigan: 2 clusters 250 points 88 rep. Mean: 368.26654771189874
+Smartigan: 2 clusters 250 points 88 rep. Mean: 368.2739185670563
+
+Hartigan: 2 clusters 250 points 89 rep. Mean: 124.43023945111077
+Smartigan: 2 clusters 250 points 89 rep. Mean: 124.43023945111077
+
+Hartigan: 2 clusters 250 points 90 rep. Mean: 369.5244313511757
+Smartigan: 2 clusters 250 points 90 rep. Mean: 369.5310831591731
+
+Hartigan: 2 clusters 250 points 91 rep. Mean: 124.1807338906065
+Smartigan: 2 clusters 250 points 91 rep. Mean: 124.1807338906065
+
+Hartigan: 2 clusters 250 points 92 rep. Mean: 370.97305184165606
+Smartigan: 2 clusters 250 points 92 rep. Mean: 370.97430247229505
+
+Hartigan: 2 clusters 250 points 93 rep. Mean: 124.741429711269
+Smartigan: 2 clusters 250 points 93 rep. Mean: 124.741429711269
+
+Hartigan: 2 clusters 250 points 94 rep. Mean: 363.0994238327861
+Smartigan: 2 clusters 250 points 94 rep. Mean: 363.11827636724786
+
+Hartigan: 2 clusters 250 points 95 rep. Mean: 122.33149579027884
+Smartigan: 2 clusters 250 points 95 rep. Mean: 122.33149579027884
+
+Hartigan: 2 clusters 250 points 96 rep. Mean: 364.3030768178745
+Smartigan: 2 clusters 250 points 96 rep. Mean: 364.37238645448036
+
+Hartigan: 2 clusters 250 points 97 rep. Mean: 123.23403581487867
+Smartigan: 2 clusters 250 points 97 rep. Mean: 123.23403581487867
+
+Hartigan: 2 clusters 250 points 98 rep. Mean: 367.91292394005524
+Smartigan: 2 clusters 250 points 98 rep. Mean: 367.91891817295146
+
+Hartigan: 2 clusters 250 points 99 rep. Mean: 124.5089148758761
+Smartigan: 2 clusters 250 points 99 rep. Mean: 124.5089148758761
+
+Hartigan: 2 clusters 500 points 0 rep. Mean: 741.0576768486051
+Smartigan: 2 clusters 500 points 0 rep. Mean: 741.0676777784503
+
+Hartigan: 2 clusters 500 points 1 rep. Mean: 249.74711632562133
+Smartigan: 2 clusters 500 points 1 rep. Mean: 249.74711632562133
+
+Hartigan: 2 clusters 500 points 2 rep. Mean: 733.6321875664254
+Smartigan: 2 clusters 500 points 2 rep. Mean: 733.6418714312297
+
+Hartigan: 2 clusters 500 points 3 rep. Mean: 247.91375906729877
+Smartigan: 2 clusters 500 points 3 rep. Mean: 247.91375906729877
+
+Hartigan: 2 clusters 500 points 4 rep. Mean: 741.3259163825335
+Smartigan: 2 clusters 500 points 4 rep. Mean: 741.3283818864522
+
+Hartigan: 2 clusters 500 points 5 rep. Mean: 249.24617209694574
+Smartigan: 2 clusters 500 points 5 rep. Mean: 249.24617209694574
+
+Hartigan: 2 clusters 500 points 6 rep. Mean: 743.3499949246695
+Smartigan: 2 clusters 500 points 6 rep. Mean: 743.348176781273
+
+Hartigan: 2 clusters 500 points 7 rep. Mean: 250.98150561170877
+Smartigan: 2 clusters 500 points 7 rep. Mean: 250.98150561170877
+
+Hartigan: 2 clusters 500 points 8 rep. Mean: 735.0689908255836
+Smartigan: 2 clusters 500 points 8 rep. Mean: 735.0813983561882
+
+Hartigan: 2 clusters 500 points 9 rep. Mean: 249.04091957552728
+Smartigan: 2 clusters 500 points 9 rep. Mean: 249.04091957552728
+
+Hartigan: 2 clusters 500 points 10 rep. Mean: 728.3874202279563
+Smartigan: 2 clusters 500 points 10 rep. Mean: 728.5163682442449
+
+Hartigan: 2 clusters 500 points 11 rep. Mean: 247.0853668602093
+Smartigan: 2 clusters 500 points 11 rep. Mean: 247.0853668602093
+
+Hartigan: 2 clusters 500 points 12 rep. Mean: 743.4341431533855
+Smartigan: 2 clusters 500 points 12 rep. Mean: 743.4554804130063
+
+Hartigan: 2 clusters 500 points 13 rep. Mean: 250.77114515546108
+Smartigan: 2 clusters 500 points 13 rep. Mean: 250.77114515546108
+
+Hartigan: 2 clusters 500 points 14 rep. Mean: 730.3840012993574
+Smartigan: 2 clusters 500 points 14 rep. Mean: 730.3906191728106
+
+Hartigan: 2 clusters 500 points 15 rep. Mean: 246.39713843623423
+Smartigan: 2 clusters 500 points 15 rep. Mean: 246.39713843623423
+
+Hartigan: 2 clusters 500 points 16 rep. Mean: 726.6479393978254
+Smartigan: 2 clusters 500 points 16 rep. Mean: 726.6538603880101
+
+Hartigan: 2 clusters 500 points 17 rep. Mean: 244.5813220394719
+Smartigan: 2 clusters 500 points 17 rep. Mean: 244.5813220394719
+
+Hartigan: 2 clusters 500 points 18 rep. Mean: 744.3732135791201
+Smartigan: 2 clusters 500 points 18 rep. Mean: 744.3785576731909
+
+Hartigan: 2 clusters 500 points 19 rep. Mean: 250.87361779568897
+Smartigan: 2 clusters 500 points 19 rep. Mean: 250.87361779568897
+
+Hartigan: 2 clusters 500 points 20 rep. Mean: 737.8067869893888
+Smartigan: 2 clusters 500 points 20 rep. Mean: 737.8078805017382
+
+Hartigan: 2 clusters 500 points 21 rep. Mean: 247.95821359909192
+Smartigan: 2 clusters 500 points 21 rep. Mean: 247.99557428700354
+
+Hartigan: 2 clusters 500 points 22 rep. Mean: 745.7103044389474
+Smartigan: 2 clusters 500 points 22 rep. Mean: 745.7216558644228
+
+Hartigan: 2 clusters 500 points 23 rep. Mean: 251.65041442995712
+Smartigan: 2 clusters 500 points 23 rep. Mean: 251.65041442995712
+
+Hartigan: 2 clusters 500 points 24 rep. Mean: 733.2615269679535
+Smartigan: 2 clusters 500 points 24 rep. Mean: 733.2697340035934
+
+Hartigan: 2 clusters 500 points 25 rep. Mean: 247.2450761953878
+Smartigan: 2 clusters 500 points 25 rep. Mean: 247.2450761953878
+
+Hartigan: 2 clusters 500 points 26 rep. Mean: 732.0618093109895
+Smartigan: 2 clusters 500 points 26 rep. Mean: 732.0859824808132
+
+Hartigan: 2 clusters 500 points 27 rep. Mean: 246.61831628184035
+Smartigan: 2 clusters 500 points 27 rep. Mean: 246.61831628184035
+
+Hartigan: 2 clusters 500 points 28 rep. Mean: 736.2336185397761
+Smartigan: 2 clusters 500 points 28 rep. Mean: 736.2458943414548
+
+Hartigan: 2 clusters 500 points 29 rep. Mean: 248.69175390851257
+Smartigan: 2 clusters 500 points 29 rep. Mean: 248.69175390851257
+
+Hartigan: 2 clusters 500 points 30 rep. Mean: 733.9962530286944
+Smartigan: 2 clusters 500 points 30 rep. Mean: 734.0484747799892
+
+Hartigan: 2 clusters 500 points 31 rep. Mean: 247.97344793559068
+Smartigan: 2 clusters 500 points 31 rep. Mean: 247.97344793559068
+
+Hartigan: 2 clusters 500 points 32 rep. Mean: 726.1077268747752
+Smartigan: 2 clusters 500 points 32 rep. Mean: 726.1279470290887
+
+Hartigan: 2 clusters 500 points 33 rep. Mean: 248.1922493222433
+Smartigan: 2 clusters 500 points 33 rep. Mean: 248.1922493222433
+
+Hartigan: 2 clusters 500 points 34 rep. Mean: 732.4003128893034
+Smartigan: 2 clusters 500 points 34 rep. Mean: 732.4408515269803
+
+Hartigan: 2 clusters 500 points 35 rep. Mean: 247.90666819883094
+Smartigan: 2 clusters 500 points 35 rep. Mean: 247.90666819883094
+
+Hartigan: 2 clusters 500 points 36 rep. Mean: 740.0294279796519
+Smartigan: 2 clusters 500 points 36 rep. Mean: 740.0407267897235
+
+Hartigan: 2 clusters 500 points 37 rep. Mean: 249.45001204431045
+Smartigan: 2 clusters 500 points 37 rep. Mean: 249.45001204431045
+
+Hartigan: 2 clusters 500 points 38 rep. Mean: 726.0396468037118
+Smartigan: 2 clusters 500 points 38 rep. Mean: 726.1073447501914
+
+Hartigan: 2 clusters 500 points 39 rep. Mean: 247.12636670922424
+Smartigan: 2 clusters 500 points 39 rep. Mean: 247.12636670922424
+
+Hartigan: 2 clusters 500 points 40 rep. Mean: 741.3102555696047
+Smartigan: 2 clusters 500 points 40 rep. Mean: 741.315547201247
+
+Hartigan: 2 clusters 500 points 41 rep. Mean: 250.65245647329198
+Smartigan: 2 clusters 500 points 41 rep. Mean: 250.65245647329198
+
+Hartigan: 2 clusters 500 points 42 rep. Mean: 738.063027234464
+Smartigan: 2 clusters 500 points 42 rep. Mean: 738.0858265915883
+
+Hartigan: 2 clusters 500 points 43 rep. Mean: 250.19416877594784
+Smartigan: 2 clusters 500 points 43 rep. Mean: 250.19416877594784
+
+Hartigan: 2 clusters 500 points 44 rep. Mean: 737.3013918872301
+Smartigan: 2 clusters 500 points 44 rep. Mean: 737.3099988824234
+
+Hartigan: 2 clusters 500 points 45 rep. Mean: 248.33716458007194
+Smartigan: 2 clusters 500 points 45 rep. Mean: 248.33716458007194
+
+Hartigan: 2 clusters 500 points 46 rep. Mean: 736.633683534993
+Smartigan: 2 clusters 500 points 46 rep. Mean: 736.6479184697489
+
+Hartigan: 2 clusters 500 points 47 rep. Mean: 248.2141929909485
+Smartigan: 2 clusters 500 points 47 rep. Mean: 248.2141929909485
+
+Hartigan: 2 clusters 500 points 48 rep. Mean: 742.877128306028
+Smartigan: 2 clusters 500 points 48 rep. Mean: 742.8899951032616
+
+Hartigan: 2 clusters 500 points 49 rep. Mean: 250.21897275262646
+Smartigan: 2 clusters 500 points 49 rep. Mean: 250.21897275262646
+
+Hartigan: 2 clusters 500 points 50 rep. Mean: 738.2814902044541
+Smartigan: 2 clusters 500 points 50 rep. Mean: 738.2997890249644
+
+Hartigan: 2 clusters 500 points 51 rep. Mean: 249.1816992079166
+Smartigan: 2 clusters 500 points 51 rep. Mean: 249.1816992079166
+
+Hartigan: 2 clusters 500 points 52 rep. Mean: 734.5482070117602
+Smartigan: 2 clusters 500 points 52 rep. Mean: 734.5560026130995
+
+Hartigan: 2 clusters 500 points 53 rep. Mean: 247.17911604014049
+Smartigan: 2 clusters 500 points 53 rep. Mean: 247.17911604014049
+
+Hartigan: 2 clusters 500 points 54 rep. Mean: 729.9624926987337
+Smartigan: 2 clusters 500 points 54 rep. Mean: 729.9675184247669
+
+Hartigan: 2 clusters 500 points 55 rep. Mean: 246.65924388891986
+Smartigan: 2 clusters 500 points 55 rep. Mean: 246.65924388891986
+
+Hartigan: 2 clusters 500 points 56 rep. Mean: 747.2150635157149
+Smartigan: 2 clusters 500 points 56 rep. Mean: 747.2228248350867
+
+Hartigan: 2 clusters 500 points 57 rep. Mean: 251.99708062654076
+Smartigan: 2 clusters 500 points 57 rep. Mean: 251.99708062654076
+
+Hartigan: 2 clusters 500 points 58 rep. Mean: 741.248195328586
+Smartigan: 2 clusters 500 points 58 rep. Mean: 741.2688025156885
+
+Hartigan: 2 clusters 500 points 59 rep. Mean: 250.12208867336125
+Smartigan: 2 clusters 500 points 59 rep. Mean: 250.12208867336125
+
+Hartigan: 2 clusters 500 points 60 rep. Mean: 739.2234102116822
+Smartigan: 2 clusters 500 points 60 rep. Mean: 739.2259965184804
+
+Hartigan: 2 clusters 500 points 61 rep. Mean: 248.50754118617277
+Smartigan: 2 clusters 500 points 61 rep. Mean: 248.50754118617277
+
+Hartigan: 2 clusters 500 points 62 rep. Mean: 737.3179121815922
+Smartigan: 2 clusters 500 points 62 rep. Mean: 737.3250483817085
+
+Hartigan: 2 clusters 500 points 63 rep. Mean: 249.14881727009976
+Smartigan: 2 clusters 500 points 63 rep. Mean: 249.14881727009976
+
+Hartigan: 2 clusters 500 points 64 rep. Mean: 742.3482142551017
+Smartigan: 2 clusters 500 points 64 rep. Mean: 742.3490657258698
+
+Hartigan: 2 clusters 500 points 65 rep. Mean: 249.3864001296216
+Smartigan: 2 clusters 500 points 65 rep. Mean: 249.3864001296216
+
+Hartigan: 2 clusters 500 points 66 rep. Mean: 736.3571490357821
+Smartigan: 2 clusters 500 points 66 rep. Mean: 736.3618694436019
+
+Hartigan: 2 clusters 500 points 67 rep. Mean: 249.16648216341127
+Smartigan: 2 clusters 500 points 67 rep. Mean: 249.16648216341127
+
+Hartigan: 2 clusters 500 points 68 rep. Mean: 734.980249132281
+Smartigan: 2 clusters 500 points 68 rep. Mean: 734.9908793143535
+
+Hartigan: 2 clusters 500 points 69 rep. Mean: 249.51871407671464
+Smartigan: 2 clusters 500 points 69 rep. Mean: 249.51871407671464
+
+Hartigan: 2 clusters 500 points 70 rep. Mean: 741.5455725841241
+Smartigan: 2 clusters 500 points 70 rep. Mean: 741.5511798612995
+
+Hartigan: 2 clusters 500 points 71 rep. Mean: 250.37328347482088
+Smartigan: 2 clusters 500 points 71 rep. Mean: 250.37328347482088
+
+Hartigan: 2 clusters 500 points 72 rep. Mean: 741.3725322589012
+Smartigan: 2 clusters 500 points 72 rep. Mean: 741.3772743804298
+
+Hartigan: 2 clusters 500 points 73 rep. Mean: 249.7812709843939
+Smartigan: 2 clusters 500 points 73 rep. Mean: 249.7812709843939
+
+Hartigan: 2 clusters 500 points 74 rep. Mean: 736.8429734708632
+Smartigan: 2 clusters 500 points 74 rep. Mean: 736.8458067376106
+
+Hartigan: 2 clusters 500 points 75 rep. Mean: 248.47102340201656
+Smartigan: 2 clusters 500 points 75 rep. Mean: 248.47102340201656
+
+Hartigan: 2 clusters 500 points 76 rep. Mean: 738.3072457125852
+Smartigan: 2 clusters 500 points 76 rep. Mean: 738.3216906600954
+
+Hartigan: 2 clusters 500 points 77 rep. Mean: 249.42279006030822
+Smartigan: 2 clusters 500 points 77 rep. Mean: 249.42279006030816
+
+Hartigan: 2 clusters 500 points 78 rep. Mean: 730.6129299839934
+Smartigan: 2 clusters 500 points 78 rep. Mean: 730.6129299839934
+
+Hartigan: 2 clusters 500 points 79 rep. Mean: 245.32745632837086
+Smartigan: 2 clusters 500 points 79 rep. Mean: 245.32745632837086
+
+Hartigan: 2 clusters 500 points 80 rep. Mean: 739.4222254244337
+Smartigan: 2 clusters 500 points 80 rep. Mean: 739.4331805455741
+
+Hartigan: 2 clusters 500 points 81 rep. Mean: 248.2417619748566
+Smartigan: 2 clusters 500 points 81 rep. Mean: 248.2417619748566
+
+Hartigan: 2 clusters 500 points 82 rep. Mean: 735.1139889853013
+Smartigan: 2 clusters 500 points 82 rep. Mean: 735.003417677945
+
+Hartigan: 2 clusters 500 points 83 rep. Mean: 248.93944258640263
+Smartigan: 2 clusters 500 points 83 rep. Mean: 248.94395365936742
+
+Hartigan: 2 clusters 500 points 84 rep. Mean: 736.9489526952791
+Smartigan: 2 clusters 500 points 84 rep. Mean: 736.9555194502032
+
+Hartigan: 2 clusters 500 points 85 rep. Mean: 249.03418443085758
+Smartigan: 2 clusters 500 points 85 rep. Mean: 249.03418443085758
+
+Hartigan: 2 clusters 500 points 86 rep. Mean: 744.2292966163172
+Smartigan: 2 clusters 500 points 86 rep. Mean: 744.2349921579287
+
+Hartigan: 2 clusters 500 points 87 rep. Mean: 250.85294065994702
+Smartigan: 2 clusters 500 points 87 rep. Mean: 250.85294065994702
+
+Hartigan: 2 clusters 500 points 88 rep. Mean: 739.7983068662678
+Smartigan: 2 clusters 500 points 88 rep. Mean: 739.8177898229571
+
+Hartigan: 2 clusters 500 points 89 rep. Mean: 249.6884880646998
+Smartigan: 2 clusters 500 points 89 rep. Mean: 249.6884880646998
+
+Hartigan: 2 clusters 500 points 90 rep. Mean: 733.6194421630441
+Smartigan: 2 clusters 500 points 90 rep. Mean: 733.629776564097
+
+Hartigan: 2 clusters 500 points 91 rep. Mean: 247.22430104790328
+Smartigan: 2 clusters 500 points 91 rep. Mean: 247.22430104790328
+
+Hartigan: 2 clusters 500 points 92 rep. Mean: 735.9321289350661
+Smartigan: 2 clusters 500 points 92 rep. Mean: 735.9339580174081
+
+Hartigan: 2 clusters 500 points 93 rep. Mean: 247.70586405566692
+Smartigan: 2 clusters 500 points 93 rep. Mean: 247.70586405566692
+
+Hartigan: 2 clusters 500 points 94 rep. Mean: 744.7393061730974
+Smartigan: 2 clusters 500 points 94 rep. Mean: 744.7384826100854
+
+Hartigan: 2 clusters 500 points 95 rep. Mean: 251.5095471101875
+Smartigan: 2 clusters 500 points 95 rep. Mean: 251.5095471101875
+
+Hartigan: 2 clusters 500 points 96 rep. Mean: 757.9664316570415
+Smartigan: 2 clusters 500 points 96 rep. Mean: 757.9737320602791
+
+Hartigan: 2 clusters 500 points 97 rep. Mean: 254.6894810010589
+Smartigan: 2 clusters 500 points 97 rep. Mean: 254.6894810010589
+
+Hartigan: 2 clusters 500 points 98 rep. Mean: 722.9623550419998
+Smartigan: 2 clusters 500 points 98 rep. Mean: 722.9987671216174
+
+Hartigan: 2 clusters 500 points 99 rep. Mean: 245.53418197860543
+Smartigan: 2 clusters 500 points 99 rep. Mean: 245.53418197860543
+
+Hartigan: 2 clusters 1000 points 0 rep. Mean: 1490.5472018974851
+Smartigan: 2 clusters 1000 points 0 rep. Mean: 1490.5757393049842
+
+Hartigan: 2 clusters 1000 points 1 rep. Mean: 502.7591013365618
+Smartigan: 2 clusters 1000 points 1 rep. Mean: 502.7591013365618
+
+Hartigan: 2 clusters 1000 points 2 rep. Mean: 1477.6117592107294
+Smartigan: 2 clusters 1000 points 2 rep. Mean: 1477.6165584016503
+
+Hartigan: 2 clusters 1000 points 3 rep. Mean: 499.29705720870334
+Smartigan: 2 clusters 1000 points 3 rep. Mean: 499.29705720870334
+
+Hartigan: 2 clusters 1000 points 4 rep. Mean: 1468.3057989447068
+Smartigan: 2 clusters 1000 points 4 rep. Mean: 1468.3152968640902
+
+Hartigan: 2 clusters 1000 points 5 rep. Mean: 496.95906721841084
+Smartigan: 2 clusters 1000 points 5 rep. Mean: 496.95906721841084
+
+Hartigan: 2 clusters 1000 points 6 rep. Mean: 1479.6528646742051
+Smartigan: 2 clusters 1000 points 6 rep. Mean: 1479.6541674464636
+
+Hartigan: 2 clusters 1000 points 7 rep. Mean: 499.3949654733812
+Smartigan: 2 clusters 1000 points 7 rep. Mean: 499.3949654733812
+
+Hartigan: 2 clusters 1000 points 8 rep. Mean: 1470.1592410296062
+Smartigan: 2 clusters 1000 points 8 rep. Mean: 1470.1684383383065
+
+Hartigan: 2 clusters 1000 points 9 rep. Mean: 497.19343194912045
+Smartigan: 2 clusters 1000 points 9 rep. Mean: 497.19343194912045
+
+Hartigan: 2 clusters 1000 points 10 rep. Mean: 1478.550758436761
+Smartigan: 2 clusters 1000 points 10 rep. Mean: 1478.5584362769446
+
+Hartigan: 2 clusters 1000 points 11 rep. Mean: 497.6728865371318
+Smartigan: 2 clusters 1000 points 11 rep. Mean: 497.6728865371318
+
+Hartigan: 2 clusters 1000 points 12 rep. Mean: 1474.8942344827067
+Smartigan: 2 clusters 1000 points 12 rep. Mean: 1474.9010321451337
+
+Hartigan: 2 clusters 1000 points 13 rep. Mean: 499.0206517445069
+Smartigan: 2 clusters 1000 points 13 rep. Mean: 499.0206517445069
+
+Hartigan: 2 clusters 1000 points 14 rep. Mean: 1491.3529532903399
+Smartigan: 2 clusters 1000 points 14 rep. Mean: 1491.356665951628
+
+Hartigan: 2 clusters 1000 points 15 rep. Mean: 500.03515409314707
+Smartigan: 2 clusters 1000 points 15 rep. Mean: 500.03515409314707
+
+Hartigan: 2 clusters 1000 points 16 rep. Mean: 1475.3423032269045
+Smartigan: 2 clusters 1000 points 16 rep. Mean: 1475.3512969079568
+
+Hartigan: 2 clusters 1000 points 17 rep. Mean: 498.28501183061564
+Smartigan: 2 clusters 1000 points 17 rep. Mean: 498.28501183061564
+
+Hartigan: 2 clusters 1000 points 18 rep. Mean: 1471.806641281908
+Smartigan: 2 clusters 1000 points 18 rep. Mean: 1471.8184783284125
+
+Hartigan: 2 clusters 1000 points 19 rep. Mean: 497.7507289315584
+Smartigan: 2 clusters 1000 points 19 rep. Mean: 497.7507289315584
+
+Hartigan: 2 clusters 1000 points 20 rep. Mean: 1479.4324443670546
+Smartigan: 2 clusters 1000 points 20 rep. Mean: 1479.4464676443952
+
+Hartigan: 2 clusters 1000 points 21 rep. Mean: 498.842149743117
+Smartigan: 2 clusters 1000 points 21 rep. Mean: 498.842149743117
+
+Hartigan: 2 clusters 1000 points 22 rep. Mean: 1481.6718212030567
+Smartigan: 2 clusters 1000 points 22 rep. Mean: 1481.6793858694364
+
+Hartigan: 2 clusters 1000 points 23 rep. Mean: 499.414690855338
+Smartigan: 2 clusters 1000 points 23 rep. Mean: 499.414690855338
+
+Hartigan: 2 clusters 1000 points 24 rep. Mean: 1473.0273628591362
+Smartigan: 2 clusters 1000 points 24 rep. Mean: 1473.0664785064905
+
+Hartigan: 2 clusters 1000 points 25 rep. Mean: 498.6657933104665
+Smartigan: 2 clusters 1000 points 25 rep. Mean: 498.6657933104665
+
+Hartigan: 2 clusters 1000 points 26 rep. Mean: 1489.6932219699752
+Smartigan: 2 clusters 1000 points 26 rep. Mean: 1489.707612267136
+
+Hartigan: 2 clusters 1000 points 27 rep. Mean: 501.47055231805024
+Smartigan: 2 clusters 1000 points 27 rep. Mean: 501.47055231805024
+
+Hartigan: 2 clusters 1000 points 28 rep. Mean: 1485.5264047310625
+Smartigan: 2 clusters 1000 points 28 rep. Mean: 1485.5289915637316
+
+Hartigan: 2 clusters 1000 points 29 rep. Mean: 498.372888686474
+Smartigan: 2 clusters 1000 points 29 rep. Mean: 498.372888686474
+
+Hartigan: 2 clusters 1000 points 30 rep. Mean: 1457.3031911194862
+Smartigan: 2 clusters 1000 points 30 rep. Mean: 1457.3080688067334
+
+Hartigan: 2 clusters 1000 points 31 rep. Mean: 493.9582822127538
+Smartigan: 2 clusters 1000 points 31 rep. Mean: 493.9582822127538
+
+Hartigan: 2 clusters 1000 points 32 rep. Mean: 1470.8462614968173
+Smartigan: 2 clusters 1000 points 32 rep. Mean: 1470.8474448399718
+
+Hartigan: 2 clusters 1000 points 33 rep. Mean: 495.0784340761781
+Smartigan: 2 clusters 1000 points 33 rep. Mean: 495.0784340761781
+
+Hartigan: 2 clusters 1000 points 34 rep. Mean: 1473.6258681398506
+Smartigan: 2 clusters 1000 points 34 rep. Mean: 1473.6258681398506
+
+Hartigan: 2 clusters 1000 points 35 rep. Mean: 494.15119631936057
+Smartigan: 2 clusters 1000 points 35 rep. Mean: 494.15119631936057
+
+Hartigan: 2 clusters 1000 points 36 rep. Mean: 1497.6573684008608
+Smartigan: 2 clusters 1000 points 36 rep. Mean: 1497.6602721799031
+
+Hartigan: 2 clusters 1000 points 37 rep. Mean: 505.4491498983175
+Smartigan: 2 clusters 1000 points 37 rep. Mean: 505.4491498983175
+
+Hartigan: 2 clusters 1000 points 38 rep. Mean: 1473.9377041703585
+Smartigan: 2 clusters 1000 points 38 rep. Mean: 1473.9471856643877
+
+Hartigan: 2 clusters 1000 points 39 rep. Mean: 499.79901861097017
+Smartigan: 2 clusters 1000 points 39 rep. Mean: 499.79901861097017
+
+Hartigan: 2 clusters 1000 points 40 rep. Mean: 1474.5685551339616
+Smartigan: 2 clusters 1000 points 40 rep. Mean: 1474.5804672409158
+
+Hartigan: 2 clusters 1000 points 41 rep. Mean: 499.53255810860065
+Smartigan: 2 clusters 1000 points 41 rep. Mean: 499.53255810860065
+
+Hartigan: 2 clusters 1000 points 42 rep. Mean: 1484.819907075916
+Smartigan: 2 clusters 1000 points 42 rep. Mean: 1484.8299846627438
+
+Hartigan: 2 clusters 1000 points 43 rep. Mean: 501.0658791991913
+Smartigan: 2 clusters 1000 points 43 rep. Mean: 501.0658791991913
+
+Hartigan: 2 clusters 1000 points 44 rep. Mean: 1490.4061087663704
+Smartigan: 2 clusters 1000 points 44 rep. Mean: 1490.4161626112332
+
+Hartigan: 2 clusters 1000 points 45 rep. Mean: 503.24981980457335
+Smartigan: 2 clusters 1000 points 45 rep. Mean: 503.24981980457335
+
+Hartigan: 2 clusters 1000 points 46 rep. Mean: 1490.3181555264587
+Smartigan: 2 clusters 1000 points 46 rep. Mean: 1490.3241129989296
+
+Hartigan: 2 clusters 1000 points 47 rep. Mean: 502.6177836002689
+Smartigan: 2 clusters 1000 points 47 rep. Mean: 502.6177836002689
+
+Hartigan: 2 clusters 1000 points 48 rep. Mean: 1478.6558801440885
+Smartigan: 2 clusters 1000 points 48 rep. Mean: 1478.6694185568824
+
+Hartigan: 2 clusters 1000 points 49 rep. Mean: 498.9782374863631
+Smartigan: 2 clusters 1000 points 49 rep. Mean: 498.9782374863631
+
+Hartigan: 2 clusters 1000 points 50 rep. Mean: 1482.5860986773394
+Smartigan: 2 clusters 1000 points 50 rep. Mean: 1482.5889176019489
+
+Hartigan: 2 clusters 1000 points 51 rep. Mean: 498.57718418464293
+Smartigan: 2 clusters 1000 points 51 rep. Mean: 498.57718418464293
+
+Hartigan: 2 clusters 1000 points 52 rep. Mean: 1463.7330791529048
+Smartigan: 2 clusters 1000 points 52 rep. Mean: 1464.4120099098484
+
+Hartigan: 2 clusters 1000 points 53 rep. Mean: 496.98222688165436
+Smartigan: 2 clusters 1000 points 53 rep. Mean: 496.98222688165436
+
+Hartigan: 2 clusters 1000 points 54 rep. Mean: 1483.2727373777545
+Smartigan: 2 clusters 1000 points 54 rep. Mean: 1483.2745954499592
+
+Hartigan: 2 clusters 1000 points 55 rep. Mean: 499.0558081668881
+Smartigan: 2 clusters 1000 points 55 rep. Mean: 499.0558081668881
+
+Hartigan: 2 clusters 1000 points 56 rep. Mean: 1475.5813688044414
+Smartigan: 2 clusters 1000 points 56 rep. Mean: 1475.6147103520168
+
+Hartigan: 2 clusters 1000 points 57 rep. Mean: 497.9125696732661
+Smartigan: 2 clusters 1000 points 57 rep. Mean: 497.9125696732661
+
+Hartigan: 2 clusters 1000 points 58 rep. Mean: 1486.7473761817469
+Smartigan: 2 clusters 1000 points 58 rep. Mean: 1486.7531756914607
+
+Hartigan: 2 clusters 1000 points 59 rep. Mean: 500.3783129738872
+Smartigan: 2 clusters 1000 points 59 rep. Mean: 500.3783129738872
+
+Hartigan: 2 clusters 1000 points 60 rep. Mean: 1480.2168921700381
+Smartigan: 2 clusters 1000 points 60 rep. Mean: 1480.2192233905694
+
+Hartigan: 2 clusters 1000 points 61 rep. Mean: 497.6409333586682
+Smartigan: 2 clusters 1000 points 61 rep. Mean: 497.6409333586682
+
+Hartigan: 2 clusters 1000 points 62 rep. Mean: 1478.1487882956806
+Smartigan: 2 clusters 1000 points 62 rep. Mean: 1478.1773112119363
+
+Hartigan: 2 clusters 1000 points 63 rep. Mean: 499.56959679226475
+Smartigan: 2 clusters 1000 points 63 rep. Mean: 499.56959679226475
+
+Hartigan: 2 clusters 1000 points 64 rep. Mean: 1464.7544608252047
+Smartigan: 2 clusters 1000 points 64 rep. Mean: 1464.7698217882244
+
+Hartigan: 2 clusters 1000 points 65 rep. Mean: 497.3833527380457
+Smartigan: 2 clusters 1000 points 65 rep. Mean: 497.3833527380457
+
+Hartigan: 2 clusters 1000 points 66 rep. Mean: 1486.176692490396
+Smartigan: 2 clusters 1000 points 66 rep. Mean: 1486.1780253834302
+
+Hartigan: 2 clusters 1000 points 67 rep. Mean: 500.22938458878514
+Smartigan: 2 clusters 1000 points 67 rep. Mean: 500.22938458878514
+
+Hartigan: 2 clusters 1000 points 68 rep. Mean: 1481.475084035861
+Smartigan: 2 clusters 1000 points 68 rep. Mean: 1481.475084035861
+
+Hartigan: 2 clusters 1000 points 69 rep. Mean: 497.33776754529083
+Smartigan: 2 clusters 1000 points 69 rep. Mean: 497.33776754529083
+
+Hartigan: 2 clusters 1000 points 70 rep. Mean: 1489.2722428021518
+Smartigan: 2 clusters 1000 points 70 rep. Mean: 1489.2758201102433
+
+Hartigan: 2 clusters 1000 points 71 rep. Mean: 500.7104068237318
+Smartigan: 2 clusters 1000 points 71 rep. Mean: 500.7104068237318
+
+Hartigan: 2 clusters 1000 points 72 rep. Mean: 1480.8236752203306
+Smartigan: 2 clusters 1000 points 72 rep. Mean: 1480.8477848463492
+
+Hartigan: 2 clusters 1000 points 73 rep. Mean: 502.4738891274154
+Smartigan: 2 clusters 1000 points 73 rep. Mean: 502.4738891274154
+
+Hartigan: 2 clusters 1000 points 74 rep. Mean: 1479.9514150274465
+Smartigan: 2 clusters 1000 points 74 rep. Mean: 1479.9597445391273
+
+Hartigan: 2 clusters 1000 points 75 rep. Mean: 498.9093502860678
+Smartigan: 2 clusters 1000 points 75 rep. Mean: 498.9093502860678
+
+Hartigan: 2 clusters 1000 points 76 rep. Mean: 1488.959342630275
+Smartigan: 2 clusters 1000 points 76 rep. Mean: 1488.9641365716557
+
+Hartigan: 2 clusters 1000 points 77 rep. Mean: 501.06885273166745
+Smartigan: 2 clusters 1000 points 77 rep. Mean: 501.06885273166745
+
+Hartigan: 2 clusters 1000 points 78 rep. Mean: 1476.2182923573566
+Smartigan: 2 clusters 1000 points 78 rep. Mean: 1476.2220478987124
+
+Hartigan: 2 clusters 1000 points 79 rep. Mean: 498.44545769334536
+Smartigan: 2 clusters 1000 points 79 rep. Mean: 498.44545769334536
+
+Hartigan: 2 clusters 1000 points 80 rep. Mean: 1462.9806459956858
+Smartigan: 2 clusters 1000 points 80 rep. Mean: 1463.0068391131385
+
+Hartigan: 2 clusters 1000 points 81 rep. Mean: 496.9531515661579
+Smartigan: 2 clusters 1000 points 81 rep. Mean: 496.9531515661579
+
+Hartigan: 2 clusters 1000 points 82 rep. Mean: 1485.1646785001878
+Smartigan: 2 clusters 1000 points 82 rep. Mean: 1485.180090976667
+
+Hartigan: 2 clusters 1000 points 83 rep. Mean: 501.51025278614327
+Smartigan: 2 clusters 1000 points 83 rep. Mean: 501.51025278614327
+
+Hartigan: 2 clusters 1000 points 84 rep. Mean: 1471.318479407401
+Smartigan: 2 clusters 1000 points 84 rep. Mean: 1471.3742005459007
+
+Hartigan: 2 clusters 1000 points 85 rep. Mean: 498.364900015615
+Smartigan: 2 clusters 1000 points 85 rep. Mean: 498.364900015615
+
+Hartigan: 2 clusters 1000 points 86 rep. Mean: 1489.7105448864183
+Smartigan: 2 clusters 1000 points 86 rep. Mean: 1489.710662688059
+
+Hartigan: 2 clusters 1000 points 87 rep. Mean: 500.0767992746728
+Smartigan: 2 clusters 1000 points 87 rep. Mean: 500.0767992746728
+
+Hartigan: 2 clusters 1000 points 88 rep. Mean: 1473.921617463954
+Smartigan: 2 clusters 1000 points 88 rep. Mean: 1473.9505791132851
+
+Hartigan: 2 clusters 1000 points 89 rep. Mean: 498.35409676145275
+Smartigan: 2 clusters 1000 points 89 rep. Mean: 498.35409676145275
+
+Hartigan: 2 clusters 1000 points 90 rep. Mean: 1490.2593015714956
+Smartigan: 2 clusters 1000 points 90 rep. Mean: 1490.2609135778423
+
+Hartigan: 2 clusters 1000 points 91 rep. Mean: 502.2450407174347
+Smartigan: 2 clusters 1000 points 91 rep. Mean: 502.2450407174347
+
+Hartigan: 2 clusters 1000 points 92 rep. Mean: 1483.9052079796406
+Smartigan: 2 clusters 1000 points 92 rep. Mean: 1483.9426674274205
+
+Hartigan: 2 clusters 1000 points 93 rep. Mean: 499.188230400821
+Smartigan: 2 clusters 1000 points 93 rep. Mean: 499.188230400821
+
+Hartigan: 2 clusters 1000 points 94 rep. Mean: 1460.5840354432753
+Smartigan: 2 clusters 1000 points 94 rep. Mean: 1460.5855391267028
+
+Hartigan: 2 clusters 1000 points 95 rep. Mean: 494.31687745056036
+Smartigan: 2 clusters 1000 points 95 rep. Mean: 494.31687745056036
+
+Hartigan: 2 clusters 1000 points 96 rep. Mean: 1477.2005069276706
+Smartigan: 2 clusters 1000 points 96 rep. Mean: 1477.2240573487823
+
+Hartigan: 2 clusters 1000 points 97 rep. Mean: 499.7134708642846
+Smartigan: 2 clusters 1000 points 97 rep. Mean: 499.7134708642846
+
+Hartigan: 2 clusters 1000 points 98 rep. Mean: 1493.593925062604
+Smartigan: 2 clusters 1000 points 98 rep. Mean: 1493.6018368963616
+
+Hartigan: 2 clusters 1000 points 99 rep. Mean: 500.7309023390088
+Smartigan: 2 clusters 1000 points 99 rep. Mean: 500.7309023390088
+
+Hartigan: 10 clusters 250 points 0 rep. Mean: 331.5452189069469
+Smartigan: 10 clusters 250 points 0 rep. Mean: 328.4092659188601
+
+Hartigan: 10 clusters 250 points 1 rep. Mean: 193.46171079394574
+Smartigan: 10 clusters 250 points 1 rep. Mean: 201.39282208274616
+
+Hartigan: 10 clusters 250 points 2 rep. Mean: 345.68348358394576
+Smartigan: 10 clusters 250 points 2 rep. Mean: 338.8186884933246
+
+Hartigan: 10 clusters 250 points 3 rep. Mean: 246.94011072642488
+Smartigan: 10 clusters 250 points 3 rep. Mean: 218.0563687516245
+
+Hartigan: 10 clusters 250 points 4 rep. Mean: 339.9110201170082
+Smartigan: 10 clusters 250 points 4 rep. Mean: 333.842363523348
+
+Hartigan: 10 clusters 250 points 5 rep. Mean: 243.26607438476526
+Smartigan: 10 clusters 250 points 5 rep. Mean: 215.26262536510814
+
+Hartigan: 10 clusters 250 points 6 rep. Mean: 338.03082922077806
+Smartigan: 10 clusters 250 points 6 rep. Mean: 329.1072884167322
+
+Hartigan: 10 clusters 250 points 7 rep. Mean: 212.13009116416288
+Smartigan: 10 clusters 250 points 7 rep. Mean: 198.12299200795218
+
+Hartigan: 10 clusters 250 points 8 rep. Mean: 334.60542931030835
+Smartigan: 10 clusters 250 points 8 rep. Mean: 328.86601765971534
+
+Hartigan: 10 clusters 250 points 9 rep. Mean: 262.07119577210665
+Smartigan: 10 clusters 250 points 9 rep. Mean: 220.9889986584667
+
+Hartigan: 10 clusters 250 points 10 rep. Mean: 333.8724198761016
+Smartigan: 10 clusters 250 points 10 rep. Mean: 332.85211756315846
+
+Hartigan: 10 clusters 250 points 11 rep. Mean: 261.6224078330379
+Smartigan: 10 clusters 250 points 11 rep. Mean: 201.5022693063741
+
+Hartigan: 10 clusters 250 points 12 rep. Mean: 336.2740715367249
+Smartigan: 10 clusters 250 points 12 rep. Mean: 333.77166159262754
+
+Hartigan: 10 clusters 250 points 13 rep. Mean: 223.45085126559928
+Smartigan: 10 clusters 250 points 13 rep. Mean: 248.51261140164328
+
+Hartigan: 10 clusters 250 points 14 rep. Mean: 323.568840020306
+Smartigan: 10 clusters 250 points 14 rep. Mean: 319.7811079434805
+
+Hartigan: 10 clusters 250 points 15 rep. Mean: 222.8231127649877
+Smartigan: 10 clusters 250 points 15 rep. Mean: 205.91152967985613
+
+Hartigan: 10 clusters 250 points 16 rep. Mean: 336.58951713083627
+Smartigan: 10 clusters 250 points 16 rep. Mean: 333.8206317672834
+
+Hartigan: 10 clusters 250 points 17 rep. Mean: 211.12161863087013
+Smartigan: 10 clusters 250 points 17 rep. Mean: 208.0391965447779
+
+Hartigan: 10 clusters 250 points 18 rep. Mean: 336.8877086795411
+Smartigan: 10 clusters 250 points 18 rep. Mean: 334.79352254380245
+
+Hartigan: 10 clusters 250 points 19 rep. Mean: 214.3433453839435
+Smartigan: 10 clusters 250 points 19 rep. Mean: 179.67554157654544
+
+Hartigan: 10 clusters 250 points 20 rep. Mean: 330.88996234917306
+Smartigan: 10 clusters 250 points 20 rep. Mean: 325.29918685588996
+
+Hartigan: 10 clusters 250 points 21 rep. Mean: 250.7981245241862
+Smartigan: 10 clusters 250 points 21 rep. Mean: 187.26279513837
+
+Hartigan: 10 clusters 250 points 22 rep. Mean: 329.2544495092827
+Smartigan: 10 clusters 250 points 22 rep. Mean: 323.0406631375984
+
+Hartigan: 10 clusters 250 points 23 rep. Mean: 216.12745658363352
+Smartigan: 10 clusters 250 points 23 rep. Mean: 221.7842618140081
+
+Hartigan: 10 clusters 250 points 24 rep. Mean: 334.6324876328287
+Smartigan: 10 clusters 250 points 24 rep. Mean: 326.7580457475906
+
+Hartigan: 10 clusters 250 points 25 rep. Mean: 253.4782962228513
+Smartigan: 10 clusters 250 points 25 rep. Mean: 213.8159306381498
+
+Hartigan: 10 clusters 250 points 26 rep. Mean: 331.43678083447344
+Smartigan: 10 clusters 250 points 26 rep. Mean: 326.35204510049493
+
+Hartigan: 10 clusters 250 points 27 rep. Mean: 227.29997631220448
+Smartigan: 10 clusters 250 points 27 rep. Mean: 197.79470129201246
+
+Hartigan: 10 clusters 250 points 28 rep. Mean: 332.0342219428695
+Smartigan: 10 clusters 250 points 28 rep. Mean: 326.815344774053
+
+Hartigan: 10 clusters 250 points 29 rep. Mean: 229.71920518351453
+Smartigan: 10 clusters 250 points 29 rep. Mean: 198.93644100172503
+
+Hartigan: 10 clusters 250 points 30 rep. Mean: 332.06123153658723
+Smartigan: 10 clusters 250 points 30 rep. Mean: 327.85311542846375
+
+Hartigan: 10 clusters 250 points 31 rep. Mean: 197.58236181968292
+Smartigan: 10 clusters 250 points 31 rep. Mean: 202.0570107644324
+
+Hartigan: 10 clusters 250 points 32 rep. Mean: 339.4137273872727
+Smartigan: 10 clusters 250 points 32 rep. Mean: 331.5423999288806
+
+Hartigan: 10 clusters 250 points 33 rep. Mean: 244.97023479102444
+Smartigan: 10 clusters 250 points 33 rep. Mean: 222.54250127323172
+
+Hartigan: 10 clusters 250 points 34 rep. Mean: 343.3475847602286
+Smartigan: 10 clusters 250 points 34 rep. Mean: 331.64107920073326
+
+Hartigan: 10 clusters 250 points 35 rep. Mean: 254.08326175217698
+Smartigan: 10 clusters 250 points 35 rep. Mean: 225.8264501455497
+
+Hartigan: 10 clusters 250 points 36 rep. Mean: 330.41318400707826
+Smartigan: 10 clusters 250 points 36 rep. Mean: 325.88563186052977
+
+Hartigan: 10 clusters 250 points 37 rep. Mean: 228.60241979665284
+Smartigan: 10 clusters 250 points 37 rep. Mean: 195.4341032318233
+
+Hartigan: 10 clusters 250 points 38 rep. Mean: 332.71048785869664
+Smartigan: 10 clusters 250 points 38 rep. Mean: 326.29768895360564
+
+Hartigan: 10 clusters 250 points 39 rep. Mean: 257.1636827220227
+Smartigan: 10 clusters 250 points 39 rep. Mean: 213.51739905268133
+
+Hartigan: 10 clusters 250 points 40 rep. Mean: 331.30571899466827
+Smartigan: 10 clusters 250 points 40 rep. Mean: 327.0258793703606
+
+Hartigan: 10 clusters 250 points 41 rep. Mean: 223.4808988324814
+Smartigan: 10 clusters 250 points 41 rep. Mean: 234.4094269222715
+
+Hartigan: 10 clusters 250 points 42 rep. Mean: 328.509761848139
+Smartigan: 10 clusters 250 points 42 rep. Mean: 326.3484999620866
+
+Hartigan: 10 clusters 250 points 43 rep. Mean: 206.51826582961607
+Smartigan: 10 clusters 250 points 43 rep. Mean: 193.04049755885347
+
+Hartigan: 10 clusters 250 points 44 rep. Mean: 335.87810098143586
+Smartigan: 10 clusters 250 points 44 rep. Mean: 331.9048547745534
+
+Hartigan: 10 clusters 250 points 45 rep. Mean: 247.99540301664064
+Smartigan: 10 clusters 250 points 45 rep. Mean: 217.6165079401867
+
+Hartigan: 10 clusters 250 points 46 rep. Mean: 336.403916792124
+Smartigan: 10 clusters 250 points 46 rep. Mean: 331.7697041646892
+
+Hartigan: 10 clusters 250 points 47 rep. Mean: 238.5853354276338
+Smartigan: 10 clusters 250 points 47 rep. Mean: 216.97540970752144
+
+Hartigan: 10 clusters 250 points 48 rep. Mean: 327.2256849325685
+Smartigan: 10 clusters 250 points 48 rep. Mean: 327.44815754239136
+
+Hartigan: 10 clusters 250 points 49 rep. Mean: 210.47601594414945
+Smartigan: 10 clusters 250 points 49 rep. Mean: 190.28548060023866
+
+Hartigan: 10 clusters 250 points 50 rep. Mean: 336.50361329294515
+Smartigan: 10 clusters 250 points 50 rep. Mean: 328.8240753042723
+
+Hartigan: 10 clusters 250 points 51 rep. Mean: 218.1462002862354
+Smartigan: 10 clusters 250 points 51 rep. Mean: 191.67280715715023
+
+Hartigan: 10 clusters 250 points 52 rep. Mean: 333.58487524207266
+Smartigan: 10 clusters 250 points 52 rep. Mean: 324.90780704747783
+
+Hartigan: 10 clusters 250 points 53 rep. Mean: 237.3399240575664
+Smartigan: 10 clusters 250 points 53 rep. Mean: 224.98367650754176
+
+Hartigan: 10 clusters 250 points 54 rep. Mean: 337.3960496035393
+Smartigan: 10 clusters 250 points 54 rep. Mean: 332.6514546944539
+
+Hartigan: 10 clusters 250 points 55 rep. Mean: 233.88292851255545
+Smartigan: 10 clusters 250 points 55 rep. Mean: 195.64392190243427
+
+Hartigan: 10 clusters 250 points 56 rep. Mean: 332.47076175967015
+Smartigan: 10 clusters 250 points 56 rep. Mean: 329.0290931994172
+
+Hartigan: 10 clusters 250 points 57 rep. Mean: 254.26231435108497
+Smartigan: 10 clusters 250 points 57 rep. Mean: 233.9922380098135
+
+Hartigan: 10 clusters 250 points 58 rep. Mean: 332.5060341558936
+Smartigan: 10 clusters 250 points 58 rep. Mean: 329.1299721767924
+
+Hartigan: 10 clusters 250 points 59 rep. Mean: 271.0047522458536
+Smartigan: 10 clusters 250 points 59 rep. Mean: 209.41975729048576
+
+Hartigan: 10 clusters 250 points 60 rep. Mean: 332.8067521805996
+Smartigan: 10 clusters 250 points 60 rep. Mean: 325.22057789662415
+
+Hartigan: 10 clusters 250 points 61 rep. Mean: 235.7356382859858
+Smartigan: 10 clusters 250 points 61 rep. Mean: 207.9244467629397
+
+Hartigan: 10 clusters 250 points 62 rep. Mean: 328.68655484244283
+Smartigan: 10 clusters 250 points 62 rep. Mean: 322.69591195067176
+
+Hartigan: 10 clusters 250 points 63 rep. Mean: 232.80318450956696
+Smartigan: 10 clusters 250 points 63 rep. Mean: 196.2290411121376
+
+Hartigan: 10 clusters 250 points 64 rep. Mean: 333.06269307893206
+Smartigan: 10 clusters 250 points 64 rep. Mean: 326.2039226543744
+
+Hartigan: 10 clusters 250 points 65 rep. Mean: 199.4009089282267
+Smartigan: 10 clusters 250 points 65 rep. Mean: 174.6523924018888
+
+Hartigan: 10 clusters 250 points 66 rep. Mean: 322.10187798790173
+Smartigan: 10 clusters 250 points 66 rep. Mean: 318.3343393652653
+
+Hartigan: 10 clusters 250 points 67 rep. Mean: 193.1892584327649
+Smartigan: 10 clusters 250 points 67 rep. Mean: 178.52888075193295
+
+Hartigan: 10 clusters 250 points 68 rep. Mean: 331.82202181314835
+Smartigan: 10 clusters 250 points 68 rep. Mean: 330.08852592048123
+
+Hartigan: 10 clusters 250 points 69 rep. Mean: 229.3146703208944
+Smartigan: 10 clusters 250 points 69 rep. Mean: 194.28309777281981
+
+Hartigan: 10 clusters 250 points 70 rep. Mean: 330.1426170189438
+Smartigan: 10 clusters 250 points 70 rep. Mean: 327.5981053906927
+
+Hartigan: 10 clusters 250 points 71 rep. Mean: 238.1205307269152
+Smartigan: 10 clusters 250 points 71 rep. Mean: 200.8480707766634
+
+Hartigan: 10 clusters 250 points 72 rep. Mean: 329.79285661431453
+Smartigan: 10 clusters 250 points 72 rep. Mean: 321.2424473961087
+
+Hartigan: 10 clusters 250 points 73 rep. Mean: 238.81049412950014
+Smartigan: 10 clusters 250 points 73 rep. Mean: 219.8438490998201
+
+Hartigan: 10 clusters 250 points 74 rep. Mean: 330.6217718765698
+Smartigan: 10 clusters 250 points 74 rep. Mean: 326.11723960240005
+
+Hartigan: 10 clusters 250 points 75 rep. Mean: 240.26752697903584
+Smartigan: 10 clusters 250 points 75 rep. Mean: 235.8002644452227
+
+Hartigan: 10 clusters 250 points 76 rep. Mean: 327.9399204280586
+Smartigan: 10 clusters 250 points 76 rep. Mean: 323.04926395679684
+
+Hartigan: 10 clusters 250 points 77 rep. Mean: 204.95694903602038
+Smartigan: 10 clusters 250 points 77 rep. Mean: 207.6700469109272
+
+Hartigan: 10 clusters 250 points 78 rep. Mean: 339.3041260034269
+Smartigan: 10 clusters 250 points 78 rep. Mean: 330.85634799139694
+
+Hartigan: 10 clusters 250 points 79 rep. Mean: 249.1841277665861
+Smartigan: 10 clusters 250 points 79 rep. Mean: 232.51858210250535
+
+Hartigan: 10 clusters 250 points 80 rep. Mean: 340.5523094399711
+Smartigan: 10 clusters 250 points 80 rep. Mean: 334.20900892666475
+
+Hartigan: 10 clusters 250 points 81 rep. Mean: 215.1848129921885
+Smartigan: 10 clusters 250 points 81 rep. Mean: 214.4803412157608
+
+Hartigan: 10 clusters 250 points 82 rep. Mean: 326.96223805881965
+Smartigan: 10 clusters 250 points 82 rep. Mean: 325.1127992811351
+
+Hartigan: 10 clusters 250 points 83 rep. Mean: 215.06415625407482
+Smartigan: 10 clusters 250 points 83 rep. Mean: 187.25568529431345
+
+Hartigan: 10 clusters 250 points 84 rep. Mean: 331.8597630367915
+Smartigan: 10 clusters 250 points 84 rep. Mean: 323.8416347979381
+
+Hartigan: 10 clusters 250 points 85 rep. Mean: 230.76452920742582
+Smartigan: 10 clusters 250 points 85 rep. Mean: 207.96676247539125
+
+Hartigan: 10 clusters 250 points 86 rep. Mean: 333.56107767880184
+Smartigan: 10 clusters 250 points 86 rep. Mean: 331.6506628527569
+
+Hartigan: 10 clusters 250 points 87 rep. Mean: 226.0637520643535
+Smartigan: 10 clusters 250 points 87 rep. Mean: 214.42287044519986
+
+Hartigan: 10 clusters 250 points 88 rep. Mean: 340.96918409196724
+Smartigan: 10 clusters 250 points 88 rep. Mean: 333.63160146841255
+
+Hartigan: 10 clusters 250 points 89 rep. Mean: 241.6163076286019
+Smartigan: 10 clusters 250 points 89 rep. Mean: 231.63591481950215
+
+Hartigan: 10 clusters 250 points 90 rep. Mean: 330.20152000648665
+Smartigan: 10 clusters 250 points 90 rep. Mean: 329.42216420763526
+
+Hartigan: 10 clusters 250 points 91 rep. Mean: 254.0177303503311
+Smartigan: 10 clusters 250 points 91 rep. Mean: 206.3381135047539
+
+Hartigan: 10 clusters 250 points 92 rep. Mean: 344.7778839163819
+Smartigan: 10 clusters 250 points 92 rep. Mean: 333.5847478000544
+
+Hartigan: 10 clusters 250 points 93 rep. Mean: 235.46999445440238
+Smartigan: 10 clusters 250 points 93 rep. Mean: 217.41648292997007
+
+Hartigan: 10 clusters 250 points 94 rep. Mean: 338.45663876340154
+Smartigan: 10 clusters 250 points 94 rep. Mean: 331.42304110678356
+
+Hartigan: 10 clusters 250 points 95 rep. Mean: 220.22832714097302
+Smartigan: 10 clusters 250 points 95 rep. Mean: 203.33424099489568
+
+Hartigan: 10 clusters 250 points 96 rep. Mean: 333.2590812106579
+Smartigan: 10 clusters 250 points 96 rep. Mean: 326.3686920789342
+
+Hartigan: 10 clusters 250 points 97 rep. Mean: 245.6675379802727
+Smartigan: 10 clusters 250 points 97 rep. Mean: 210.47932153362981
+
+Hartigan: 10 clusters 250 points 98 rep. Mean: 341.3725172380117
+Smartigan: 10 clusters 250 points 98 rep. Mean: 337.82632160740366
+
+Hartigan: 10 clusters 250 points 99 rep. Mean: 218.89915053569067
+Smartigan: 10 clusters 250 points 99 rep. Mean: 208.64077036068414
+
+Hartigan: 10 clusters 500 points 0 rep. Mean: 684.446212336354
+Smartigan: 10 clusters 500 points 0 rep. Mean: 676.0115256806099
+
+Hartigan: 10 clusters 500 points 1 rep. Mean: 522.2329089666898
+Smartigan: 10 clusters 500 points 1 rep. Mean: 464.08557621290475
+
+Hartigan: 10 clusters 500 points 2 rep. Mean: 698.7539442308149
+Smartigan: 10 clusters 500 points 2 rep. Mean: 693.9317817855396
+
+Hartigan: 10 clusters 500 points 3 rep. Mean: 518.7358913788653
+Smartigan: 10 clusters 500 points 3 rep. Mean: 412.0759886680128
+
+Hartigan: 10 clusters 500 points 4 rep. Mean: 680.3991761045379
+Smartigan: 10 clusters 500 points 4 rep. Mean: 675.6722177113768
+
+Hartigan: 10 clusters 500 points 5 rep. Mean: 472.08021219171115
+Smartigan: 10 clusters 500 points 5 rep. Mean: 427.2838419753426
+
+Hartigan: 10 clusters 500 points 6 rep. Mean: 684.9493628348107
+Smartigan: 10 clusters 500 points 6 rep. Mean: 671.8200518184957
+
+Hartigan: 10 clusters 500 points 7 rep. Mean: 483.70594578565806
+Smartigan: 10 clusters 500 points 7 rep. Mean: 391.52032784538494
+
+Hartigan: 10 clusters 500 points 8 rep. Mean: 703.1004595023552
+Smartigan: 10 clusters 500 points 8 rep. Mean: 684.9524087238193
+
+Hartigan: 10 clusters 500 points 9 rep. Mean: 525.6375136985721
+Smartigan: 10 clusters 500 points 9 rep. Mean: 470.3245725565506
+
+Hartigan: 10 clusters 500 points 10 rep. Mean: 698.8394468379618
+Smartigan: 10 clusters 500 points 10 rep. Mean: 690.4296167288458
+
+Hartigan: 10 clusters 500 points 11 rep. Mean: 421.4505352615233
+Smartigan: 10 clusters 500 points 11 rep. Mean: 428.72218787683244
+
+Hartigan: 10 clusters 500 points 12 rep. Mean: 693.4620238644393
+Smartigan: 10 clusters 500 points 12 rep. Mean: 678.2824981453659
+
+Hartigan: 10 clusters 500 points 13 rep. Mean: 599.395121933042
+Smartigan: 10 clusters 500 points 13 rep. Mean: 422.5257923852961
+
+Hartigan: 10 clusters 500 points 14 rep. Mean: 669.0250354748666
+Smartigan: 10 clusters 500 points 14 rep. Mean: 669.2878230424506
+
+Hartigan: 10 clusters 500 points 15 rep. Mean: 496.14591031153896
+Smartigan: 10 clusters 500 points 15 rep. Mean: 418.9422599874071
+
+Hartigan: 10 clusters 500 points 16 rep. Mean: 683.4550228491711
+Smartigan: 10 clusters 500 points 16 rep. Mean: 672.6648579782839
+
+Hartigan: 10 clusters 500 points 17 rep. Mean: 396.08694284651864
+Smartigan: 10 clusters 500 points 17 rep. Mean: 376.71466135644886
+
+Hartigan: 10 clusters 500 points 18 rep. Mean: 675.6809910355879
+Smartigan: 10 clusters 500 points 18 rep. Mean: 676.5029617056032
+
+Hartigan: 10 clusters 500 points 19 rep. Mean: 508.17548264511004
+Smartigan: 10 clusters 500 points 19 rep. Mean: 386.01693222814913
+
+Hartigan: 10 clusters 500 points 20 rep. Mean: 680.8080376503328
+Smartigan: 10 clusters 500 points 20 rep. Mean: 665.9570141276747
+
+Hartigan: 10 clusters 500 points 21 rep. Mean: 452.9588871587317
+Smartigan: 10 clusters 500 points 21 rep. Mean: 440.08869202814265
+
+Hartigan: 10 clusters 500 points 22 rep. Mean: 678.8180376628635
+Smartigan: 10 clusters 500 points 22 rep. Mean: 678.2666791035214
+
+Hartigan: 10 clusters 500 points 23 rep. Mean: 475.51283043114427
+Smartigan: 10 clusters 500 points 23 rep. Mean: 415.16855877042616
+
+Hartigan: 10 clusters 500 points 24 rep. Mean: 680.9846324828247
+Smartigan: 10 clusters 500 points 24 rep. Mean: 672.1098279391838
+
+Hartigan: 10 clusters 500 points 25 rep. Mean: 480.99067112241767
+Smartigan: 10 clusters 500 points 25 rep. Mean: 419.0956402767447
+
+Hartigan: 10 clusters 500 points 26 rep. Mean: 679.3006663190162
+Smartigan: 10 clusters 500 points 26 rep. Mean: 672.3145063682182
+
+Hartigan: 10 clusters 500 points 27 rep. Mean: 462.6566040574659
+Smartigan: 10 clusters 500 points 27 rep. Mean: 416.02322951953056
+
+Hartigan: 10 clusters 500 points 28 rep. Mean: 678.9218082173915
+Smartigan: 10 clusters 500 points 28 rep. Mean: 671.8538690035139
+
+Hartigan: 10 clusters 500 points 29 rep. Mean: 432.42762565068296
+Smartigan: 10 clusters 500 points 29 rep. Mean: 409.85141387655233
+
+Hartigan: 10 clusters 500 points 30 rep. Mean: 691.6095073218681
+Smartigan: 10 clusters 500 points 30 rep. Mean: 689.1417592608409
+
+Hartigan: 10 clusters 500 points 31 rep. Mean: 471.00310614346535
+Smartigan: 10 clusters 500 points 31 rep. Mean: 371.1785916735062
+
+Hartigan: 10 clusters 500 points 32 rep. Mean: 678.824276455594
+Smartigan: 10 clusters 500 points 32 rep. Mean: 678.8295183915995
+
+Hartigan: 10 clusters 500 points 33 rep. Mean: 473.21745018717945
+Smartigan: 10 clusters 500 points 33 rep. Mean: 391.77449170264606
+
+Hartigan: 10 clusters 500 points 34 rep. Mean: 683.9663667074635
+Smartigan: 10 clusters 500 points 34 rep. Mean: 676.9051525971714
+
+Hartigan: 10 clusters 500 points 35 rep. Mean: 490.7361358035977
+Smartigan: 10 clusters 500 points 35 rep. Mean: 458.3761523842583
+
+Hartigan: 10 clusters 500 points 36 rep. Mean: 689.8081256728165
+Smartigan: 10 clusters 500 points 36 rep. Mean: 686.5813382095304
+
+Hartigan: 10 clusters 500 points 37 rep. Mean: 506.13317134293055
+Smartigan: 10 clusters 500 points 37 rep. Mean: 504.5241304382447
+
+Hartigan: 10 clusters 500 points 38 rep. Mean: 689.4100610999685
+Smartigan: 10 clusters 500 points 38 rep. Mean: 686.7549739772043
+
+Hartigan: 10 clusters 500 points 39 rep. Mean: 438.6479432380547
+Smartigan: 10 clusters 500 points 39 rep. Mean: 385.5705531810141
+
+Hartigan: 10 clusters 500 points 40 rep. Mean: 685.0995293880735
+Smartigan: 10 clusters 500 points 40 rep. Mean: 676.4624548714742
+
+Hartigan: 10 clusters 500 points 41 rep. Mean: 497.82320750290546
+Smartigan: 10 clusters 500 points 41 rep. Mean: 443.9555550543834
+
+Hartigan: 10 clusters 500 points 42 rep. Mean: 689.4866967734627
+Smartigan: 10 clusters 500 points 42 rep. Mean: 683.3487255001421
+
+Hartigan: 10 clusters 500 points 43 rep. Mean: 526.8069451804603
+Smartigan: 10 clusters 500 points 43 rep. Mean: 477.48480220994963
+
+Hartigan: 10 clusters 500 points 44 rep. Mean: 692.7966884046132
+Smartigan: 10 clusters 500 points 44 rep. Mean: 679.4043935815898
+
+Hartigan: 10 clusters 500 points 45 rep. Mean: 462.32442953453165
+Smartigan: 10 clusters 500 points 45 rep. Mean: 444.5960637425217
+
+Hartigan: 10 clusters 500 points 46 rep. Mean: 682.6331162385261
+Smartigan: 10 clusters 500 points 46 rep. Mean: 675.4059113122755
+
+Hartigan: 10 clusters 500 points 47 rep. Mean: 497.163318551978
+Smartigan: 10 clusters 500 points 47 rep. Mean: 429.64382031198875
+
+Hartigan: 10 clusters 500 points 48 rep. Mean: 673.8383874113197
+Smartigan: 10 clusters 500 points 48 rep. Mean: 665.5707677125672
+
+Hartigan: 10 clusters 500 points 49 rep. Mean: 482.3147369906369
+Smartigan: 10 clusters 500 points 49 rep. Mean: 408.0856597913392
+
+Hartigan: 10 clusters 500 points 50 rep. Mean: 702.8988015034057
+Smartigan: 10 clusters 500 points 50 rep. Mean: 681.9490946238598
+
+Hartigan: 10 clusters 500 points 51 rep. Mean: 485.96387233990464
+Smartigan: 10 clusters 500 points 51 rep. Mean: 434.7719592354709
+
+Hartigan: 10 clusters 500 points 52 rep. Mean: 679.5577302666509
+Smartigan: 10 clusters 500 points 52 rep. Mean: 673.8964339781381
+
+Hartigan: 10 clusters 500 points 53 rep. Mean: 395.3174538725519
+Smartigan: 10 clusters 500 points 53 rep. Mean: 383.6714665148799
+
+Hartigan: 10 clusters 500 points 54 rep. Mean: 685.0984366724842
+Smartigan: 10 clusters 500 points 54 rep. Mean: 678.0296283573483
+
+Hartigan: 10 clusters 500 points 55 rep. Mean: 462.7620602229031
+Smartigan: 10 clusters 500 points 55 rep. Mean: 424.3572746895831
+
+Hartigan: 10 clusters 500 points 56 rep. Mean: 690.6950968295353
+Smartigan: 10 clusters 500 points 56 rep. Mean: 676.2386926914393
+
+Hartigan: 10 clusters 500 points 57 rep. Mean: 486.2867649166998
+Smartigan: 10 clusters 500 points 57 rep. Mean: 466.5989199721592
+
+Hartigan: 10 clusters 500 points 58 rep. Mean: 689.7494227520109
+Smartigan: 10 clusters 500 points 58 rep. Mean: 691.1993340339304
+
+Hartigan: 10 clusters 500 points 59 rep. Mean: 467.0512582489288
+Smartigan: 10 clusters 500 points 59 rep. Mean: 441.44497990989413
+
+Hartigan: 10 clusters 500 points 60 rep. Mean: 677.2293975976947
+Smartigan: 10 clusters 500 points 60 rep. Mean: 669.6237626746451
+
+Hartigan: 10 clusters 500 points 61 rep. Mean: 485.49423098597725
+Smartigan: 10 clusters 500 points 61 rep. Mean: 369.29717621014817
+
+Hartigan: 10 clusters 500 points 62 rep. Mean: 685.4351762873446
+Smartigan: 10 clusters 500 points 62 rep. Mean: 675.4764848845393
+
+Hartigan: 10 clusters 500 points 63 rep. Mean: 484.4014728745143
+Smartigan: 10 clusters 500 points 63 rep. Mean: 372.5567916570339
+
+Hartigan: 10 clusters 500 points 64 rep. Mean: 679.0268169894624
+Smartigan: 10 clusters 500 points 64 rep. Mean: 668.401015490366
+
+Hartigan: 10 clusters 500 points 65 rep. Mean: 447.8737044112828
+Smartigan: 10 clusters 500 points 65 rep. Mean: 429.43542700361434
+
+Hartigan: 10 clusters 500 points 66 rep. Mean: 679.6006917523497
+Smartigan: 10 clusters 500 points 66 rep. Mean: 680.0083081634255
+
+Hartigan: 10 clusters 500 points 67 rep. Mean: 499.7343742436037
+Smartigan: 10 clusters 500 points 67 rep. Mean: 436.8601748075559
+
+Hartigan: 10 clusters 500 points 68 rep. Mean: 695.3420240252766
+Smartigan: 10 clusters 500 points 68 rep. Mean: 686.6654402083421
+
+Hartigan: 10 clusters 500 points 69 rep. Mean: 482.4218302575861
+Smartigan: 10 clusters 500 points 69 rep. Mean: 479.6265682299406
+
+Hartigan: 10 clusters 500 points 70 rep. Mean: 667.79096683453
+Smartigan: 10 clusters 500 points 70 rep. Mean: 659.1845879395173
+
+Hartigan: 10 clusters 500 points 71 rep. Mean: 397.489903523123
+Smartigan: 10 clusters 500 points 71 rep. Mean: 411.7554250281275
+
+Hartigan: 10 clusters 500 points 72 rep. Mean: 681.1242861689776
+Smartigan: 10 clusters 500 points 72 rep. Mean: 676.6080754644888
+
+Hartigan: 10 clusters 500 points 73 rep. Mean: 411.3786415008718
+Smartigan: 10 clusters 500 points 73 rep. Mean: 398.8196633262874
+
+Hartigan: 10 clusters 500 points 74 rep. Mean: 664.1754736296912
+Smartigan: 10 clusters 500 points 74 rep. Mean: 657.2311488002249
+
+Hartigan: 10 clusters 500 points 75 rep. Mean: 398.9110918587927
+Smartigan: 10 clusters 500 points 75 rep. Mean: 412.451839680178
+
+Hartigan: 10 clusters 500 points 76 rep. Mean: 709.8324975275103
+Smartigan: 10 clusters 500 points 76 rep. Mean: 693.2174942046473
+
+Hartigan: 10 clusters 500 points 77 rep. Mean: 493.31056369576
+Smartigan: 10 clusters 500 points 77 rep. Mean: 407.8602614801537
+
+Hartigan: 10 clusters 500 points 78 rep. Mean: 695.3039337100088
+Smartigan: 10 clusters 500 points 78 rep. Mean: 679.2493920305808
+
+Hartigan: 10 clusters 500 points 79 rep. Mean: 488.03403776172127
+Smartigan: 10 clusters 500 points 79 rep. Mean: 411.47140593431476
+
+Hartigan: 10 clusters 500 points 80 rep. Mean: 692.2360053540721
+Smartigan: 10 clusters 500 points 80 rep. Mean: 677.3686319773427
+
+Hartigan: 10 clusters 500 points 81 rep. Mean: 502.58593393699664
+Smartigan: 10 clusters 500 points 81 rep. Mean: 431.8702029685045
+
+Hartigan: 10 clusters 500 points 82 rep. Mean: 672.1292888037215
+Smartigan: 10 clusters 500 points 82 rep. Mean: 665.4150839045539
+
+Hartigan: 10 clusters 500 points 83 rep. Mean: 455.64449112966497
+Smartigan: 10 clusters 500 points 83 rep. Mean: 398.42256459488925
+
+Hartigan: 10 clusters 500 points 84 rep. Mean: 685.8784282160389
+Smartigan: 10 clusters 500 points 84 rep. Mean: 678.5714738284685
+
+Hartigan: 10 clusters 500 points 85 rep. Mean: 502.589982488351
+Smartigan: 10 clusters 500 points 85 rep. Mean: 406.74891855803213
+
+Hartigan: 10 clusters 500 points 86 rep. Mean: 679.8563966698418
+Smartigan: 10 clusters 500 points 86 rep. Mean: 673.4898592969555
+
+Hartigan: 10 clusters 500 points 87 rep. Mean: 465.2074477931812
+Smartigan: 10 clusters 500 points 87 rep. Mean: 391.05501311993413
+
+Hartigan: 10 clusters 500 points 88 rep. Mean: 679.126798749546
+Smartigan: 10 clusters 500 points 88 rep. Mean: 677.0892866193224
+
+Hartigan: 10 clusters 500 points 89 rep. Mean: 417.30171342049044
+Smartigan: 10 clusters 500 points 89 rep. Mean: 442.54458462514685
+
+Hartigan: 10 clusters 500 points 90 rep. Mean: 684.9478767661046
+Smartigan: 10 clusters 500 points 90 rep. Mean: 681.5428900346061
+
+Hartigan: 10 clusters 500 points 91 rep. Mean: 553.8172102199622
+Smartigan: 10 clusters 500 points 91 rep. Mean: 484.79352212318554
+
+Hartigan: 10 clusters 500 points 92 rep. Mean: 694.6588672127406
+Smartigan: 10 clusters 500 points 92 rep. Mean: 680.0245178250163
+
+Hartigan: 10 clusters 500 points 93 rep. Mean: 410.4830187951646
+Smartigan: 10 clusters 500 points 93 rep. Mean: 396.44924173813405
+
+Hartigan: 10 clusters 500 points 94 rep. Mean: 684.1022187151103
+Smartigan: 10 clusters 500 points 94 rep. Mean: 670.8164282437774
+
+Hartigan: 10 clusters 500 points 95 rep. Mean: 438.53245947620763
+Smartigan: 10 clusters 500 points 95 rep. Mean: 418.86856978019233
+
+Hartigan: 10 clusters 500 points 96 rep. Mean: 693.193318009711
+Smartigan: 10 clusters 500 points 96 rep. Mean: 685.6667026194054
+
+Hartigan: 10 clusters 500 points 97 rep. Mean: 538.7568082082319
+Smartigan: 10 clusters 500 points 97 rep. Mean: 513.7174797388273
+
+Hartigan: 10 clusters 500 points 98 rep. Mean: 701.5087007894199
+Smartigan: 10 clusters 500 points 98 rep. Mean: 681.2745447400864
+
+Hartigan: 10 clusters 500 points 99 rep. Mean: 654.9203124977806
+Smartigan: 10 clusters 500 points 99 rep. Mean: 504.8205832834951
+
+Hartigan: 10 clusters 1000 points 0 rep. Mean: 1387.9886449096143
+Smartigan: 10 clusters 1000 points 0 rep. Mean: 1374.2464269197178
+
+Hartigan: 10 clusters 1000 points 1 rep. Mean: 930.8466354980817
+Smartigan: 10 clusters 1000 points 1 rep. Mean: 851.5457523541648
+
+Hartigan: 10 clusters 1000 points 2 rep. Mean: 1379.9464427384985
+Smartigan: 10 clusters 1000 points 2 rep. Mean: 1374.1589275077736
+
+Hartigan: 10 clusters 1000 points 3 rep. Mean: 1020.3615664209913
+Smartigan: 10 clusters 1000 points 3 rep. Mean: 902.7137123231341
+
+Hartigan: 10 clusters 1000 points 4 rep. Mean: 1388.4979697863148
+Smartigan: 10 clusters 1000 points 4 rep. Mean: 1369.1218494888717
+
+Hartigan: 10 clusters 1000 points 5 rep. Mean: 983.2724308848143
+Smartigan: 10 clusters 1000 points 5 rep. Mean: 900.0227033470452
+
+Hartigan: 10 clusters 1000 points 6 rep. Mean: 1388.4016332403776
+Smartigan: 10 clusters 1000 points 6 rep. Mean: 1392.4666070046248
+
+Hartigan: 10 clusters 1000 points 7 rep. Mean: 985.5380145887191
+Smartigan: 10 clusters 1000 points 7 rep. Mean: 964.2210528416521
+
+Hartigan: 10 clusters 1000 points 8 rep. Mean: 1361.0153878187962
+Smartigan: 10 clusters 1000 points 8 rep. Mean: 1352.0720718903754
+
+Hartigan: 10 clusters 1000 points 9 rep. Mean: 938.1371794923771
+Smartigan: 10 clusters 1000 points 9 rep. Mean: 933.0987908127538
+
+Hartigan: 10 clusters 1000 points 10 rep. Mean: 1376.1064354303878
+Smartigan: 10 clusters 1000 points 10 rep. Mean: 1369.5834586008277
+
+Hartigan: 10 clusters 1000 points 11 rep. Mean: 1049.9290450118547
+Smartigan: 10 clusters 1000 points 11 rep. Mean: 920.4379294405295
+
+Hartigan: 10 clusters 1000 points 12 rep. Mean: 1392.633423551199
+Smartigan: 10 clusters 1000 points 12 rep. Mean: 1391.2967119608452
+
+Hartigan: 10 clusters 1000 points 13 rep. Mean: 924.700990829872
+Smartigan: 10 clusters 1000 points 13 rep. Mean: 924.9939742758568
+
+Hartigan: 10 clusters 1000 points 14 rep. Mean: 1400.2135217681423
+Smartigan: 10 clusters 1000 points 14 rep. Mean: 1385.9980044589079
+
+Hartigan: 10 clusters 1000 points 15 rep. Mean: 1039.8121592410475
+Smartigan: 10 clusters 1000 points 15 rep. Mean: 971.6337756221001
+
+Hartigan: 10 clusters 1000 points 16 rep. Mean: 1401.4053062916994
+Smartigan: 10 clusters 1000 points 16 rep. Mean: 1395.030898306335
+
+Hartigan: 10 clusters 1000 points 17 rep. Mean: 1112.531843959128
+Smartigan: 10 clusters 1000 points 17 rep. Mean: 1012.10983565741
+
+Hartigan: 10 clusters 1000 points 18 rep. Mean: 1367.0627484099082
+Smartigan: 10 clusters 1000 points 18 rep. Mean: 1355.977932039796
+
+Hartigan: 10 clusters 1000 points 19 rep. Mean: 971.4160365784901
+Smartigan: 10 clusters 1000 points 19 rep. Mean: 838.813659293361
+
+Hartigan: 10 clusters 1000 points 20 rep. Mean: 1373.234541424801
+Smartigan: 10 clusters 1000 points 20 rep. Mean: 1373.6489769931397
+
+Hartigan: 10 clusters 1000 points 21 rep. Mean: 922.4994723520092
+Smartigan: 10 clusters 1000 points 21 rep. Mean: 897.5185827664511
+
+Hartigan: 10 clusters 1000 points 22 rep. Mean: 1380.5512789672061
+Smartigan: 10 clusters 1000 points 22 rep. Mean: 1371.1027205351502
+
+Hartigan: 10 clusters 1000 points 23 rep. Mean: 995.4012421450774
+Smartigan: 10 clusters 1000 points 23 rep. Mean: 911.3082678898957
+
+Hartigan: 10 clusters 1000 points 24 rep. Mean: 1380.3763431627642
+Smartigan: 10 clusters 1000 points 24 rep. Mean: 1368.5388186197226
+
+Hartigan: 10 clusters 1000 points 25 rep. Mean: 1063.982535228545
+Smartigan: 10 clusters 1000 points 25 rep. Mean: 911.5313143647348
+
+Hartigan: 10 clusters 1000 points 26 rep. Mean: 1358.406823623986
+Smartigan: 10 clusters 1000 points 26 rep. Mean: 1349.3643448643088
+
+Hartigan: 10 clusters 1000 points 27 rep. Mean: 1034.8829172052815
+Smartigan: 10 clusters 1000 points 27 rep. Mean: 1017.7962674067963
+
+Hartigan: 10 clusters 1000 points 28 rep. Mean: 1379.3766692609938
+Smartigan: 10 clusters 1000 points 28 rep. Mean: 1363.1553582109236
+
+Hartigan: 10 clusters 1000 points 29 rep. Mean: 808.5922178262812
+Smartigan: 10 clusters 1000 points 29 rep. Mean: 755.6790173301309
+
+Hartigan: 10 clusters 1000 points 30 rep. Mean: 1400.3934239929813
+Smartigan: 10 clusters 1000 points 30 rep. Mean: 1372.5357017151603
+
+Hartigan: 10 clusters 1000 points 31 rep. Mean: 937.7251977827607
+Smartigan: 10 clusters 1000 points 31 rep. Mean: 767.7993596376334
+
+Hartigan: 10 clusters 1000 points 32 rep. Mean: 1403.2400123879147
+Smartigan: 10 clusters 1000 points 32 rep. Mean: 1400.4366515591305
+
+Hartigan: 10 clusters 1000 points 33 rep. Mean: 844.3716611140047
+Smartigan: 10 clusters 1000 points 33 rep. Mean: 802.6723771919026
+
+Hartigan: 10 clusters 1000 points 34 rep. Mean: 1389.7128488324418
+Smartigan: 10 clusters 1000 points 34 rep. Mean: 1403.7115905461785
+
+Hartigan: 10 clusters 1000 points 35 rep. Mean: 1105.1550341299062
+Smartigan: 10 clusters 1000 points 35 rep. Mean: 1004.9374914827907
+
+Hartigan: 10 clusters 1000 points 36 rep. Mean: 1386.1632925430117
+Smartigan: 10 clusters 1000 points 36 rep. Mean: 1371.2175507305765
+
+Hartigan: 10 clusters 1000 points 37 rep. Mean: 1039.0469952079484
+Smartigan: 10 clusters 1000 points 37 rep. Mean: 1014.4310539122725
+
+Hartigan: 10 clusters 1000 points 38 rep. Mean: 1387.2038211189674
+Smartigan: 10 clusters 1000 points 38 rep. Mean: 1370.636986283062
+
+Hartigan: 10 clusters 1000 points 39 rep. Mean: 1004.5087421401558
+Smartigan: 10 clusters 1000 points 39 rep. Mean: 817.8646245020284
+
+Hartigan: 10 clusters 1000 points 40 rep. Mean: 1402.9234870060232
+Smartigan: 10 clusters 1000 points 40 rep. Mean: 1387.8084496069355
+
+Hartigan: 10 clusters 1000 points 41 rep. Mean: 849.2917965830968
+Smartigan: 10 clusters 1000 points 41 rep. Mean: 882.3318966802374
+
+Hartigan: 10 clusters 1000 points 42 rep. Mean: 1387.4661779295725
+Smartigan: 10 clusters 1000 points 42 rep. Mean: 1362.6179501227052
+
+Hartigan: 10 clusters 1000 points 43 rep. Mean: 806.1526536473663
+Smartigan: 10 clusters 1000 points 43 rep. Mean: 781.6255766743562
+
+Hartigan: 10 clusters 1000 points 44 rep. Mean: 1430.0151403956274
+Smartigan: 10 clusters 1000 points 44 rep. Mean: 1400.484584778092
+
+Hartigan: 10 clusters 1000 points 45 rep. Mean: 1023.9288771661302
+Smartigan: 10 clusters 1000 points 45 rep. Mean: 887.956586899624
+
+Hartigan: 10 clusters 1000 points 46 rep. Mean: 1409.1458782751813
+Smartigan: 10 clusters 1000 points 46 rep. Mean: 1389.116252900608
+
+Hartigan: 10 clusters 1000 points 47 rep. Mean: 760.5782143867975
+Smartigan: 10 clusters 1000 points 47 rep. Mean: 823.9436317910244
+
+Hartigan: 10 clusters 1000 points 48 rep. Mean: 1359.3706994585093
+Smartigan: 10 clusters 1000 points 48 rep. Mean: 1354.4332586678852
+
+Hartigan: 10 clusters 1000 points 49 rep. Mean: 955.0153650248667
+Smartigan: 10 clusters 1000 points 49 rep. Mean: 788.4876725067145
+
+Hartigan: 10 clusters 1000 points 50 rep. Mean: 1395.9564626237982
+Smartigan: 10 clusters 1000 points 50 rep. Mean: 1357.9791731972673
+
+Hartigan: 10 clusters 1000 points 51 rep. Mean: 878.974763321593
+Smartigan: 10 clusters 1000 points 51 rep. Mean: 945.5282416977673
+
+Hartigan: 10 clusters 1000 points 52 rep. Mean: 1377.394285600105
+Smartigan: 10 clusters 1000 points 52 rep. Mean: 1381.7533823558906
+
+Hartigan: 10 clusters 1000 points 53 rep. Mean: 986.2571497639896
+Smartigan: 10 clusters 1000 points 53 rep. Mean: 888.1222822556854
+
+Hartigan: 10 clusters 1000 points 54 rep. Mean: 1418.3498264231098
+Smartigan: 10 clusters 1000 points 54 rep. Mean: 1402.5003289643091
+
+Hartigan: 10 clusters 1000 points 55 rep. Mean: 975.3652359647092
+Smartigan: 10 clusters 1000 points 55 rep. Mean: 914.6214612408851
+
+Hartigan: 10 clusters 1000 points 56 rep. Mean: 1399.5821483284412
+Smartigan: 10 clusters 1000 points 56 rep. Mean: 1389.86468783812
+
+Hartigan: 10 clusters 1000 points 57 rep. Mean: 952.8906398967598
+Smartigan: 10 clusters 1000 points 57 rep. Mean: 898.0414298122338
+
+Hartigan: 10 clusters 1000 points 58 rep. Mean: 1379.6741048361353
+Smartigan: 10 clusters 1000 points 58 rep. Mean: 1368.171329598722
+
+Hartigan: 10 clusters 1000 points 59 rep. Mean: 909.6516080622596
+Smartigan: 10 clusters 1000 points 59 rep. Mean: 968.6769849746106
+
+Hartigan: 10 clusters 1000 points 60 rep. Mean: 1384.7285110346734
+Smartigan: 10 clusters 1000 points 60 rep. Mean: 1360.2956630309204
+
+Hartigan: 10 clusters 1000 points 61 rep. Mean: 945.4781213118855
+Smartigan: 10 clusters 1000 points 61 rep. Mean: 828.3394231292265
+
+Hartigan: 10 clusters 1000 points 62 rep. Mean: 1397.1369734189598
+Smartigan: 10 clusters 1000 points 62 rep. Mean: 1379.1950063373129
+
+Hartigan: 10 clusters 1000 points 63 rep. Mean: 1115.1773782124187
+Smartigan: 10 clusters 1000 points 63 rep. Mean: 913.2634615583911
+
+Hartigan: 10 clusters 1000 points 64 rep. Mean: 1401.1217320713972
+Smartigan: 10 clusters 1000 points 64 rep. Mean: 1380.9166267706128
+
+Hartigan: 10 clusters 1000 points 65 rep. Mean: 973.9344864572547
+Smartigan: 10 clusters 1000 points 65 rep. Mean: 876.6771402922965
+
+Hartigan: 10 clusters 1000 points 66 rep. Mean: 1398.6077684781167
+Smartigan: 10 clusters 1000 points 66 rep. Mean: 1377.1008625236477
+
+Hartigan: 10 clusters 1000 points 67 rep. Mean: 1119.417304716897
+Smartigan: 10 clusters 1000 points 67 rep. Mean: 966.2203217900235
+
+Hartigan: 10 clusters 1000 points 68 rep. Mean: 1397.153384774118
+Smartigan: 10 clusters 1000 points 68 rep. Mean: 1362.5707017745071
+
+Hartigan: 10 clusters 1000 points 69 rep. Mean: 1047.5774630748922
+Smartigan: 10 clusters 1000 points 69 rep. Mean: 936.4453948729291
+
+Hartigan: 10 clusters 1000 points 70 rep. Mean: 1395.6579042022288
+Smartigan: 10 clusters 1000 points 70 rep. Mean: 1363.6350354637493
+
+Hartigan: 10 clusters 1000 points 71 rep. Mean: 1093.5402565731374
+Smartigan: 10 clusters 1000 points 71 rep. Mean: 907.9590895929625
+
+Hartigan: 10 clusters 1000 points 72 rep. Mean: 1393.6163420323162
+Smartigan: 10 clusters 1000 points 72 rep. Mean: 1366.0870399968023
+
+Hartigan: 10 clusters 1000 points 73 rep. Mean: 921.6879402990189
+Smartigan: 10 clusters 1000 points 73 rep. Mean: 904.68617510353
+
+Hartigan: 10 clusters 1000 points 74 rep. Mean: 1382.70412795112
+Smartigan: 10 clusters 1000 points 74 rep. Mean: 1361.7995221566616
+
+Hartigan: 10 clusters 1000 points 75 rep. Mean: 882.8100681526505
+Smartigan: 10 clusters 1000 points 75 rep. Mean: 844.4003229439206
+
+Hartigan: 10 clusters 1000 points 76 rep. Mean: 1380.6889511567829
+Smartigan: 10 clusters 1000 points 76 rep. Mean: 1369.40420965976
+
+Hartigan: 10 clusters 1000 points 77 rep. Mean: 1025.9997830891668
+Smartigan: 10 clusters 1000 points 77 rep. Mean: 994.0635960283602
+
+Hartigan: 10 clusters 1000 points 78 rep. Mean: 1382.9555980850705
+Smartigan: 10 clusters 1000 points 78 rep. Mean: 1373.2841453523808
+
+Hartigan: 10 clusters 1000 points 79 rep. Mean: 913.7762517244124
+Smartigan: 10 clusters 1000 points 79 rep. Mean: 803.559924746748
+
+Hartigan: 10 clusters 1000 points 80 rep. Mean: 1393.1692617098888
+Smartigan: 10 clusters 1000 points 80 rep. Mean: 1378.148124106627
+
+Hartigan: 10 clusters 1000 points 81 rep. Mean: 859.113484385781
+Smartigan: 10 clusters 1000 points 81 rep. Mean: 817.2251602098723
+
+Hartigan: 10 clusters 1000 points 82 rep. Mean: 1358.0204540406855
+Smartigan: 10 clusters 1000 points 82 rep. Mean: 1341.0435817502378
+
+Hartigan: 10 clusters 1000 points 83 rep. Mean: 962.3748927547504
+Smartigan: 10 clusters 1000 points 83 rep. Mean: 843.8936395339522
+
+Hartigan: 10 clusters 1000 points 84 rep. Mean: 1370.335167512579
+Smartigan: 10 clusters 1000 points 84 rep. Mean: 1361.3739514156773
+
+Hartigan: 10 clusters 1000 points 85 rep. Mean: 1074.6011079357647
+Smartigan: 10 clusters 1000 points 85 rep. Mean: 901.3835560578557
+
+Hartigan: 10 clusters 1000 points 86 rep. Mean: 1392.524880481623
+Smartigan: 10 clusters 1000 points 86 rep. Mean: 1371.57826792623
+
+Hartigan: 10 clusters 1000 points 87 rep. Mean: 954.6258707924939
+Smartigan: 10 clusters 1000 points 87 rep. Mean: 942.9511557589838
+
+Hartigan: 10 clusters 1000 points 88 rep. Mean: 1358.0041601901203
+Smartigan: 10 clusters 1000 points 88 rep. Mean: 1344.8357674671472
+
+Hartigan: 10 clusters 1000 points 89 rep. Mean: 890.8693512402039
+Smartigan: 10 clusters 1000 points 89 rep. Mean: 772.3806547376017
+
+Hartigan: 10 clusters 1000 points 90 rep. Mean: 1390.9340447689165
+Smartigan: 10 clusters 1000 points 90 rep. Mean: 1373.1608593352353
+
+Hartigan: 10 clusters 1000 points 91 rep. Mean: 1060.313076791993
+Smartigan: 10 clusters 1000 points 91 rep. Mean: 947.1141416028753
+
+Hartigan: 10 clusters 1000 points 92 rep. Mean: 1401.9244646258833
+Smartigan: 10 clusters 1000 points 92 rep. Mean: 1373.1952583402588
+
+Hartigan: 10 clusters 1000 points 93 rep. Mean: 1090.949903721953
+Smartigan: 10 clusters 1000 points 93 rep. Mean: 969.4187498802819
+
+Hartigan: 10 clusters 1000 points 94 rep. Mean: 1393.9794415638398
+Smartigan: 10 clusters 1000 points 94 rep. Mean: 1385.9793436073994
+
+Hartigan: 10 clusters 1000 points 95 rep. Mean: 847.0599865855714
+Smartigan: 10 clusters 1000 points 95 rep. Mean: 818.8620462158029
+
+Hartigan: 10 clusters 1000 points 96 rep. Mean: 1370.2443528585052
+Smartigan: 10 clusters 1000 points 96 rep. Mean: 1361.4875379348603
+
+Hartigan: 10 clusters 1000 points 97 rep. Mean: 1079.0694663573058
+Smartigan: 10 clusters 1000 points 97 rep. Mean: 967.4435296920983
+
+Hartigan: 10 clusters 1000 points 98 rep. Mean: 1385.937028562987
+Smartigan: 10 clusters 1000 points 98 rep. Mean: 1371.1634244221493
+
+Hartigan: 10 clusters 1000 points 99 rep. Mean: 887.6324746147218
+Smartigan: 10 clusters 1000 points 99 rep. Mean: 871.8223529206349
+
+Hartigan: 25 clusters 250 points 0 rep. Mean: 255.34107721022878
+Smartigan: 25 clusters 250 points 0 rep. Mean: 249.52931879463281
+
+Hartigan: 25 clusters 250 points 1 rep. Mean: 160.65912485807468
+Smartigan: 25 clusters 250 points 1 rep. Mean: 148.53321308520145
+
+Hartigan: 25 clusters 250 points 2 rep. Mean: 250.36325513232487
+Smartigan: 25 clusters 250 points 2 rep. Mean: 244.90257750180908
+
+Hartigan: 25 clusters 250 points 3 rep. Mean: 173.77603417152224
+Smartigan: 25 clusters 250 points 3 rep. Mean: 148.127468042754
+
+Hartigan: 25 clusters 250 points 4 rep. Mean: 253.47602405377916
+Smartigan: 25 clusters 250 points 4 rep. Mean: 249.24206434983336
+
+Hartigan: 25 clusters 250 points 5 rep. Mean: 169.3589451097268
+Smartigan: 25 clusters 250 points 5 rep. Mean: 148.1567844331322
+
+Hartigan: 25 clusters 250 points 6 rep. Mean: 256.2343162580367
+Smartigan: 25 clusters 250 points 6 rep. Mean: 251.0861976923587
+
+Hartigan: 25 clusters 250 points 7 rep. Mean: 170.3236822770595
+Smartigan: 25 clusters 250 points 7 rep. Mean: 154.3095404349438
+
+Hartigan: 25 clusters 250 points 8 rep. Mean: 255.07756155288493
+Smartigan: 25 clusters 250 points 8 rep. Mean: 249.00843492190316
+
+Hartigan: 25 clusters 250 points 9 rep. Mean: 179.6978031365505
+Smartigan: 25 clusters 250 points 9 rep. Mean: 162.52100592808543
+
+Hartigan: 25 clusters 250 points 10 rep. Mean: 256.80207829425353
+Smartigan: 25 clusters 250 points 10 rep. Mean: 251.98186804773044
+
+Hartigan: 25 clusters 250 points 11 rep. Mean: 159.89273192612285
+Smartigan: 25 clusters 250 points 11 rep. Mean: 153.40648037298337
+
+Hartigan: 25 clusters 250 points 12 rep. Mean: 259.5948649058883
+Smartigan: 25 clusters 250 points 12 rep. Mean: 253.8998392941497
+
+Hartigan: 25 clusters 250 points 13 rep. Mean: 176.96710204876786
+Smartigan: 25 clusters 250 points 13 rep. Mean: 160.05704991517544
+
+Hartigan: 25 clusters 250 points 14 rep. Mean: 255.8711936665678
+Smartigan: 25 clusters 250 points 14 rep. Mean: 251.51340563920502
+
+Hartigan: 25 clusters 250 points 15 rep. Mean: 157.97036962779643
+Smartigan: 25 clusters 250 points 15 rep. Mean: 153.06088147602753
+
+Hartigan: 25 clusters 250 points 16 rep. Mean: 252.88928259897526
+Smartigan: 25 clusters 250 points 16 rep. Mean: 247.81992352836488
+
+Hartigan: 25 clusters 250 points 17 rep. Mean: 171.6876133796032
+Smartigan: 25 clusters 250 points 17 rep. Mean: 154.82728624226462
+
+Hartigan: 25 clusters 250 points 18 rep. Mean: 259.59570165290836
+Smartigan: 25 clusters 250 points 18 rep. Mean: 252.6998822230512
+
+Hartigan: 25 clusters 250 points 19 rep. Mean: 167.78014864678207
+Smartigan: 25 clusters 250 points 19 rep. Mean: 159.4097004734227
+
+Hartigan: 25 clusters 250 points 20 rep. Mean: 257.104721947961
+Smartigan: 25 clusters 250 points 20 rep. Mean: 250.47473350292915
+
+Hartigan: 25 clusters 250 points 21 rep. Mean: 173.92751129125364
+Smartigan: 25 clusters 250 points 21 rep. Mean: 149.17414407767836
+
+Hartigan: 25 clusters 250 points 22 rep. Mean: 256.0754070854922
+Smartigan: 25 clusters 250 points 22 rep. Mean: 250.0880111088431
+
+Hartigan: 25 clusters 250 points 23 rep. Mean: 180.85752184314703
+Smartigan: 25 clusters 250 points 23 rep. Mean: 148.3655295230679
+
+Hartigan: 25 clusters 250 points 24 rep. Mean: 255.24226095031813
+Smartigan: 25 clusters 250 points 24 rep. Mean: 248.9989801176238
+
+Hartigan: 25 clusters 250 points 25 rep. Mean: 167.2669805197045
+Smartigan: 25 clusters 250 points 25 rep. Mean: 150.00673854377172
+
+Hartigan: 25 clusters 250 points 26 rep. Mean: 253.30875691599022
+Smartigan: 25 clusters 250 points 26 rep. Mean: 248.60358813690127
+
+Hartigan: 25 clusters 250 points 27 rep. Mean: 172.51043535156265
+Smartigan: 25 clusters 250 points 27 rep. Mean: 146.1229263685723
+
+Hartigan: 25 clusters 250 points 28 rep. Mean: 258.01892048994483
+Smartigan: 25 clusters 250 points 28 rep. Mean: 250.9844829354723
+
+Hartigan: 25 clusters 250 points 29 rep. Mean: 174.61850259457205
+Smartigan: 25 clusters 250 points 29 rep. Mean: 153.8770329649303
+
+Hartigan: 25 clusters 250 points 30 rep. Mean: 257.29689052585906
+Smartigan: 25 clusters 250 points 30 rep. Mean: 252.2047487503531
+
+Hartigan: 25 clusters 250 points 31 rep. Mean: 170.9345491156507
+Smartigan: 25 clusters 250 points 31 rep. Mean: 158.30605344839063
+
+Hartigan: 25 clusters 250 points 32 rep. Mean: 257.0621254558027
+Smartigan: 25 clusters 250 points 32 rep. Mean: 252.77901852823146
+
+Hartigan: 25 clusters 250 points 33 rep. Mean: 170.80465756733858
+Smartigan: 25 clusters 250 points 33 rep. Mean: 155.84408756523058
+
+Hartigan: 25 clusters 250 points 34 rep. Mean: 252.6779595499326
+Smartigan: 25 clusters 250 points 34 rep. Mean: 246.65676354472754
+
+Hartigan: 25 clusters 250 points 35 rep. Mean: 173.96263758668405
+Smartigan: 25 clusters 250 points 35 rep. Mean: 154.1141977544823
+
+Hartigan: 25 clusters 250 points 36 rep. Mean: 255.2707454675861
+Smartigan: 25 clusters 250 points 36 rep. Mean: 249.3992535720075
+
+Hartigan: 25 clusters 250 points 37 rep. Mean: 182.45956926833838
+Smartigan: 25 clusters 250 points 37 rep. Mean: 150.95484491676535
+
+Hartigan: 25 clusters 250 points 38 rep. Mean: 254.6809928435252
+Smartigan: 25 clusters 250 points 38 rep. Mean: 249.8202866937511
+
+Hartigan: 25 clusters 250 points 39 rep. Mean: 169.6540586169603
+Smartigan: 25 clusters 250 points 39 rep. Mean: 156.15854245394155
+
+Hartigan: 25 clusters 250 points 40 rep. Mean: 259.44096239823165
+Smartigan: 25 clusters 250 points 40 rep. Mean: 254.95060851501654
+
+Hartigan: 25 clusters 250 points 41 rep. Mean: 170.2157877875582
+Smartigan: 25 clusters 250 points 41 rep. Mean: 148.224257992758
+
+Hartigan: 25 clusters 250 points 42 rep. Mean: 259.9657097215987
+Smartigan: 25 clusters 250 points 42 rep. Mean: 252.08024315053717
+
+Hartigan: 25 clusters 250 points 43 rep. Mean: 173.59078985281377
+Smartigan: 25 clusters 250 points 43 rep. Mean: 162.76682404885497
+
+Hartigan: 25 clusters 250 points 44 rep. Mean: 254.51693255499717
+Smartigan: 25 clusters 250 points 44 rep. Mean: 248.7065669017249
+
+Hartigan: 25 clusters 250 points 45 rep. Mean: 175.1649606753269
+Smartigan: 25 clusters 250 points 45 rep. Mean: 157.38090138326442
+
+Hartigan: 25 clusters 250 points 46 rep. Mean: 253.41435572314086
+Smartigan: 25 clusters 250 points 46 rep. Mean: 249.76740940122627
+
+Hartigan: 25 clusters 250 points 47 rep. Mean: 169.22187750239476
+Smartigan: 25 clusters 250 points 47 rep. Mean: 162.01110412215377
+
+Hartigan: 25 clusters 250 points 48 rep. Mean: 257.3262538202808
+Smartigan: 25 clusters 250 points 48 rep. Mean: 248.10043138611627
+
+Hartigan: 25 clusters 250 points 49 rep. Mean: 153.1402715119138
+Smartigan: 25 clusters 250 points 49 rep. Mean: 150.41895082151325
+
+Hartigan: 25 clusters 250 points 50 rep. Mean: 255.8046808280657
+Smartigan: 25 clusters 250 points 50 rep. Mean: 249.05784090608321
+
+Hartigan: 25 clusters 250 points 51 rep. Mean: 167.6181190918077
+Smartigan: 25 clusters 250 points 51 rep. Mean: 147.3339579346087
+
+Hartigan: 25 clusters 250 points 52 rep. Mean: 251.2587027869925
+Smartigan: 25 clusters 250 points 52 rep. Mean: 245.5950705618838
+
+Hartigan: 25 clusters 250 points 53 rep. Mean: 166.3874136887743
+Smartigan: 25 clusters 250 points 53 rep. Mean: 153.3654120282857
+
+Hartigan: 25 clusters 250 points 54 rep. Mean: 256.3374274861013
+Smartigan: 25 clusters 250 points 54 rep. Mean: 249.4493602942489
+
+Hartigan: 25 clusters 250 points 55 rep. Mean: 162.49847791152146
+Smartigan: 25 clusters 250 points 55 rep. Mean: 153.00477895727974
+
+Hartigan: 25 clusters 250 points 56 rep. Mean: 255.6498883612991
+Smartigan: 25 clusters 250 points 56 rep. Mean: 251.1207695643596
+
+Hartigan: 25 clusters 250 points 57 rep. Mean: 170.94341112356682
+Smartigan: 25 clusters 250 points 57 rep. Mean: 152.81292047508822
+
+Hartigan: 25 clusters 250 points 58 rep. Mean: 259.2302535846127
+Smartigan: 25 clusters 250 points 58 rep. Mean: 253.20335132767522
+
+Hartigan: 25 clusters 250 points 59 rep. Mean: 165.96837459682553
+Smartigan: 25 clusters 250 points 59 rep. Mean: 149.23364130675105
+
+Hartigan: 25 clusters 250 points 60 rep. Mean: 253.7237774917343
+Smartigan: 25 clusters 250 points 60 rep. Mean: 247.1574075973142
+
+Hartigan: 25 clusters 250 points 61 rep. Mean: 166.32982588042566
+Smartigan: 25 clusters 250 points 61 rep. Mean: 151.62817881989102
+
+Hartigan: 25 clusters 250 points 62 rep. Mean: 259.9319516638173
+Smartigan: 25 clusters 250 points 62 rep. Mean: 252.7769131730293
+
+Hartigan: 25 clusters 250 points 63 rep. Mean: 180.43263974249749
+Smartigan: 25 clusters 250 points 63 rep. Mean: 153.90736703573754
+
+Hartigan: 25 clusters 250 points 64 rep. Mean: 256.523669834074
+Smartigan: 25 clusters 250 points 64 rep. Mean: 252.22793586304547
+
+Hartigan: 25 clusters 250 points 65 rep. Mean: 163.13591491802768
+Smartigan: 25 clusters 250 points 65 rep. Mean: 151.21424772779662
+
+Hartigan: 25 clusters 250 points 66 rep. Mean: 254.02577204188896
+Smartigan: 25 clusters 250 points 66 rep. Mean: 247.9248945540813
+
+Hartigan: 25 clusters 250 points 67 rep. Mean: 174.1411554873017
+Smartigan: 25 clusters 250 points 67 rep. Mean: 155.52533830054887
+
+Hartigan: 25 clusters 250 points 68 rep. Mean: 252.47640005993986
+Smartigan: 25 clusters 250 points 68 rep. Mean: 246.400279722605
+
+Hartigan: 25 clusters 250 points 69 rep. Mean: 163.12958053403946
+Smartigan: 25 clusters 250 points 69 rep. Mean: 149.72470014797725
+
+Hartigan: 25 clusters 250 points 70 rep. Mean: 256.0744683228689
+Smartigan: 25 clusters 250 points 70 rep. Mean: 248.94333068798966
+
+Hartigan: 25 clusters 250 points 71 rep. Mean: 165.51342702516013
+Smartigan: 25 clusters 250 points 71 rep. Mean: 155.65402770405282
+
+Hartigan: 25 clusters 250 points 72 rep. Mean: 258.377167000604
+Smartigan: 25 clusters 250 points 72 rep. Mean: 252.02992946752624
+
+Hartigan: 25 clusters 250 points 73 rep. Mean: 167.29748604843044
+Smartigan: 25 clusters 250 points 73 rep. Mean: 157.25688158493006
+
+Hartigan: 25 clusters 250 points 74 rep. Mean: 260.68999536598756
+Smartigan: 25 clusters 250 points 74 rep. Mean: 254.804259541735
+
+Hartigan: 25 clusters 250 points 75 rep. Mean: 168.28661322163813
+Smartigan: 25 clusters 250 points 75 rep. Mean: 154.3704918912547
+
+Hartigan: 25 clusters 250 points 76 rep. Mean: 256.173009554127
+Smartigan: 25 clusters 250 points 76 rep. Mean: 250.66133153097317
+
+Hartigan: 25 clusters 250 points 77 rep. Mean: 174.80016353596096
+Smartigan: 25 clusters 250 points 77 rep. Mean: 158.2174258826562
+
+Hartigan: 25 clusters 250 points 78 rep. Mean: 254.3182391437399
+Smartigan: 25 clusters 250 points 78 rep. Mean: 249.6874673157347
+
+Hartigan: 25 clusters 250 points 79 rep. Mean: 162.72242921552203
+Smartigan: 25 clusters 250 points 79 rep. Mean: 162.12256891893867
+
+Hartigan: 25 clusters 250 points 80 rep. Mean: 257.3856037488842
+Smartigan: 25 clusters 250 points 80 rep. Mean: 252.47304081079892
+
+Hartigan: 25 clusters 250 points 81 rep. Mean: 165.76834001138712
+Smartigan: 25 clusters 250 points 81 rep. Mean: 157.88994046717556
+
+Hartigan: 25 clusters 250 points 82 rep. Mean: 262.35083727883915
+Smartigan: 25 clusters 250 points 82 rep. Mean: 255.14046949521494
+
+Hartigan: 25 clusters 250 points 83 rep. Mean: 178.85490536981217
+Smartigan: 25 clusters 250 points 83 rep. Mean: 165.83872238452722
+
+Hartigan: 25 clusters 250 points 84 rep. Mean: 254.96693642390383
+Smartigan: 25 clusters 250 points 84 rep. Mean: 250.04678415175727
+
+Hartigan: 25 clusters 250 points 85 rep. Mean: 175.06846318068713
+Smartigan: 25 clusters 250 points 85 rep. Mean: 148.98381961546863
+
+Hartigan: 25 clusters 250 points 86 rep. Mean: 253.0983212226209
+Smartigan: 25 clusters 250 points 86 rep. Mean: 247.3063296035992
+
+Hartigan: 25 clusters 250 points 87 rep. Mean: 159.39260523472885
+Smartigan: 25 clusters 250 points 87 rep. Mean: 154.64879454062165
+
+Hartigan: 25 clusters 250 points 88 rep. Mean: 253.39283226178878
+Smartigan: 25 clusters 250 points 88 rep. Mean: 247.25550310349735
+
+Hartigan: 25 clusters 250 points 89 rep. Mean: 161.9821972731304
+Smartigan: 25 clusters 250 points 89 rep. Mean: 150.32166727555904
+
+Hartigan: 25 clusters 250 points 90 rep. Mean: 258.28204427056926
+Smartigan: 25 clusters 250 points 90 rep. Mean: 252.66439744821224
+
+Hartigan: 25 clusters 250 points 91 rep. Mean: 172.82347510474847
+Smartigan: 25 clusters 250 points 91 rep. Mean: 160.26227489436297
+
+Hartigan: 25 clusters 250 points 92 rep. Mean: 260.15169600501486
+Smartigan: 25 clusters 250 points 92 rep. Mean: 253.1851131809526
+
+Hartigan: 25 clusters 250 points 93 rep. Mean: 172.25745695271934
+Smartigan: 25 clusters 250 points 93 rep. Mean: 154.4722383366928
+
+Hartigan: 25 clusters 250 points 94 rep. Mean: 259.0334830897279
+Smartigan: 25 clusters 250 points 94 rep. Mean: 254.23166380561292
+
+Hartigan: 25 clusters 250 points 95 rep. Mean: 162.04421591698696
+Smartigan: 25 clusters 250 points 95 rep. Mean: 158.1746201164654
+
+Hartigan: 25 clusters 250 points 96 rep. Mean: 251.50808572271498
+Smartigan: 25 clusters 250 points 96 rep. Mean: 245.71611299188993
+
+Hartigan: 25 clusters 250 points 97 rep. Mean: 165.3935686323884
+Smartigan: 25 clusters 250 points 97 rep. Mean: 149.45602001066771
+
+Hartigan: 25 clusters 250 points 98 rep. Mean: 256.4968397478783
+Smartigan: 25 clusters 250 points 98 rep. Mean: 251.63539377234844
+
+Hartigan: 25 clusters 250 points 99 rep. Mean: 182.34444467753124
+Smartigan: 25 clusters 250 points 99 rep. Mean: 163.20578084165444
+
+Hartigan: 25 clusters 500 points 0 rep. Mean: 559.2230965958711
+Smartigan: 25 clusters 500 points 0 rep. Mean: 550.9052336621111
+
+Hartigan: 25 clusters 500 points 1 rep. Mean: 359.9876696246927
+Smartigan: 25 clusters 500 points 1 rep. Mean: 313.7491719688438
+
+Hartigan: 25 clusters 500 points 2 rep. Mean: 572.6067021964357
+Smartigan: 25 clusters 500 points 2 rep. Mean: 565.5046034717623
+
+Hartigan: 25 clusters 500 points 3 rep. Mean: 358.16551154163534
+Smartigan: 25 clusters 500 points 3 rep. Mean: 342.61970409098865
+
+Hartigan: 25 clusters 500 points 4 rep. Mean: 565.4894777015387
+Smartigan: 25 clusters 500 points 4 rep. Mean: 556.7530823720256
+
+Hartigan: 25 clusters 500 points 5 rep. Mean: 365.50900723156195
+Smartigan: 25 clusters 500 points 5 rep. Mean: 345.35211679920496
+
+Hartigan: 25 clusters 500 points 6 rep. Mean: 565.7545969576045
+Smartigan: 25 clusters 500 points 6 rep. Mean: 557.4766756675265
+
+Hartigan: 25 clusters 500 points 7 rep. Mean: 352.69957255141634
+Smartigan: 25 clusters 500 points 7 rep. Mean: 319.7377183573411
+
+Hartigan: 25 clusters 500 points 8 rep. Mean: 576.9811883888353
+Smartigan: 25 clusters 500 points 8 rep. Mean: 569.3394824341891
+
+Hartigan: 25 clusters 500 points 9 rep. Mean: 377.64980369176766
+Smartigan: 25 clusters 500 points 9 rep. Mean: 337.5055505041529
+
+Hartigan: 25 clusters 500 points 10 rep. Mean: 559.6925557949372
+Smartigan: 25 clusters 500 points 10 rep. Mean: 549.3062001876777
+
+Hartigan: 25 clusters 500 points 11 rep. Mean: 365.46592593625047
+Smartigan: 25 clusters 500 points 11 rep. Mean: 318.51062774375964
+
+Hartigan: 25 clusters 500 points 12 rep. Mean: 571.574016423722
+Smartigan: 25 clusters 500 points 12 rep. Mean: 557.7595007628399
+
+Hartigan: 25 clusters 500 points 13 rep. Mean: 350.95265396053776
+Smartigan: 25 clusters 500 points 13 rep. Mean: 331.9559245179756
+
+Hartigan: 25 clusters 500 points 14 rep. Mean: 576.9062973775027
+Smartigan: 25 clusters 500 points 14 rep. Mean: 567.9451886463205
+
+Hartigan: 25 clusters 500 points 15 rep. Mean: 376.6434492522435
+Smartigan: 25 clusters 500 points 15 rep. Mean: 367.01161096095115
+
+Hartigan: 25 clusters 500 points 16 rep. Mean: 571.3487700119953
+Smartigan: 25 clusters 500 points 16 rep. Mean: 565.0974056315924
+
+Hartigan: 25 clusters 500 points 17 rep. Mean: 375.6271652733251
+Smartigan: 25 clusters 500 points 17 rep. Mean: 345.0729300763776
+
+Hartigan: 25 clusters 500 points 18 rep. Mean: 562.9502563315971
+Smartigan: 25 clusters 500 points 18 rep. Mean: 554.233604224095
+
+Hartigan: 25 clusters 500 points 19 rep. Mean: 360.9020225253765
+Smartigan: 25 clusters 500 points 19 rep. Mean: 326.7912287411339
+
+Hartigan: 25 clusters 500 points 20 rep. Mean: 574.9002732247487
+Smartigan: 25 clusters 500 points 20 rep. Mean: 567.0519016858768
+
+Hartigan: 25 clusters 500 points 21 rep. Mean: 363.7088196221001
+Smartigan: 25 clusters 500 points 21 rep. Mean: 341.9901550773269
+
+Hartigan: 25 clusters 500 points 22 rep. Mean: 570.1377998422603
+Smartigan: 25 clusters 500 points 22 rep. Mean: 560.5891354751806
+
+Hartigan: 25 clusters 500 points 23 rep. Mean: 351.04179821340233
+Smartigan: 25 clusters 500 points 23 rep. Mean: 334.27499946527945
+
+Hartigan: 25 clusters 500 points 24 rep. Mean: 566.3494014891397
+Smartigan: 25 clusters 500 points 24 rep. Mean: 556.3507597818505
+
+Hartigan: 25 clusters 500 points 25 rep. Mean: 362.6601096338005
+Smartigan: 25 clusters 500 points 25 rep. Mean: 334.38510223212165
+
+Hartigan: 25 clusters 500 points 26 rep. Mean: 575.4861376907558
+Smartigan: 25 clusters 500 points 26 rep. Mean: 566.4395050036379
+
+Hartigan: 25 clusters 500 points 27 rep. Mean: 401.1373054630641
+Smartigan: 25 clusters 500 points 27 rep. Mean: 358.6167731797529
+
+Hartigan: 25 clusters 500 points 28 rep. Mean: 557.230899120145
+Smartigan: 25 clusters 500 points 28 rep. Mean: 549.0175423818539
+
+Hartigan: 25 clusters 500 points 29 rep. Mean: 356.42483060952395
+Smartigan: 25 clusters 500 points 29 rep. Mean: 333.8021003781038
+
+Hartigan: 25 clusters 500 points 30 rep. Mean: 579.580280542207
+Smartigan: 25 clusters 500 points 30 rep. Mean: 566.6694126997781
+
+Hartigan: 25 clusters 500 points 31 rep. Mean: 362.36632156624194
+Smartigan: 25 clusters 500 points 31 rep. Mean: 328.68051974624325
+
+Hartigan: 25 clusters 500 points 32 rep. Mean: 562.1059032769824
+Smartigan: 25 clusters 500 points 32 rep. Mean: 552.0999568634018
+
+Hartigan: 25 clusters 500 points 33 rep. Mean: 365.8538718635954
+Smartigan: 25 clusters 500 points 33 rep. Mean: 324.8619398160907
+
+Hartigan: 25 clusters 500 points 34 rep. Mean: 567.4518525405422
+Smartigan: 25 clusters 500 points 34 rep. Mean: 561.4223489399556
+
+Hartigan: 25 clusters 500 points 35 rep. Mean: 374.30036863952813
+Smartigan: 25 clusters 500 points 35 rep. Mean: 325.68390103339914
+
+Hartigan: 25 clusters 500 points 36 rep. Mean: 568.9250687982036
+Smartigan: 25 clusters 500 points 36 rep. Mean: 559.330554448275
+
+Hartigan: 25 clusters 500 points 37 rep. Mean: 363.1835169242084
+Smartigan: 25 clusters 500 points 37 rep. Mean: 313.23967417829954
+
+Hartigan: 25 clusters 500 points 38 rep. Mean: 571.0488818159245
+Smartigan: 25 clusters 500 points 38 rep. Mean: 562.8166791040796
+
+Hartigan: 25 clusters 500 points 39 rep. Mean: 374.6305755738289
+Smartigan: 25 clusters 500 points 39 rep. Mean: 322.4761745382809
+
+Hartigan: 25 clusters 500 points 40 rep. Mean: 571.8808814636369
+Smartigan: 25 clusters 500 points 40 rep. Mean: 563.4084188797744
+
+Hartigan: 25 clusters 500 points 41 rep. Mean: 378.5147748796013
+Smartigan: 25 clusters 500 points 41 rep. Mean: 366.2234605499831
+
+Hartigan: 25 clusters 500 points 42 rep. Mean: 566.2785924810267
+Smartigan: 25 clusters 500 points 42 rep. Mean: 560.4733987432611
+
+Hartigan: 25 clusters 500 points 43 rep. Mean: 382.55681100217316
+Smartigan: 25 clusters 500 points 43 rep. Mean: 330.20663613678903
+
+Hartigan: 25 clusters 500 points 44 rep. Mean: 567.4695338690864
+Smartigan: 25 clusters 500 points 44 rep. Mean: 560.3537048722553
+
+Hartigan: 25 clusters 500 points 45 rep. Mean: 337.1679461348812
+Smartigan: 25 clusters 500 points 45 rep. Mean: 331.9411330881514
+
+Hartigan: 25 clusters 500 points 46 rep. Mean: 566.1054592683195
+Smartigan: 25 clusters 500 points 46 rep. Mean: 559.8276647621672
+
+Hartigan: 25 clusters 500 points 47 rep. Mean: 365.7343367589093
+Smartigan: 25 clusters 500 points 47 rep. Mean: 342.2285727993367
+
+Hartigan: 25 clusters 500 points 48 rep. Mean: 577.8431185812855
+Smartigan: 25 clusters 500 points 48 rep. Mean: 567.9000636320179
+
+Hartigan: 25 clusters 500 points 49 rep. Mean: 355.31313221164515
+Smartigan: 25 clusters 500 points 49 rep. Mean: 336.31419730756676
+
+Hartigan: 25 clusters 500 points 50 rep. Mean: 554.9179060296899
+Smartigan: 25 clusters 500 points 50 rep. Mean: 549.3130941864654
+
+Hartigan: 25 clusters 500 points 51 rep. Mean: 347.5728000237509
+Smartigan: 25 clusters 500 points 51 rep. Mean: 326.36737835638405
+
+Hartigan: 25 clusters 500 points 52 rep. Mean: 565.0083864238982
+Smartigan: 25 clusters 500 points 52 rep. Mean: 558.9002954384654
+
+Hartigan: 25 clusters 500 points 53 rep. Mean: 342.85469456720085
+Smartigan: 25 clusters 500 points 53 rep. Mean: 319.572612631489
+
+Hartigan: 25 clusters 500 points 54 rep. Mean: 575.6132712559787
+Smartigan: 25 clusters 500 points 54 rep. Mean: 563.7324008153396
+
+Hartigan: 25 clusters 500 points 55 rep. Mean: 374.641249542797
+Smartigan: 25 clusters 500 points 55 rep. Mean: 351.4009630829652
+
+Hartigan: 25 clusters 500 points 56 rep. Mean: 566.7576777177353
+Smartigan: 25 clusters 500 points 56 rep. Mean: 555.3089187344837
+
+Hartigan: 25 clusters 500 points 57 rep. Mean: 363.7136726643156
+Smartigan: 25 clusters 500 points 57 rep. Mean: 339.6651320453224
+
+Hartigan: 25 clusters 500 points 58 rep. Mean: 564.501702052977
+Smartigan: 25 clusters 500 points 58 rep. Mean: 553.2619082351049
+
+Hartigan: 25 clusters 500 points 59 rep. Mean: 337.7026555973307
+Smartigan: 25 clusters 500 points 59 rep. Mean: 345.03065305777085
+
+Hartigan: 25 clusters 500 points 60 rep. Mean: 567.7438854910579
+Smartigan: 25 clusters 500 points 60 rep. Mean: 558.826615661946
+
+Hartigan: 25 clusters 500 points 61 rep. Mean: 347.6186576090222
+Smartigan: 25 clusters 500 points 61 rep. Mean: 319.54241447567506
+
+Hartigan: 25 clusters 500 points 62 rep. Mean: 570.4109518423218
+Smartigan: 25 clusters 500 points 62 rep. Mean: 561.9594742724485
+
+Hartigan: 25 clusters 500 points 63 rep. Mean: 400.51799972346635
+Smartigan: 25 clusters 500 points 63 rep. Mean: 323.2197033498984
+
+Hartigan: 25 clusters 500 points 64 rep. Mean: 575.1345018499825
+Smartigan: 25 clusters 500 points 64 rep. Mean: 565.600134088738
+
+Hartigan: 25 clusters 500 points 65 rep. Mean: 360.8359405773795
+Smartigan: 25 clusters 500 points 65 rep. Mean: 325.72541020154006
+
+Hartigan: 25 clusters 500 points 66 rep. Mean: 584.042670317017
+Smartigan: 25 clusters 500 points 66 rep. Mean: 573.2611972687795
+
+Hartigan: 25 clusters 500 points 67 rep. Mean: 398.64643057706826
+Smartigan: 25 clusters 500 points 67 rep. Mean: 339.36216568006694
+
+Hartigan: 25 clusters 500 points 68 rep. Mean: 571.5899322305315
+Smartigan: 25 clusters 500 points 68 rep. Mean: 563.4166945948355
+
+Hartigan: 25 clusters 500 points 69 rep. Mean: 352.95282014894286
+Smartigan: 25 clusters 500 points 69 rep. Mean: 328.3666389850287
+
+Hartigan: 25 clusters 500 points 70 rep. Mean: 562.6518057947088
+Smartigan: 25 clusters 500 points 70 rep. Mean: 553.173976480039
+
+Hartigan: 25 clusters 500 points 71 rep. Mean: 348.869143836635
+Smartigan: 25 clusters 500 points 71 rep. Mean: 329.49800767196854
+
+Hartigan: 25 clusters 500 points 72 rep. Mean: 569.1546258425612
+Smartigan: 25 clusters 500 points 72 rep. Mean: 558.1232870808766
+
+Hartigan: 25 clusters 500 points 73 rep. Mean: 367.70250057114856
+Smartigan: 25 clusters 500 points 73 rep. Mean: 360.73981409470633
+
+Hartigan: 25 clusters 500 points 74 rep. Mean: 570.9126997212798
+Smartigan: 25 clusters 500 points 74 rep. Mean: 566.3973513202128
+
+Hartigan: 25 clusters 500 points 75 rep. Mean: 371.9864603107278
+Smartigan: 25 clusters 500 points 75 rep. Mean: 328.94548102643455
+
+Hartigan: 25 clusters 500 points 76 rep. Mean: 574.9829139653864
+Smartigan: 25 clusters 500 points 76 rep. Mean: 563.8251637135372
+
+Hartigan: 25 clusters 500 points 77 rep. Mean: 392.63207461829586
+Smartigan: 25 clusters 500 points 77 rep. Mean: 348.25184183204425
+
+Hartigan: 25 clusters 500 points 78 rep. Mean: 564.5953855868053
+Smartigan: 25 clusters 500 points 78 rep. Mean: 556.4466741768798
+
+Hartigan: 25 clusters 500 points 79 rep. Mean: 351.3244092730383
+Smartigan: 25 clusters 500 points 79 rep. Mean: 333.51463755314785
+
+Hartigan: 25 clusters 500 points 80 rep. Mean: 568.8862793184251
+Smartigan: 25 clusters 500 points 80 rep. Mean: 558.8846620169262
+
+Hartigan: 25 clusters 500 points 81 rep. Mean: 347.5786057354804
+Smartigan: 25 clusters 500 points 81 rep. Mean: 329.05431013570194
+
+Hartigan: 25 clusters 500 points 82 rep. Mean: 567.0966839050737
+Smartigan: 25 clusters 500 points 82 rep. Mean: 558.4124517227801
+
+Hartigan: 25 clusters 500 points 83 rep. Mean: 389.0819337661518
+Smartigan: 25 clusters 500 points 83 rep. Mean: 345.6133443352977
+
+Hartigan: 25 clusters 500 points 84 rep. Mean: 571.6317881448582
+Smartigan: 25 clusters 500 points 84 rep. Mean: 562.0544120327608
+
+Hartigan: 25 clusters 500 points 85 rep. Mean: 373.6071942278371
+Smartigan: 25 clusters 500 points 85 rep. Mean: 329.37387260319974
+
+Hartigan: 25 clusters 500 points 86 rep. Mean: 572.8417752227056
+Smartigan: 25 clusters 500 points 86 rep. Mean: 565.7994984449424
+
+Hartigan: 25 clusters 500 points 87 rep. Mean: 391.9877414285212
+Smartigan: 25 clusters 500 points 87 rep. Mean: 339.30897048849175
+
+Hartigan: 25 clusters 500 points 88 rep. Mean: 568.156115141674
+Smartigan: 25 clusters 500 points 88 rep. Mean: 558.335565694442
+
+Hartigan: 25 clusters 500 points 89 rep. Mean: 350.21350796780706
+Smartigan: 25 clusters 500 points 89 rep. Mean: 337.8070824594298
+
+Hartigan: 25 clusters 500 points 90 rep. Mean: 554.9773815644007
+Smartigan: 25 clusters 500 points 90 rep. Mean: 545.1176789950056
+
+Hartigan: 25 clusters 500 points 91 rep. Mean: 368.7180622451193
+Smartigan: 25 clusters 500 points 91 rep. Mean: 327.8272001790108
+
+Hartigan: 25 clusters 500 points 92 rep. Mean: 577.949536850391
+Smartigan: 25 clusters 500 points 92 rep. Mean: 568.4003119624523
+
+Hartigan: 25 clusters 500 points 93 rep. Mean: 408.5690081176398
+Smartigan: 25 clusters 500 points 93 rep. Mean: 321.418748321439
+
+Hartigan: 25 clusters 500 points 94 rep. Mean: 567.6808629302874
+Smartigan: 25 clusters 500 points 94 rep. Mean: 560.3490885291286
+
+Hartigan: 25 clusters 500 points 95 rep. Mean: 344.8673611616629
+Smartigan: 25 clusters 500 points 95 rep. Mean: 344.83810938381447
+
+Hartigan: 25 clusters 500 points 96 rep. Mean: 573.2157424007668
+Smartigan: 25 clusters 500 points 96 rep. Mean: 563.1970183984873
+
+Hartigan: 25 clusters 500 points 97 rep. Mean: 368.24386669542724
+Smartigan: 25 clusters 500 points 97 rep. Mean: 335.61893358778514
+
+Hartigan: 25 clusters 500 points 98 rep. Mean: 570.2628113409576
+Smartigan: 25 clusters 500 points 98 rep. Mean: 559.6307735632879
+
+Hartigan: 25 clusters 500 points 99 rep. Mean: 363.3882911589782
+Smartigan: 25 clusters 500 points 99 rep. Mean: 344.9627309243471
+
+Hartigan: 25 clusters 1000 points 0 rep. Mean: 1207.0829015302077
+Smartigan: 25 clusters 1000 points 0 rep. Mean: 1192.2169563218604
+
+Hartigan: 25 clusters 1000 points 1 rep. Mean: 784.2812826165997
+Smartigan: 25 clusters 1000 points 1 rep. Mean: 705.3516079334219
+
+Hartigan: 25 clusters 1000 points 2 rep. Mean: 1205.9383933115537
+Smartigan: 25 clusters 1000 points 2 rep. Mean: 1192.4024383034996
+
+Hartigan: 25 clusters 1000 points 3 rep. Mean: 764.7884839819445
+Smartigan: 25 clusters 1000 points 3 rep. Mean: 731.5760162823892
+
+Hartigan: 25 clusters 1000 points 4 rep. Mean: 1199.3243472902975
+Smartigan: 25 clusters 1000 points 4 rep. Mean: 1183.5297446391055
+
+Hartigan: 25 clusters 1000 points 5 rep. Mean: 799.8023447131127
+Smartigan: 25 clusters 1000 points 5 rep. Mean: 683.6464708555948
+
+Hartigan: 25 clusters 1000 points 6 rep. Mean: 1211.5443375958387
+Smartigan: 25 clusters 1000 points 6 rep. Mean: 1203.9330824559536
+
+Hartigan: 25 clusters 1000 points 7 rep. Mean: 776.2406480747264
+Smartigan: 25 clusters 1000 points 7 rep. Mean: 710.9848055326758
+
+Hartigan: 25 clusters 1000 points 8 rep. Mean: 1199.5806144176067
+Smartigan: 25 clusters 1000 points 8 rep. Mean: 1186.1945413544022
+
+Hartigan: 25 clusters 1000 points 9 rep. Mean: 774.4776488150951
+Smartigan: 25 clusters 1000 points 9 rep. Mean: 684.0066474206143
+
+Hartigan: 25 clusters 1000 points 10 rep. Mean: 1200.1883786706226
+Smartigan: 25 clusters 1000 points 10 rep. Mean: 1189.8115580210174
+
+Hartigan: 25 clusters 1000 points 11 rep. Mean: 735.1887862006481
+Smartigan: 25 clusters 1000 points 11 rep. Mean: 703.0748330332585
+
+Hartigan: 25 clusters 1000 points 12 rep. Mean: 1198.3001235869285
+Smartigan: 25 clusters 1000 points 12 rep. Mean: 1185.987945205779
+
+Hartigan: 25 clusters 1000 points 13 rep. Mean: 806.5055305670402
+Smartigan: 25 clusters 1000 points 13 rep. Mean: 715.024568272466
+
+Hartigan: 25 clusters 1000 points 14 rep. Mean: 1195.351666836
+Smartigan: 25 clusters 1000 points 14 rep. Mean: 1183.5698900900352
+
+Hartigan: 25 clusters 1000 points 15 rep. Mean: 759.5975919418844
+Smartigan: 25 clusters 1000 points 15 rep. Mean: 695.7266655771747
+
+Hartigan: 25 clusters 1000 points 16 rep. Mean: 1196.2006863626766
+Smartigan: 25 clusters 1000 points 16 rep. Mean: 1180.1331723851472
+
+Hartigan: 25 clusters 1000 points 17 rep. Mean: 711.1296497577364
+Smartigan: 25 clusters 1000 points 17 rep. Mean: 700.7846611137691
+
+Hartigan: 25 clusters 1000 points 18 rep. Mean: 1173.9731854847885
+Smartigan: 25 clusters 1000 points 18 rep. Mean: 1165.183982765174
+
+Hartigan: 25 clusters 1000 points 19 rep. Mean: 765.8666278272785
+Smartigan: 25 clusters 1000 points 19 rep. Mean: 682.9976009927979
+
+Hartigan: 25 clusters 1000 points 20 rep. Mean: 1196.1491615679474
+Smartigan: 25 clusters 1000 points 20 rep. Mean: 1176.4415375951235
+
+Hartigan: 25 clusters 1000 points 21 rep. Mean: 716.0151693605083
+Smartigan: 25 clusters 1000 points 21 rep. Mean: 702.5531550189603
+
+Hartigan: 25 clusters 1000 points 22 rep. Mean: 1203.515115928622
+Smartigan: 25 clusters 1000 points 22 rep. Mean: 1189.1333318000763
+
+Hartigan: 25 clusters 1000 points 23 rep. Mean: 725.6759469415432
+Smartigan: 25 clusters 1000 points 23 rep. Mean: 732.5434565307462
+
+Hartigan: 25 clusters 1000 points 24 rep. Mean: 1197.3087416454034
+Smartigan: 25 clusters 1000 points 24 rep. Mean: 1186.100693572567
+
+Hartigan: 25 clusters 1000 points 25 rep. Mean: 800.3553271183307
+Smartigan: 25 clusters 1000 points 25 rep. Mean: 752.6138365854869
+
+Hartigan: 25 clusters 1000 points 26 rep. Mean: 1180.7826388769531
+Smartigan: 25 clusters 1000 points 26 rep. Mean: 1168.9589052176402
+
+Hartigan: 25 clusters 1000 points 27 rep. Mean: 780.2460068670414
+Smartigan: 25 clusters 1000 points 27 rep. Mean: 701.3662139478847
+
+Hartigan: 25 clusters 1000 points 28 rep. Mean: 1208.7775996093728
+Smartigan: 25 clusters 1000 points 28 rep. Mean: 1194.3360387883954
+
+Hartigan: 25 clusters 1000 points 29 rep. Mean: 788.0489529150273
+Smartigan: 25 clusters 1000 points 29 rep. Mean: 710.347450665225
+
+Hartigan: 25 clusters 1000 points 30 rep. Mean: 1198.6887905792169
+Smartigan: 25 clusters 1000 points 30 rep. Mean: 1187.1697756514939
+
+Hartigan: 25 clusters 1000 points 31 rep. Mean: 782.281494960724
+Smartigan: 25 clusters 1000 points 31 rep. Mean: 730.2430562821727
+
+Hartigan: 25 clusters 1000 points 32 rep. Mean: 1196.0819103615072
+Smartigan: 25 clusters 1000 points 32 rep. Mean: 1186.918746546782
+
+Hartigan: 25 clusters 1000 points 33 rep. Mean: 745.9943708178405
+Smartigan: 25 clusters 1000 points 33 rep. Mean: 684.2251074706942
+
+Hartigan: 25 clusters 1000 points 34 rep. Mean: 1212.1014226053942
+Smartigan: 25 clusters 1000 points 34 rep. Mean: 1196.7650526817492
+
+Hartigan: 25 clusters 1000 points 35 rep. Mean: 773.400212011416
+Smartigan: 25 clusters 1000 points 35 rep. Mean: 709.3713916207929
+
+Hartigan: 25 clusters 1000 points 36 rep. Mean: 1201.3067123741098
+Smartigan: 25 clusters 1000 points 36 rep. Mean: 1189.4412086709563
+
+Hartigan: 25 clusters 1000 points 37 rep. Mean: 775.7334024094532
+Smartigan: 25 clusters 1000 points 37 rep. Mean: 700.4978097670323
+
+Hartigan: 25 clusters 1000 points 38 rep. Mean: 1206.607315870379
+Smartigan: 25 clusters 1000 points 38 rep. Mean: 1194.75272704721
+
+Hartigan: 25 clusters 1000 points 39 rep. Mean: 781.6034730616684
+Smartigan: 25 clusters 1000 points 39 rep. Mean: 696.351061902493
+
+Hartigan: 25 clusters 1000 points 40 rep. Mean: 1192.8806391534422
+Smartigan: 25 clusters 1000 points 40 rep. Mean: 1177.6066077973544
+
+Hartigan: 25 clusters 1000 points 41 rep. Mean: 753.1391594638037
+Smartigan: 25 clusters 1000 points 41 rep. Mean: 734.1161570513547
+
+Hartigan: 25 clusters 1000 points 42 rep. Mean: 1195.9980899114194
+Smartigan: 25 clusters 1000 points 42 rep. Mean: 1185.1069027685937
+
+Hartigan: 25 clusters 1000 points 43 rep. Mean: 798.1222525116724
+Smartigan: 25 clusters 1000 points 43 rep. Mean: 703.2198807559497
+
+Hartigan: 25 clusters 1000 points 44 rep. Mean: 1196.3565027000598
+Smartigan: 25 clusters 1000 points 44 rep. Mean: 1182.4428849372584
+
+Hartigan: 25 clusters 1000 points 45 rep. Mean: 785.932112668346
+Smartigan: 25 clusters 1000 points 45 rep. Mean: 723.3495016261107
+
+Hartigan: 25 clusters 1000 points 46 rep. Mean: 1190.659507811231
+Smartigan: 25 clusters 1000 points 46 rep. Mean: 1176.3597906819787
+
+Hartigan: 25 clusters 1000 points 47 rep. Mean: 771.3709589346159
+Smartigan: 25 clusters 1000 points 47 rep. Mean: 700.8059580269826
+
+Hartigan: 25 clusters 1000 points 48 rep. Mean: 1192.0675255819108
+Smartigan: 25 clusters 1000 points 48 rep. Mean: 1185.016433019688
+
+Hartigan: 25 clusters 1000 points 49 rep. Mean: 788.2744471748753
+Smartigan: 25 clusters 1000 points 49 rep. Mean: 764.5533813183838
+
+Hartigan: 25 clusters 1000 points 50 rep. Mean: 1211.1661573216838
+Smartigan: 25 clusters 1000 points 50 rep. Mean: 1198.9527382083488
+
+Hartigan: 25 clusters 1000 points 51 rep. Mean: 778.1042528816854
+Smartigan: 25 clusters 1000 points 51 rep. Mean: 716.681090075363
+
+Hartigan: 25 clusters 1000 points 52 rep. Mean: 1194.9438760482171
+Smartigan: 25 clusters 1000 points 52 rep. Mean: 1185.0108363781435
+
+Hartigan: 25 clusters 1000 points 53 rep. Mean: 755.1089157248168
+Smartigan: 25 clusters 1000 points 53 rep. Mean: 698.1424925299988
+
+Hartigan: 25 clusters 1000 points 54 rep. Mean: 1186.5539399255226
+Smartigan: 25 clusters 1000 points 54 rep. Mean: 1176.9708818628865
+
+Hartigan: 25 clusters 1000 points 55 rep. Mean: 733.7356803310856
+Smartigan: 25 clusters 1000 points 55 rep. Mean: 681.2327660840385
+
+Hartigan: 25 clusters 1000 points 56 rep. Mean: 1205.7587225081286
+Smartigan: 25 clusters 1000 points 56 rep. Mean: 1198.5384142920404
+
+Hartigan: 25 clusters 1000 points 57 rep. Mean: 735.5578590907135
+Smartigan: 25 clusters 1000 points 57 rep. Mean: 680.5822436098017
+
+Hartigan: 25 clusters 1000 points 58 rep. Mean: 1193.1649203150785
+Smartigan: 25 clusters 1000 points 58 rep. Mean: 1176.4409182066054
+
+Hartigan: 25 clusters 1000 points 59 rep. Mean: 751.1427796083784
+Smartigan: 25 clusters 1000 points 59 rep. Mean: 728.7364082173
+
+Hartigan: 25 clusters 1000 points 60 rep. Mean: 1209.1989283119983
+Smartigan: 25 clusters 1000 points 60 rep. Mean: 1193.1238833131563
+
+Hartigan: 25 clusters 1000 points 61 rep. Mean: 779.4336630079742
+Smartigan: 25 clusters 1000 points 61 rep. Mean: 733.2892370292676
+
+Hartigan: 25 clusters 1000 points 62 rep. Mean: 1187.2662897071143
+Smartigan: 25 clusters 1000 points 62 rep. Mean: 1180.3933665135396
+
+Hartigan: 25 clusters 1000 points 63 rep. Mean: 756.1728639557354
+Smartigan: 25 clusters 1000 points 63 rep. Mean: 646.9217787861484
+
+Hartigan: 25 clusters 1000 points 64 rep. Mean: 1190.1996920102329
+Smartigan: 25 clusters 1000 points 64 rep. Mean: 1177.7190805614123
+
+Hartigan: 25 clusters 1000 points 65 rep. Mean: 763.3791243676051
+Smartigan: 25 clusters 1000 points 65 rep. Mean: 736.970500285204
+
+Hartigan: 25 clusters 1000 points 66 rep. Mean: 1220.253577561268
+Smartigan: 25 clusters 1000 points 66 rep. Mean: 1205.6452071866931
+
+Hartigan: 25 clusters 1000 points 67 rep. Mean: 793.8031456887513
+Smartigan: 25 clusters 1000 points 67 rep. Mean: 690.0681751180267
+
+Hartigan: 25 clusters 1000 points 68 rep. Mean: 1202.6999331600346
+Smartigan: 25 clusters 1000 points 68 rep. Mean: 1187.3448796630114
+
+Hartigan: 25 clusters 1000 points 69 rep. Mean: 717.7324753786517
+Smartigan: 25 clusters 1000 points 69 rep. Mean: 692.8526723630932
+
+Hartigan: 25 clusters 1000 points 70 rep. Mean: 1207.796231973552
+Smartigan: 25 clusters 1000 points 70 rep. Mean: 1194.1944881017266
+
+Hartigan: 25 clusters 1000 points 71 rep. Mean: 772.1967795169877
+Smartigan: 25 clusters 1000 points 71 rep. Mean: 700.4827258817269
+
+Hartigan: 25 clusters 1000 points 72 rep. Mean: 1178.4495018019265
+Smartigan: 25 clusters 1000 points 72 rep. Mean: 1165.9704481375659
+
+Hartigan: 25 clusters 1000 points 73 rep. Mean: 816.7756648588422
+Smartigan: 25 clusters 1000 points 73 rep. Mean: 717.061373183859
+
+Hartigan: 25 clusters 1000 points 74 rep. Mean: 1183.5417822105887
+Smartigan: 25 clusters 1000 points 74 rep. Mean: 1167.6351593462828
+
+Hartigan: 25 clusters 1000 points 75 rep. Mean: 758.8575350332275
+Smartigan: 25 clusters 1000 points 75 rep. Mean: 667.8568238013554
+
+Hartigan: 25 clusters 1000 points 76 rep. Mean: 1195.229877772354
+Smartigan: 25 clusters 1000 points 76 rep. Mean: 1183.9370116240011
+
+Hartigan: 25 clusters 1000 points 77 rep. Mean: 776.7574792708997
+Smartigan: 25 clusters 1000 points 77 rep. Mean: 699.9356486323038
+
+Hartigan: 25 clusters 1000 points 78 rep. Mean: 1183.8547039974658
+Smartigan: 25 clusters 1000 points 78 rep. Mean: 1175.3186275036398
+
+Hartigan: 25 clusters 1000 points 79 rep. Mean: 779.5599602474379
+Smartigan: 25 clusters 1000 points 79 rep. Mean: 683.950147353623
+
+Hartigan: 25 clusters 1000 points 80 rep. Mean: 1181.4494500033966
+Smartigan: 25 clusters 1000 points 80 rep. Mean: 1172.7883595486157
+
+Hartigan: 25 clusters 1000 points 81 rep. Mean: 739.259207880031
+Smartigan: 25 clusters 1000 points 81 rep. Mean: 698.096411056417
+
+Hartigan: 25 clusters 1000 points 82 rep. Mean: 1211.1127513448482
+Smartigan: 25 clusters 1000 points 82 rep. Mean: 1195.1686053762419
+
+Hartigan: 25 clusters 1000 points 83 rep. Mean: 750.0341302373862
+Smartigan: 25 clusters 1000 points 83 rep. Mean: 705.0016317947028
+
+Hartigan: 25 clusters 1000 points 84 rep. Mean: 1192.7148232320196
+Smartigan: 25 clusters 1000 points 84 rep. Mean: 1183.4883322082549
+
+Hartigan: 25 clusters 1000 points 85 rep. Mean: 801.2710470650238
+Smartigan: 25 clusters 1000 points 85 rep. Mean: 719.6439323048664
+
+Hartigan: 25 clusters 1000 points 86 rep. Mean: 1194.6938208062488
+Smartigan: 25 clusters 1000 points 86 rep. Mean: 1182.5943458151505
+
+Hartigan: 25 clusters 1000 points 87 rep. Mean: 771.9848133922269
+Smartigan: 25 clusters 1000 points 87 rep. Mean: 683.682917365688
+
+Hartigan: 25 clusters 1000 points 88 rep. Mean: 1195.8354441725155
+Smartigan: 25 clusters 1000 points 88 rep. Mean: 1178.6405975356315
+
+Hartigan: 25 clusters 1000 points 89 rep. Mean: 778.4068912750289
+Smartigan: 25 clusters 1000 points 89 rep. Mean: 728.8021879937352
+
+Hartigan: 25 clusters 1000 points 90 rep. Mean: 1199.4332072735392
+Smartigan: 25 clusters 1000 points 90 rep. Mean: 1181.196244646772
+
+Hartigan: 25 clusters 1000 points 91 rep. Mean: 771.3159914860782
+Smartigan: 25 clusters 1000 points 91 rep. Mean: 707.9045380366191
+
+Hartigan: 25 clusters 1000 points 92 rep. Mean: 1201.4524947944926
+Smartigan: 25 clusters 1000 points 92 rep. Mean: 1187.7760802514035
+
+Hartigan: 25 clusters 1000 points 93 rep. Mean: 750.6175970874017
+Smartigan: 25 clusters 1000 points 93 rep. Mean: 715.5408839711918
+
+Hartigan: 25 clusters 1000 points 94 rep. Mean: 1185.9395089917512
+Smartigan: 25 clusters 1000 points 94 rep. Mean: 1170.3544937806896
+
+Hartigan: 25 clusters 1000 points 95 rep. Mean: 695.8604392594393
+Smartigan: 25 clusters 1000 points 95 rep. Mean: 711.1101300595785
+
+Hartigan: 25 clusters 1000 points 96 rep. Mean: 1186.4327770687194
+Smartigan: 25 clusters 1000 points 96 rep. Mean: 1170.6769230330708
+
+Hartigan: 25 clusters 1000 points 97 rep. Mean: 789.9946870580823
+Smartigan: 25 clusters 1000 points 97 rep. Mean: 756.7456671194216
+
+Hartigan: 25 clusters 1000 points 98 rep. Mean: 1214.9505191365392
+Smartigan: 25 clusters 1000 points 98 rep. Mean: 1206.5482686208957
+
+Hartigan: 25 clusters 1000 points 99 rep. Mean: 829.5092520971439
+Smartigan: 25 clusters 1000 points 99 rep. Mean: 694.0588542359051
+

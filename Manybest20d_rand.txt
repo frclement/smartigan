@@ -1,0 +1,2700 @@
+Hartigan: 2 clusters 250 points 0 rep. Best: 1423.9237309021426
+Smartigan: 2 clusters 250 points 0 rep. Best: 1423.9237309021426
+
+Hartigan: 2 clusters 250 points 1 rep. Best: 474.6412436340474
+Smartigan: 2 clusters 250 points 1 rep. Best: 474.6412436340474
+
+Hartigan: 2 clusters 250 points 2 rep. Best: 1427.8139032785518
+Smartigan: 2 clusters 250 points 2 rep. Best: 1427.8139032785518
+
+Hartigan: 2 clusters 250 points 3 rep. Best: 475.9379677595172
+Smartigan: 2 clusters 250 points 3 rep. Best: 475.9379677595172
+
+Hartigan: 2 clusters 250 points 4 rep. Best: 1433.441285069029
+Smartigan: 2 clusters 250 points 4 rep. Best: 1433.441285069029
+
+Hartigan: 2 clusters 250 points 5 rep. Best: 477.8137616896761
+Smartigan: 2 clusters 250 points 5 rep. Best: 477.8137616896761
+
+Hartigan: 2 clusters 250 points 6 rep. Best: 1411.1258008136288
+Smartigan: 2 clusters 250 points 6 rep. Best: 1411.1258008136288
+
+Hartigan: 2 clusters 250 points 7 rep. Best: 470.3752669378766
+Smartigan: 2 clusters 250 points 7 rep. Best: 470.3752669378766
+
+Hartigan: 2 clusters 250 points 8 rep. Best: 1435.99869496365
+Smartigan: 2 clusters 250 points 8 rep. Best: 1435.99869496365
+
+Hartigan: 2 clusters 250 points 9 rep. Best: 478.66623165454956
+Smartigan: 2 clusters 250 points 9 rep. Best: 478.66623165454956
+
+Hartigan: 2 clusters 250 points 10 rep. Best: 1431.2467408805899
+Smartigan: 2 clusters 250 points 10 rep. Best: 1431.2467408805899
+
+Hartigan: 2 clusters 250 points 11 rep. Best: 477.08224696019664
+Smartigan: 2 clusters 250 points 11 rep. Best: 477.08224696019664
+
+Hartigan: 2 clusters 250 points 12 rep. Best: 1447.634618226255
+Smartigan: 2 clusters 250 points 12 rep. Best: 1447.634618226255
+
+Hartigan: 2 clusters 250 points 13 rep. Best: 482.54487274208543
+Smartigan: 2 clusters 250 points 13 rep. Best: 482.54487274208543
+
+Hartigan: 2 clusters 250 points 14 rep. Best: 1423.1050546968902
+Smartigan: 2 clusters 250 points 14 rep. Best: 1423.1050546968902
+
+Hartigan: 2 clusters 250 points 15 rep. Best: 474.36835156563023
+Smartigan: 2 clusters 250 points 15 rep. Best: 474.36835156563023
+
+Hartigan: 2 clusters 250 points 16 rep. Best: 1436.4115368550254
+Smartigan: 2 clusters 250 points 16 rep. Best: 1436.4115368550254
+
+Hartigan: 2 clusters 250 points 17 rep. Best: 478.8038456183414
+Smartigan: 2 clusters 250 points 17 rep. Best: 478.8038456183414
+
+Hartigan: 2 clusters 250 points 18 rep. Best: 1439.2419826106059
+Smartigan: 2 clusters 250 points 18 rep. Best: 1439.2419826106059
+
+Hartigan: 2 clusters 250 points 19 rep. Best: 479.74732753686885
+Smartigan: 2 clusters 250 points 19 rep. Best: 479.74732753686885
+
+Hartigan: 2 clusters 250 points 20 rep. Best: 1453.243892633175
+Smartigan: 2 clusters 250 points 20 rep. Best: 1453.243892633175
+
+Hartigan: 2 clusters 250 points 21 rep. Best: 484.4146308777249
+Smartigan: 2 clusters 250 points 21 rep. Best: 484.4146308777249
+
+Hartigan: 2 clusters 250 points 22 rep. Best: 1434.553763026549
+Smartigan: 2 clusters 250 points 22 rep. Best: 1434.553763026549
+
+Hartigan: 2 clusters 250 points 23 rep. Best: 478.18458767551607
+Smartigan: 2 clusters 250 points 23 rep. Best: 478.18458767551607
+
+Hartigan: 2 clusters 250 points 24 rep. Best: 1413.5393760030456
+Smartigan: 2 clusters 250 points 24 rep. Best: 1413.5393760030456
+
+Hartigan: 2 clusters 250 points 25 rep. Best: 471.1797920010149
+Smartigan: 2 clusters 250 points 25 rep. Best: 471.1797920010149
+
+Hartigan: 2 clusters 250 points 26 rep. Best: 1415.8614990844212
+Smartigan: 2 clusters 250 points 26 rep. Best: 1415.8614990844212
+
+Hartigan: 2 clusters 250 points 27 rep. Best: 471.9538330281408
+Smartigan: 2 clusters 250 points 27 rep. Best: 471.9538330281408
+
+Hartigan: 2 clusters 250 points 28 rep. Best: 1420.897607652921
+Smartigan: 2 clusters 250 points 28 rep. Best: 1420.897607652921
+
+Hartigan: 2 clusters 250 points 29 rep. Best: 473.63253588430706
+Smartigan: 2 clusters 250 points 29 rep. Best: 473.63253588430706
+
+Hartigan: 2 clusters 250 points 30 rep. Best: 1414.238774201504
+Smartigan: 2 clusters 250 points 30 rep. Best: 1414.238774201504
+
+Hartigan: 2 clusters 250 points 31 rep. Best: 471.412924733835
+Smartigan: 2 clusters 250 points 31 rep. Best: 471.412924733835
+
+Hartigan: 2 clusters 250 points 32 rep. Best: 1436.329936581406
+Smartigan: 2 clusters 250 points 32 rep. Best: 1436.329936581406
+
+Hartigan: 2 clusters 250 points 33 rep. Best: 478.77664552713503
+Smartigan: 2 clusters 250 points 33 rep. Best: 478.77664552713503
+
+Hartigan: 2 clusters 250 points 34 rep. Best: 1421.291129658197
+Smartigan: 2 clusters 250 points 34 rep. Best: 1421.291129658197
+
+Hartigan: 2 clusters 250 points 35 rep. Best: 473.7637098860657
+Smartigan: 2 clusters 250 points 35 rep. Best: 473.7637098860657
+
+Hartigan: 2 clusters 250 points 36 rep. Best: 1432.7441823655247
+Smartigan: 2 clusters 250 points 36 rep. Best: 1432.7441823655247
+
+Hartigan: 2 clusters 250 points 37 rep. Best: 477.5813941218417
+Smartigan: 2 clusters 250 points 37 rep. Best: 477.5813941218417
+
+Hartigan: 2 clusters 250 points 38 rep. Best: 1430.213369682432
+Smartigan: 2 clusters 250 points 38 rep. Best: 1430.213369682432
+
+Hartigan: 2 clusters 250 points 39 rep. Best: 476.73778989414416
+Smartigan: 2 clusters 250 points 39 rep. Best: 476.73778989414416
+
+Hartigan: 2 clusters 250 points 40 rep. Best: 1439.3824907821104
+Smartigan: 2 clusters 250 points 40 rep. Best: 1439.3824907821104
+
+Hartigan: 2 clusters 250 points 41 rep. Best: 479.79416359403655
+Smartigan: 2 clusters 250 points 41 rep. Best: 479.79416359403655
+
+Hartigan: 2 clusters 250 points 42 rep. Best: 1447.0196419792712
+Smartigan: 2 clusters 250 points 42 rep. Best: 1447.0196419792712
+
+Hartigan: 2 clusters 250 points 43 rep. Best: 482.3398806597567
+Smartigan: 2 clusters 250 points 43 rep. Best: 482.3398806597567
+
+Hartigan: 2 clusters 250 points 44 rep. Best: 1443.3357731642634
+Smartigan: 2 clusters 250 points 44 rep. Best: 1443.3357731642634
+
+Hartigan: 2 clusters 250 points 45 rep. Best: 481.11192438808774
+Smartigan: 2 clusters 250 points 45 rep. Best: 481.11192438808774
+
+Hartigan: 2 clusters 250 points 46 rep. Best: 1432.4118370635097
+Smartigan: 2 clusters 250 points 46 rep. Best: 1432.4118370635097
+
+Hartigan: 2 clusters 250 points 47 rep. Best: 477.47061235450275
+Smartigan: 2 clusters 250 points 47 rep. Best: 477.47061235450275
+
+Hartigan: 2 clusters 250 points 48 rep. Best: 1417.6012584288246
+Smartigan: 2 clusters 250 points 48 rep. Best: 1417.6012584288246
+
+Hartigan: 2 clusters 250 points 49 rep. Best: 472.5337528096084
+Smartigan: 2 clusters 250 points 49 rep. Best: 472.5337528096084
+
+Hartigan: 2 clusters 250 points 50 rep. Best: 1414.6015959586343
+Smartigan: 2 clusters 250 points 50 rep. Best: 1414.6015959586343
+
+Hartigan: 2 clusters 250 points 51 rep. Best: 471.5338653195448
+Smartigan: 2 clusters 250 points 51 rep. Best: 471.5338653195448
+
+Hartigan: 2 clusters 250 points 52 rep. Best: 1433.1077108852348
+Smartigan: 2 clusters 250 points 52 rep. Best: 1433.1077108852348
+
+Hartigan: 2 clusters 250 points 53 rep. Best: 477.70257029507866
+Smartigan: 2 clusters 250 points 53 rep. Best: 477.70257029507866
+
+Hartigan: 2 clusters 250 points 54 rep. Best: 1416.073723418988
+Smartigan: 2 clusters 250 points 54 rep. Best: 1416.073723418988
+
+Hartigan: 2 clusters 250 points 55 rep. Best: 472.0245744729961
+Smartigan: 2 clusters 250 points 55 rep. Best: 472.0245744729961
+
+Hartigan: 2 clusters 250 points 56 rep. Best: 1451.337824406979
+Smartigan: 2 clusters 250 points 56 rep. Best: 1451.337824406979
+
+Hartigan: 2 clusters 250 points 57 rep. Best: 483.77927480232654
+Smartigan: 2 clusters 250 points 57 rep. Best: 483.77927480232654
+
+Hartigan: 2 clusters 250 points 58 rep. Best: 1453.8555876480057
+Smartigan: 2 clusters 250 points 58 rep. Best: 1453.8555876480057
+
+Hartigan: 2 clusters 250 points 59 rep. Best: 484.61852921600155
+Smartigan: 2 clusters 250 points 59 rep. Best: 484.61852921600155
+
+Hartigan: 2 clusters 250 points 60 rep. Best: 1445.0466515325093
+Smartigan: 2 clusters 250 points 60 rep. Best: 1445.0466515325093
+
+Hartigan: 2 clusters 250 points 61 rep. Best: 481.6822171775032
+Smartigan: 2 clusters 250 points 61 rep. Best: 481.6822171775032
+
+Hartigan: 2 clusters 250 points 62 rep. Best: 1447.3409304283539
+Smartigan: 2 clusters 250 points 62 rep. Best: 1447.3409304283539
+
+Hartigan: 2 clusters 250 points 63 rep. Best: 482.4469768094517
+Smartigan: 2 clusters 250 points 63 rep. Best: 482.4469768094517
+
+Hartigan: 2 clusters 250 points 64 rep. Best: 1433.9810011875725
+Smartigan: 2 clusters 250 points 64 rep. Best: 1433.9810011875725
+
+Hartigan: 2 clusters 250 points 65 rep. Best: 477.9936670625247
+Smartigan: 2 clusters 250 points 65 rep. Best: 477.9936670625247
+
+Hartigan: 2 clusters 250 points 66 rep. Best: 1423.86008893839
+Smartigan: 2 clusters 250 points 66 rep. Best: 1423.86008893839
+
+Hartigan: 2 clusters 250 points 67 rep. Best: 474.6200296461298
+Smartigan: 2 clusters 250 points 67 rep. Best: 474.6200296461298
+
+Hartigan: 2 clusters 250 points 68 rep. Best: 1428.5109371054814
+Smartigan: 2 clusters 250 points 68 rep. Best: 1428.5109371054814
+
+Hartigan: 2 clusters 250 points 69 rep. Best: 476.1703123684939
+Smartigan: 2 clusters 250 points 69 rep. Best: 476.1703123684939
+
+Hartigan: 2 clusters 250 points 70 rep. Best: 1437.1681439250003
+Smartigan: 2 clusters 250 points 70 rep. Best: 1437.1681439250003
+
+Hartigan: 2 clusters 250 points 71 rep. Best: 479.4494303993081
+Smartigan: 2 clusters 250 points 71 rep. Best: 479.4494303993081
+
+Hartigan: 2 clusters 250 points 72 rep. Best: 1440.741381931583
+Smartigan: 2 clusters 250 points 72 rep. Best: 1440.741381931583
+
+Hartigan: 2 clusters 250 points 73 rep. Best: 480.2471273105277
+Smartigan: 2 clusters 250 points 73 rep. Best: 480.2471273105277
+
+Hartigan: 2 clusters 250 points 74 rep. Best: 1426.2899242305446
+Smartigan: 2 clusters 250 points 74 rep. Best: 1426.2899242305446
+
+Hartigan: 2 clusters 250 points 75 rep. Best: 475.4299747435147
+Smartigan: 2 clusters 250 points 75 rep. Best: 475.4299747435147
+
+Hartigan: 2 clusters 250 points 76 rep. Best: 1442.3040863101428
+Smartigan: 2 clusters 250 points 76 rep. Best: 1442.3040863101428
+
+Hartigan: 2 clusters 250 points 77 rep. Best: 480.76802877004707
+Smartigan: 2 clusters 250 points 77 rep. Best: 480.76802877004707
+
+Hartigan: 2 clusters 250 points 78 rep. Best: 1442.79595574319
+Smartigan: 2 clusters 250 points 78 rep. Best: 1442.79595574319
+
+Hartigan: 2 clusters 250 points 79 rep. Best: 480.9319852477304
+Smartigan: 2 clusters 250 points 79 rep. Best: 480.9319852477304
+
+Hartigan: 2 clusters 250 points 80 rep. Best: 1448.176778293094
+Smartigan: 2 clusters 250 points 80 rep. Best: 1448.176778293094
+
+Hartigan: 2 clusters 250 points 81 rep. Best: 482.72559276436516
+Smartigan: 2 clusters 250 points 81 rep. Best: 482.72559276436516
+
+Hartigan: 2 clusters 250 points 82 rep. Best: 1419.7534119984755
+Smartigan: 2 clusters 250 points 82 rep. Best: 1419.7534119984755
+
+Hartigan: 2 clusters 250 points 83 rep. Best: 473.2511373328252
+Smartigan: 2 clusters 250 points 83 rep. Best: 473.2511373328252
+
+Hartigan: 2 clusters 250 points 84 rep. Best: 1451.422245701678
+Smartigan: 2 clusters 250 points 84 rep. Best: 1451.422245701678
+
+Hartigan: 2 clusters 250 points 85 rep. Best: 483.8074152338924
+Smartigan: 2 clusters 250 points 85 rep. Best: 483.8074152338924
+
+Hartigan: 2 clusters 250 points 86 rep. Best: 1440.7952906262642
+Smartigan: 2 clusters 250 points 86 rep. Best: 1440.7952906262642
+
+Hartigan: 2 clusters 250 points 87 rep. Best: 480.2650968754216
+Smartigan: 2 clusters 250 points 87 rep. Best: 480.2650968754216
+
+Hartigan: 2 clusters 250 points 88 rep. Best: 1423.5819960688434
+Smartigan: 2 clusters 250 points 88 rep. Best: 1423.5819960688434
+
+Hartigan: 2 clusters 250 points 89 rep. Best: 474.5273320229474
+Smartigan: 2 clusters 250 points 89 rep. Best: 474.5273320229474
+
+Hartigan: 2 clusters 250 points 90 rep. Best: 1431.1450477657158
+Smartigan: 2 clusters 250 points 90 rep. Best: 1431.1450477657158
+
+Hartigan: 2 clusters 250 points 91 rep. Best: 477.0483492552387
+Smartigan: 2 clusters 250 points 91 rep. Best: 477.0483492552387
+
+Hartigan: 2 clusters 250 points 92 rep. Best: 1431.1605245188005
+Smartigan: 2 clusters 250 points 92 rep. Best: 1431.1605245188005
+
+Hartigan: 2 clusters 250 points 93 rep. Best: 477.053508172934
+Smartigan: 2 clusters 250 points 93 rep. Best: 477.053508172934
+
+Hartigan: 2 clusters 250 points 94 rep. Best: 1428.5156577772116
+Smartigan: 2 clusters 250 points 94 rep. Best: 1428.5156577772116
+
+Hartigan: 2 clusters 250 points 95 rep. Best: 476.17188592573694
+Smartigan: 2 clusters 250 points 95 rep. Best: 476.17188592573694
+
+Hartigan: 2 clusters 250 points 96 rep. Best: 1437.9413794815982
+Smartigan: 2 clusters 250 points 96 rep. Best: 1437.9413794815982
+
+Hartigan: 2 clusters 250 points 97 rep. Best: 479.31379316053267
+Smartigan: 2 clusters 250 points 97 rep. Best: 479.31379316053267
+
+Hartigan: 2 clusters 250 points 98 rep. Best: 1443.7247593017353
+Smartigan: 2 clusters 250 points 98 rep. Best: 1443.7247593017353
+
+Hartigan: 2 clusters 250 points 99 rep. Best: 481.24158643391166
+Smartigan: 2 clusters 250 points 99 rep. Best: 481.24158643391166
+
+Hartigan: 2 clusters 500 points 0 rep. Best: 2936.745230053629
+Smartigan: 2 clusters 500 points 0 rep. Best: 2936.745230053629
+
+Hartigan: 2 clusters 500 points 1 rep. Best: 978.9150766845441
+Smartigan: 2 clusters 500 points 1 rep. Best: 978.9150766845441
+
+Hartigan: 2 clusters 500 points 2 rep. Best: 2940.2388712880725
+Smartigan: 2 clusters 500 points 2 rep. Best: 2940.2388712880725
+
+Hartigan: 2 clusters 500 points 3 rep. Best: 980.0796237626903
+Smartigan: 2 clusters 500 points 3 rep. Best: 980.0796237626903
+
+Hartigan: 2 clusters 500 points 4 rep. Best: 2917.74327196832
+Smartigan: 2 clusters 500 points 4 rep. Best: 2917.74327196832
+
+Hartigan: 2 clusters 500 points 5 rep. Best: 972.581090656107
+Smartigan: 2 clusters 500 points 5 rep. Best: 972.581090656107
+
+Hartigan: 2 clusters 500 points 6 rep. Best: 2905.6631132956045
+Smartigan: 2 clusters 500 points 6 rep. Best: 2905.6631132956045
+
+Hartigan: 2 clusters 500 points 7 rep. Best: 968.554371098535
+Smartigan: 2 clusters 500 points 7 rep. Best: 968.554371098535
+
+Hartigan: 2 clusters 500 points 8 rep. Best: 2896.0160626991897
+Smartigan: 2 clusters 500 points 8 rep. Best: 2896.0160626991897
+
+Hartigan: 2 clusters 500 points 9 rep. Best: 965.3386875663977
+Smartigan: 2 clusters 500 points 9 rep. Best: 965.3386875663977
+
+Hartigan: 2 clusters 500 points 10 rep. Best: 2899.6366872596127
+Smartigan: 2 clusters 500 points 10 rep. Best: 2899.6366872596127
+
+Hartigan: 2 clusters 500 points 11 rep. Best: 966.5455624198717
+Smartigan: 2 clusters 500 points 11 rep. Best: 966.5455624198717
+
+Hartigan: 2 clusters 500 points 12 rep. Best: 2916.84186360784
+Smartigan: 2 clusters 500 points 12 rep. Best: 2916.84186360784
+
+Hartigan: 2 clusters 500 points 13 rep. Best: 972.2806212026152
+Smartigan: 2 clusters 500 points 13 rep. Best: 972.2806212026152
+
+Hartigan: 2 clusters 500 points 14 rep. Best: 2902.4445856981038
+Smartigan: 2 clusters 500 points 14 rep. Best: 2902.4445856981038
+
+Hartigan: 2 clusters 500 points 15 rep. Best: 967.4815285660353
+Smartigan: 2 clusters 500 points 15 rep. Best: 967.4815285660353
+
+Hartigan: 2 clusters 500 points 16 rep. Best: 2868.6308729823604
+Smartigan: 2 clusters 500 points 16 rep. Best: 2868.6308729823604
+
+Hartigan: 2 clusters 500 points 17 rep. Best: 956.210290994121
+Smartigan: 2 clusters 500 points 17 rep. Best: 956.210290994121
+
+Hartigan: 2 clusters 500 points 18 rep. Best: 2889.885474003341
+Smartigan: 2 clusters 500 points 18 rep. Best: 2889.885474003341
+
+Hartigan: 2 clusters 500 points 19 rep. Best: 963.2951580011134
+Smartigan: 2 clusters 500 points 19 rep. Best: 963.2951580011134
+
+Hartigan: 2 clusters 500 points 20 rep. Best: 2893.3710488401794
+Smartigan: 2 clusters 500 points 20 rep. Best: 2893.3710488401794
+
+Hartigan: 2 clusters 500 points 21 rep. Best: 964.4570162800597
+Smartigan: 2 clusters 500 points 21 rep. Best: 964.4570162800597
+
+Hartigan: 2 clusters 500 points 22 rep. Best: 2917.8310352595236
+Smartigan: 2 clusters 500 points 22 rep. Best: 2917.8310352595236
+
+Hartigan: 2 clusters 500 points 23 rep. Best: 972.6103450865082
+Smartigan: 2 clusters 500 points 23 rep. Best: 972.6103450865082
+
+Hartigan: 2 clusters 500 points 24 rep. Best: 2937.706233974488
+Smartigan: 2 clusters 500 points 24 rep. Best: 2937.706233974488
+
+Hartigan: 2 clusters 500 points 25 rep. Best: 979.2354113248298
+Smartigan: 2 clusters 500 points 25 rep. Best: 979.2354113248298
+
+Hartigan: 2 clusters 500 points 26 rep. Best: 2910.4787395686453
+Smartigan: 2 clusters 500 points 26 rep. Best: 2910.4787395686453
+
+Hartigan: 2 clusters 500 points 27 rep. Best: 970.1595798562163
+Smartigan: 2 clusters 500 points 27 rep. Best: 970.1595798562163
+
+Hartigan: 2 clusters 500 points 28 rep. Best: 2882.0688423169727
+Smartigan: 2 clusters 500 points 28 rep. Best: 2882.0688423169727
+
+Hartigan: 2 clusters 500 points 29 rep. Best: 960.689614105656
+Smartigan: 2 clusters 500 points 29 rep. Best: 960.689614105656
+
+Hartigan: 2 clusters 500 points 30 rep. Best: 2930.0984259423744
+Smartigan: 2 clusters 500 points 30 rep. Best: 2930.0984259423744
+
+Hartigan: 2 clusters 500 points 31 rep. Best: 976.6994753141253
+Smartigan: 2 clusters 500 points 31 rep. Best: 976.6994753141253
+
+Hartigan: 2 clusters 500 points 32 rep. Best: 2880.0821120370915
+Smartigan: 2 clusters 500 points 32 rep. Best: 2880.0821120370915
+
+Hartigan: 2 clusters 500 points 33 rep. Best: 960.0273706790302
+Smartigan: 2 clusters 500 points 33 rep. Best: 960.0273706790302
+
+Hartigan: 2 clusters 500 points 34 rep. Best: 2942.7780279049034
+Smartigan: 2 clusters 500 points 34 rep. Best: 2942.7780279049034
+
+Hartigan: 2 clusters 500 points 35 rep. Best: 980.9260093016344
+Smartigan: 2 clusters 500 points 35 rep. Best: 980.9260093016344
+
+Hartigan: 2 clusters 500 points 36 rep. Best: 2899.5450299460867
+Smartigan: 2 clusters 500 points 36 rep. Best: 2899.5450299460867
+
+Hartigan: 2 clusters 500 points 37 rep. Best: 966.5150099820299
+Smartigan: 2 clusters 500 points 37 rep. Best: 966.5150099820299
+
+Hartigan: 2 clusters 500 points 38 rep. Best: 2891.3184928548717
+Smartigan: 2 clusters 500 points 38 rep. Best: 2891.3184928548717
+
+Hartigan: 2 clusters 500 points 39 rep. Best: 963.7728309516249
+Smartigan: 2 clusters 500 points 39 rep. Best: 963.7728309516249
+
+Hartigan: 2 clusters 500 points 40 rep. Best: 2879.50266466564
+Smartigan: 2 clusters 500 points 40 rep. Best: 2879.50266466564
+
+Hartigan: 2 clusters 500 points 41 rep. Best: 959.8342215552119
+Smartigan: 2 clusters 500 points 41 rep. Best: 959.8342215552119
+
+Hartigan: 2 clusters 500 points 42 rep. Best: 2937.681694401627
+Smartigan: 2 clusters 500 points 42 rep. Best: 2937.681694401627
+
+Hartigan: 2 clusters 500 points 43 rep. Best: 979.2272314672091
+Smartigan: 2 clusters 500 points 43 rep. Best: 979.2272314672091
+
+Hartigan: 2 clusters 500 points 44 rep. Best: 2889.8795500244073
+Smartigan: 2 clusters 500 points 44 rep. Best: 2889.8795500244073
+
+Hartigan: 2 clusters 500 points 45 rep. Best: 963.2931833414698
+Smartigan: 2 clusters 500 points 45 rep. Best: 963.2931833414698
+
+Hartigan: 2 clusters 500 points 46 rep. Best: 2898.6944873019484
+Smartigan: 2 clusters 500 points 46 rep. Best: 2898.6944873019484
+
+Hartigan: 2 clusters 500 points 47 rep. Best: 966.2314957673153
+Smartigan: 2 clusters 500 points 47 rep. Best: 966.2314957673153
+
+Hartigan: 2 clusters 500 points 48 rep. Best: 2930.061760845816
+Smartigan: 2 clusters 500 points 48 rep. Best: 2930.061760845816
+
+Hartigan: 2 clusters 500 points 49 rep. Best: 976.6872536152732
+Smartigan: 2 clusters 500 points 49 rep. Best: 976.6872536152732
+
+Hartigan: 2 clusters 500 points 50 rep. Best: 2889.4476843966127
+Smartigan: 2 clusters 500 points 50 rep. Best: 2889.4476843966127
+
+Hartigan: 2 clusters 500 points 51 rep. Best: 963.1492281322038
+Smartigan: 2 clusters 500 points 51 rep. Best: 963.1492281322038
+
+Hartigan: 2 clusters 500 points 52 rep. Best: 2936.8146808158203
+Smartigan: 2 clusters 500 points 52 rep. Best: 2936.8146808158203
+
+Hartigan: 2 clusters 500 points 53 rep. Best: 978.9382269386077
+Smartigan: 2 clusters 500 points 53 rep. Best: 978.9382269386077
+
+Hartigan: 2 clusters 500 points 54 rep. Best: 2894.3492999680575
+Smartigan: 2 clusters 500 points 54 rep. Best: 2894.3492999680575
+
+Hartigan: 2 clusters 500 points 55 rep. Best: 964.7830999893533
+Smartigan: 2 clusters 500 points 55 rep. Best: 964.7830999893533
+
+Hartigan: 2 clusters 500 points 56 rep. Best: 2905.075910186434
+Smartigan: 2 clusters 500 points 56 rep. Best: 2905.075910186434
+
+Hartigan: 2 clusters 500 points 57 rep. Best: 968.3586367288101
+Smartigan: 2 clusters 500 points 57 rep. Best: 968.3586367288101
+
+Hartigan: 2 clusters 500 points 58 rep. Best: 2899.023790120368
+Smartigan: 2 clusters 500 points 58 rep. Best: 2899.023790120368
+
+Hartigan: 2 clusters 500 points 59 rep. Best: 966.3412633734546
+Smartigan: 2 clusters 500 points 59 rep. Best: 966.3412633734546
+
+Hartigan: 2 clusters 500 points 60 rep. Best: 2934.8292951256994
+Smartigan: 2 clusters 500 points 60 rep. Best: 2934.8292951256994
+
+Hartigan: 2 clusters 500 points 61 rep. Best: 978.2764317085671
+Smartigan: 2 clusters 500 points 61 rep. Best: 978.2764317085671
+
+Hartigan: 2 clusters 500 points 62 rep. Best: 2924.152471288346
+Smartigan: 2 clusters 500 points 62 rep. Best: 2924.152471288346
+
+Hartigan: 2 clusters 500 points 63 rep. Best: 974.7174904294486
+Smartigan: 2 clusters 500 points 63 rep. Best: 974.7174904294486
+
+Hartigan: 2 clusters 500 points 64 rep. Best: 2916.698709768542
+Smartigan: 2 clusters 500 points 64 rep. Best: 2916.698709768542
+
+Hartigan: 2 clusters 500 points 65 rep. Best: 972.2329032561811
+Smartigan: 2 clusters 500 points 65 rep. Best: 972.2329032561811
+
+Hartigan: 2 clusters 500 points 66 rep. Best: 2941.1911613815655
+Smartigan: 2 clusters 500 points 66 rep. Best: 2941.1911613815655
+
+Hartigan: 2 clusters 500 points 67 rep. Best: 980.3970537938557
+Smartigan: 2 clusters 500 points 67 rep. Best: 980.3970537938557
+
+Hartigan: 2 clusters 500 points 68 rep. Best: 2960.0515200295044
+Smartigan: 2 clusters 500 points 68 rep. Best: 2960.0515200295044
+
+Hartigan: 2 clusters 500 points 69 rep. Best: 986.6838400098358
+Smartigan: 2 clusters 500 points 69 rep. Best: 986.6838400098358
+
+Hartigan: 2 clusters 500 points 70 rep. Best: 2881.8763419282777
+Smartigan: 2 clusters 500 points 70 rep. Best: 2881.8763419282777
+
+Hartigan: 2 clusters 500 points 71 rep. Best: 960.6254473094259
+Smartigan: 2 clusters 500 points 71 rep. Best: 960.6254473094259
+
+Hartigan: 2 clusters 500 points 72 rep. Best: 2895.921803600152
+Smartigan: 2 clusters 500 points 72 rep. Best: 2895.921803600152
+
+Hartigan: 2 clusters 500 points 73 rep. Best: 965.3072678667165
+Smartigan: 2 clusters 500 points 73 rep. Best: 965.3072678667165
+
+Hartigan: 2 clusters 500 points 74 rep. Best: 2940.876003335403
+Smartigan: 2 clusters 500 points 74 rep. Best: 2940.876003335403
+
+Hartigan: 2 clusters 500 points 75 rep. Best: 980.2920011118007
+Smartigan: 2 clusters 500 points 75 rep. Best: 980.2920011118007
+
+Hartigan: 2 clusters 500 points 76 rep. Best: 2900.055443207158
+Smartigan: 2 clusters 500 points 76 rep. Best: 2900.055443207158
+
+Hartigan: 2 clusters 500 points 77 rep. Best: 966.6851477357199
+Smartigan: 2 clusters 500 points 77 rep. Best: 966.6851477357199
+
+Hartigan: 2 clusters 500 points 78 rep. Best: 2899.9607214184616
+Smartigan: 2 clusters 500 points 78 rep. Best: 2899.9607214184616
+
+Hartigan: 2 clusters 500 points 79 rep. Best: 966.6535738061547
+Smartigan: 2 clusters 500 points 79 rep. Best: 966.6535738061547
+
+Hartigan: 2 clusters 500 points 80 rep. Best: 2934.093658090634
+Smartigan: 2 clusters 500 points 80 rep. Best: 2934.093658090634
+
+Hartigan: 2 clusters 500 points 81 rep. Best: 978.0312193635461
+Smartigan: 2 clusters 500 points 81 rep. Best: 978.0312193635461
+
+Hartigan: 2 clusters 500 points 82 rep. Best: 2918.8901574492256
+Smartigan: 2 clusters 500 points 82 rep. Best: 2918.8901574492256
+
+Hartigan: 2 clusters 500 points 83 rep. Best: 972.963385816411
+Smartigan: 2 clusters 500 points 83 rep. Best: 972.963385816411
+
+Hartigan: 2 clusters 500 points 84 rep. Best: 2947.3030635858054
+Smartigan: 2 clusters 500 points 84 rep. Best: 2947.3030635858054
+
+Hartigan: 2 clusters 500 points 85 rep. Best: 982.4343545286023
+Smartigan: 2 clusters 500 points 85 rep. Best: 982.4343545286023
+
+Hartigan: 2 clusters 500 points 86 rep. Best: 2940.360831126851
+Smartigan: 2 clusters 500 points 86 rep. Best: 2940.360831126851
+
+Hartigan: 2 clusters 500 points 87 rep. Best: 980.120277042284
+Smartigan: 2 clusters 500 points 87 rep. Best: 980.120277042284
+
+Hartigan: 2 clusters 500 points 88 rep. Best: 2923.804385194658
+Smartigan: 2 clusters 500 points 88 rep. Best: 2923.804385194658
+
+Hartigan: 2 clusters 500 points 89 rep. Best: 974.6014617315517
+Smartigan: 2 clusters 500 points 89 rep. Best: 974.6014617315517
+
+Hartigan: 2 clusters 500 points 90 rep. Best: 2923.3575478315406
+Smartigan: 2 clusters 500 points 90 rep. Best: 2923.3575478315406
+
+Hartigan: 2 clusters 500 points 91 rep. Best: 974.4525159438482
+Smartigan: 2 clusters 500 points 91 rep. Best: 974.4525159438482
+
+Hartigan: 2 clusters 500 points 92 rep. Best: 2929.8768509468114
+Smartigan: 2 clusters 500 points 92 rep. Best: 2929.8768509468114
+
+Hartigan: 2 clusters 500 points 93 rep. Best: 976.6256169822713
+Smartigan: 2 clusters 500 points 93 rep. Best: 976.6256169822713
+
+Hartigan: 2 clusters 500 points 94 rep. Best: 2881.9970150473932
+Smartigan: 2 clusters 500 points 94 rep. Best: 2881.9970150473932
+
+Hartigan: 2 clusters 500 points 95 rep. Best: 960.6656716824643
+Smartigan: 2 clusters 500 points 95 rep. Best: 960.6656716824643
+
+Hartigan: 2 clusters 500 points 96 rep. Best: 2830.375534796439
+Smartigan: 2 clusters 500 points 96 rep. Best: 2830.375534796439
+
+Hartigan: 2 clusters 500 points 97 rep. Best: 943.4585115988134
+Smartigan: 2 clusters 500 points 97 rep. Best: 943.4585115988134
+
+Hartigan: 2 clusters 500 points 98 rep. Best: 2920.466299735312
+Smartigan: 2 clusters 500 points 98 rep. Best: 2920.466299735312
+
+Hartigan: 2 clusters 500 points 99 rep. Best: 973.4887665784378
+Smartigan: 2 clusters 500 points 99 rep. Best: 973.4887665784378
+
+Hartigan: 2 clusters 1000 points 0 rep. Best: 5888.311754870549
+Smartigan: 2 clusters 1000 points 0 rep. Best: 5888.311754870549
+
+Hartigan: 2 clusters 1000 points 1 rep. Best: 1962.7705849568497
+Smartigan: 2 clusters 1000 points 1 rep. Best: 1962.7705849568497
+
+Hartigan: 2 clusters 1000 points 2 rep. Best: 5877.552026741322
+Smartigan: 2 clusters 1000 points 2 rep. Best: 5877.552026741322
+
+Hartigan: 2 clusters 1000 points 3 rep. Best: 1959.184008913775
+Smartigan: 2 clusters 1000 points 3 rep. Best: 1959.184008913775
+
+Hartigan: 2 clusters 1000 points 4 rep. Best: 5851.655442163573
+Smartigan: 2 clusters 1000 points 4 rep. Best: 5851.655442163573
+
+Hartigan: 2 clusters 1000 points 5 rep. Best: 1950.5518140545207
+Smartigan: 2 clusters 1000 points 5 rep. Best: 1950.5518140545207
+
+Hartigan: 2 clusters 1000 points 6 rep. Best: 5819.715194111913
+Smartigan: 2 clusters 1000 points 6 rep. Best: 5819.715194111913
+
+Hartigan: 2 clusters 1000 points 7 rep. Best: 1939.9050647039687
+Smartigan: 2 clusters 1000 points 7 rep. Best: 1939.9050647039687
+
+Hartigan: 2 clusters 1000 points 8 rep. Best: 5812.2005855501475
+Smartigan: 2 clusters 1000 points 8 rep. Best: 5812.2005855501475
+
+Hartigan: 2 clusters 1000 points 9 rep. Best: 1937.4001951833866
+Smartigan: 2 clusters 1000 points 9 rep. Best: 1937.4001951833866
+
+Hartigan: 2 clusters 1000 points 10 rep. Best: 5846.560091485252
+Smartigan: 2 clusters 1000 points 10 rep. Best: 5846.560091485252
+
+Hartigan: 2 clusters 1000 points 11 rep. Best: 1948.8533638284173
+Smartigan: 2 clusters 1000 points 11 rep. Best: 1948.8533638284173
+
+Hartigan: 2 clusters 1000 points 12 rep. Best: 5925.391474178595
+Smartigan: 2 clusters 1000 points 12 rep. Best: 5925.391474178595
+
+Hartigan: 2 clusters 1000 points 13 rep. Best: 1975.1304913928673
+Smartigan: 2 clusters 1000 points 13 rep. Best: 1975.1304913928673
+
+Hartigan: 2 clusters 1000 points 14 rep. Best: 5813.331504059052
+Smartigan: 2 clusters 1000 points 14 rep. Best: 5813.331504059052
+
+Hartigan: 2 clusters 1000 points 15 rep. Best: 1937.7771680196797
+Smartigan: 2 clusters 1000 points 15 rep. Best: 1937.7771680196797
+
+Hartigan: 2 clusters 1000 points 16 rep. Best: 5854.985576399847
+Smartigan: 2 clusters 1000 points 16 rep. Best: 5854.985576399847
+
+Hartigan: 2 clusters 1000 points 17 rep. Best: 1951.6618587999474
+Smartigan: 2 clusters 1000 points 17 rep. Best: 1951.6618587999474
+
+Hartigan: 2 clusters 1000 points 18 rep. Best: 5910.4083119571505
+Smartigan: 2 clusters 1000 points 18 rep. Best: 5910.4083119571505
+
+Hartigan: 2 clusters 1000 points 19 rep. Best: 1970.1361039857156
+Smartigan: 2 clusters 1000 points 19 rep. Best: 1970.1361039857156
+
+Hartigan: 2 clusters 1000 points 20 rep. Best: 5915.942568686603
+Smartigan: 2 clusters 1000 points 20 rep. Best: 5915.942568686603
+
+Hartigan: 2 clusters 1000 points 21 rep. Best: 1971.9808562288686
+Smartigan: 2 clusters 1000 points 21 rep. Best: 1971.9808562288686
+
+Hartigan: 2 clusters 1000 points 22 rep. Best: 5914.127415644209
+Smartigan: 2 clusters 1000 points 22 rep. Best: 5914.127415644209
+
+Hartigan: 2 clusters 1000 points 23 rep. Best: 1971.3758052147355
+Smartigan: 2 clusters 1000 points 23 rep. Best: 1971.3758052147355
+
+Hartigan: 2 clusters 1000 points 24 rep. Best: 5936.679255277569
+Smartigan: 2 clusters 1000 points 24 rep. Best: 5936.679255277569
+
+Hartigan: 2 clusters 1000 points 25 rep. Best: 1978.8930850925171
+Smartigan: 2 clusters 1000 points 25 rep. Best: 1978.8930850925171
+
+Hartigan: 2 clusters 1000 points 26 rep. Best: 5861.077252045752
+Smartigan: 2 clusters 1000 points 26 rep. Best: 5861.077252045752
+
+Hartigan: 2 clusters 1000 points 27 rep. Best: 1953.6924173485877
+Smartigan: 2 clusters 1000 points 27 rep. Best: 1953.6924173485877
+
+Hartigan: 2 clusters 1000 points 28 rep. Best: 5852.152274392756
+Smartigan: 2 clusters 1000 points 28 rep. Best: 5852.152274392756
+
+Hartigan: 2 clusters 1000 points 29 rep. Best: 1950.7174247975843
+Smartigan: 2 clusters 1000 points 29 rep. Best: 1950.7174247975843
+
+Hartigan: 2 clusters 1000 points 30 rep. Best: 5916.347656896589
+Smartigan: 2 clusters 1000 points 30 rep. Best: 5916.347656896589
+
+Hartigan: 2 clusters 1000 points 31 rep. Best: 1972.1158856321954
+Smartigan: 2 clusters 1000 points 31 rep. Best: 1972.1158856321954
+
+Hartigan: 2 clusters 1000 points 32 rep. Best: 5890.097986348223
+Smartigan: 2 clusters 1000 points 32 rep. Best: 5890.097986348223
+
+Hartigan: 2 clusters 1000 points 33 rep. Best: 1963.3659954494087
+Smartigan: 2 clusters 1000 points 33 rep. Best: 1963.3659954494087
+
+Hartigan: 2 clusters 1000 points 34 rep. Best: 5885.318031990937
+Smartigan: 2 clusters 1000 points 34 rep. Best: 5885.318031990937
+
+Hartigan: 2 clusters 1000 points 35 rep. Best: 1961.772677330307
+Smartigan: 2 clusters 1000 points 35 rep. Best: 1961.772677330307
+
+Hartigan: 2 clusters 1000 points 36 rep. Best: 5906.725337411262
+Smartigan: 2 clusters 1000 points 36 rep. Best: 5906.725337411262
+
+Hartigan: 2 clusters 1000 points 37 rep. Best: 1968.9084458037537
+Smartigan: 2 clusters 1000 points 37 rep. Best: 1968.9084458037537
+
+Hartigan: 2 clusters 1000 points 38 rep. Best: 5895.647731616894
+Smartigan: 2 clusters 1000 points 38 rep. Best: 5895.647731616894
+
+Hartigan: 2 clusters 1000 points 39 rep. Best: 1965.2159105389621
+Smartigan: 2 clusters 1000 points 39 rep. Best: 1965.2159105389621
+
+Hartigan: 2 clusters 1000 points 40 rep. Best: 5824.192768895986
+Smartigan: 2 clusters 1000 points 40 rep. Best: 5824.192768895986
+
+Hartigan: 2 clusters 1000 points 41 rep. Best: 1941.3975896319985
+Smartigan: 2 clusters 1000 points 41 rep. Best: 1941.3975896319985
+
+Hartigan: 2 clusters 1000 points 42 rep. Best: 5913.685601696006
+Smartigan: 2 clusters 1000 points 42 rep. Best: 5913.685601696006
+
+Hartigan: 2 clusters 1000 points 43 rep. Best: 1971.2285338986703
+Smartigan: 2 clusters 1000 points 43 rep. Best: 1971.2285338986703
+
+Hartigan: 2 clusters 1000 points 44 rep. Best: 5861.138063917923
+Smartigan: 2 clusters 1000 points 44 rep. Best: 5861.138063917923
+
+Hartigan: 2 clusters 1000 points 45 rep. Best: 1953.7126879726432
+Smartigan: 2 clusters 1000 points 45 rep. Best: 1953.7126879726432
+
+Hartigan: 2 clusters 1000 points 46 rep. Best: 5817.984459619848
+Smartigan: 2 clusters 1000 points 46 rep. Best: 5817.984459619848
+
+Hartigan: 2 clusters 1000 points 47 rep. Best: 1939.3281532066214
+Smartigan: 2 clusters 1000 points 47 rep. Best: 1939.3281532066214
+
+Hartigan: 2 clusters 1000 points 48 rep. Best: 5853.736469231621
+Smartigan: 2 clusters 1000 points 48 rep. Best: 5853.736469231621
+
+Hartigan: 2 clusters 1000 points 49 rep. Best: 1951.2454897438745
+Smartigan: 2 clusters 1000 points 49 rep. Best: 1951.2454897438745
+
+Hartigan: 2 clusters 1000 points 50 rep. Best: 5878.380703774723
+Smartigan: 2 clusters 1000 points 50 rep. Best: 5878.380703774723
+
+Hartigan: 2 clusters 1000 points 51 rep. Best: 1959.4602345915766
+Smartigan: 2 clusters 1000 points 51 rep. Best: 1959.4602345915766
+
+Hartigan: 2 clusters 1000 points 52 rep. Best: 5795.170063713154
+Smartigan: 2 clusters 1000 points 52 rep. Best: 5795.170063713154
+
+Hartigan: 2 clusters 1000 points 53 rep. Best: 1931.72335457105
+Smartigan: 2 clusters 1000 points 53 rep. Best: 1931.72335457105
+
+Hartigan: 2 clusters 1000 points 54 rep. Best: 5875.767594937543
+Smartigan: 2 clusters 1000 points 54 rep. Best: 5875.767594937543
+
+Hartigan: 2 clusters 1000 points 55 rep. Best: 1958.5891983125155
+Smartigan: 2 clusters 1000 points 55 rep. Best: 1958.5891983125155
+
+Hartigan: 2 clusters 1000 points 56 rep. Best: 5855.668087676155
+Smartigan: 2 clusters 1000 points 56 rep. Best: 5855.668087676155
+
+Hartigan: 2 clusters 1000 points 57 rep. Best: 1951.88936255872
+Smartigan: 2 clusters 1000 points 57 rep. Best: 1951.88936255872
+
+Hartigan: 2 clusters 1000 points 58 rep. Best: 5858.329071519291
+Smartigan: 2 clusters 1000 points 58 rep. Best: 5858.329071519291
+
+Hartigan: 2 clusters 1000 points 59 rep. Best: 1952.7763571730975
+Smartigan: 2 clusters 1000 points 59 rep. Best: 1952.7763571730975
+
+Hartigan: 2 clusters 1000 points 60 rep. Best: 5882.103698633378
+Smartigan: 2 clusters 1000 points 60 rep. Best: 5882.103698633378
+
+Hartigan: 2 clusters 1000 points 61 rep. Best: 1960.7012328777912
+Smartigan: 2 clusters 1000 points 61 rep. Best: 1960.7012328777912
+
+Hartigan: 2 clusters 1000 points 62 rep. Best: 5884.952204967686
+Smartigan: 2 clusters 1000 points 62 rep. Best: 5884.952204967686
+
+Hartigan: 2 clusters 1000 points 63 rep. Best: 1961.650734989229
+Smartigan: 2 clusters 1000 points 63 rep. Best: 1961.650734989229
+
+Hartigan: 2 clusters 1000 points 64 rep. Best: 5897.30767098489
+Smartigan: 2 clusters 1000 points 64 rep. Best: 5897.30767098489
+
+Hartigan: 2 clusters 1000 points 65 rep. Best: 1965.7692236616335
+Smartigan: 2 clusters 1000 points 65 rep. Best: 1965.7692236616335
+
+Hartigan: 2 clusters 1000 points 66 rep. Best: 5891.453675411723
+Smartigan: 2 clusters 1000 points 66 rep. Best: 5891.453675411723
+
+Hartigan: 2 clusters 1000 points 67 rep. Best: 1963.8178918039098
+Smartigan: 2 clusters 1000 points 67 rep. Best: 1963.8178918039098
+
+Hartigan: 2 clusters 1000 points 68 rep. Best: 5831.287706099706
+Smartigan: 2 clusters 1000 points 68 rep. Best: 5831.287706099706
+
+Hartigan: 2 clusters 1000 points 69 rep. Best: 1943.762568699902
+Smartigan: 2 clusters 1000 points 69 rep. Best: 1943.762568699902
+
+Hartigan: 2 clusters 1000 points 70 rep. Best: 5833.736557537595
+Smartigan: 2 clusters 1000 points 70 rep. Best: 5833.736557537595
+
+Hartigan: 2 clusters 1000 points 71 rep. Best: 1944.578852512534
+Smartigan: 2 clusters 1000 points 71 rep. Best: 1944.578852512534
+
+Hartigan: 2 clusters 1000 points 72 rep. Best: 5882.2638508123055
+Smartigan: 2 clusters 1000 points 72 rep. Best: 5882.2638508123055
+
+Hartigan: 2 clusters 1000 points 73 rep. Best: 1960.7546169374348
+Smartigan: 2 clusters 1000 points 73 rep. Best: 1960.7546169374348
+
+Hartigan: 2 clusters 1000 points 74 rep. Best: 5854.849044482719
+Smartigan: 2 clusters 1000 points 74 rep. Best: 5854.849044482719
+
+Hartigan: 2 clusters 1000 points 75 rep. Best: 1951.6163481609092
+Smartigan: 2 clusters 1000 points 75 rep. Best: 1951.6163481609092
+
+Hartigan: 2 clusters 1000 points 76 rep. Best: 5846.109609036443
+Smartigan: 2 clusters 1000 points 76 rep. Best: 5846.109609036443
+
+Hartigan: 2 clusters 1000 points 77 rep. Best: 1948.7032030121538
+Smartigan: 2 clusters 1000 points 77 rep. Best: 1948.7032030121538
+
+Hartigan: 2 clusters 1000 points 78 rep. Best: 5911.37612348239
+Smartigan: 2 clusters 1000 points 78 rep. Best: 5911.37612348239
+
+Hartigan: 2 clusters 1000 points 79 rep. Best: 1971.0621265175523
+Smartigan: 2 clusters 1000 points 79 rep. Best: 1971.0621265175523
+
+Hartigan: 2 clusters 1000 points 80 rep. Best: 5867.241330791294
+Smartigan: 2 clusters 1000 points 80 rep. Best: 5867.241330791294
+
+Hartigan: 2 clusters 1000 points 81 rep. Best: 1955.7471102637664
+Smartigan: 2 clusters 1000 points 81 rep. Best: 1955.7471102637664
+
+Hartigan: 2 clusters 1000 points 82 rep. Best: 5897.911666214051
+Smartigan: 2 clusters 1000 points 82 rep. Best: 5897.911666214051
+
+Hartigan: 2 clusters 1000 points 83 rep. Best: 1965.9705554046839
+Smartigan: 2 clusters 1000 points 83 rep. Best: 1965.9705554046839
+
+Hartigan: 2 clusters 1000 points 84 rep. Best: 5918.479161257393
+Smartigan: 2 clusters 1000 points 84 rep. Best: 5918.479161257393
+
+Hartigan: 2 clusters 1000 points 85 rep. Best: 1972.8263870858016
+Smartigan: 2 clusters 1000 points 85 rep. Best: 1972.8263870858016
+
+Hartigan: 2 clusters 1000 points 86 rep. Best: 5899.124579010859
+Smartigan: 2 clusters 1000 points 86 rep. Best: 5899.124579010859
+
+Hartigan: 2 clusters 1000 points 87 rep. Best: 1966.3748596702876
+Smartigan: 2 clusters 1000 points 87 rep. Best: 1966.3748596702876
+
+Hartigan: 2 clusters 1000 points 88 rep. Best: 5834.917153091942
+Smartigan: 2 clusters 1000 points 88 rep. Best: 5834.917153091942
+
+Hartigan: 2 clusters 1000 points 89 rep. Best: 1944.972384363984
+Smartigan: 2 clusters 1000 points 89 rep. Best: 1944.972384363984
+
+Hartigan: 2 clusters 1000 points 90 rep. Best: 5860.595302988147
+Smartigan: 2 clusters 1000 points 90 rep. Best: 5860.595302988147
+
+Hartigan: 2 clusters 1000 points 91 rep. Best: 1953.5317676627126
+Smartigan: 2 clusters 1000 points 91 rep. Best: 1953.5317676627126
+
+Hartigan: 2 clusters 1000 points 92 rep. Best: 5843.492916485456
+Smartigan: 2 clusters 1000 points 92 rep. Best: 5843.492916485456
+
+Hartigan: 2 clusters 1000 points 93 rep. Best: 1947.8309721618216
+Smartigan: 2 clusters 1000 points 93 rep. Best: 1947.8309721618216
+
+Hartigan: 2 clusters 1000 points 94 rep. Best: 5874.423792453925
+Smartigan: 2 clusters 1000 points 94 rep. Best: 5874.423792453925
+
+Hartigan: 2 clusters 1000 points 95 rep. Best: 1958.1412641513039
+Smartigan: 2 clusters 1000 points 95 rep. Best: 1958.1412641513039
+
+Hartigan: 2 clusters 1000 points 96 rep. Best: 5906.694695662636
+Smartigan: 2 clusters 1000 points 96 rep. Best: 5906.694695662636
+
+Hartigan: 2 clusters 1000 points 97 rep. Best: 1968.8982318875496
+Smartigan: 2 clusters 1000 points 97 rep. Best: 1968.8982318875496
+
+Hartigan: 2 clusters 1000 points 98 rep. Best: 5907.662293059362
+Smartigan: 2 clusters 1000 points 98 rep. Best: 5907.662293059362
+
+Hartigan: 2 clusters 1000 points 99 rep. Best: 1969.220764353117
+Smartigan: 2 clusters 1000 points 99 rep. Best: 1969.220764353117
+
+Hartigan: 10 clusters 250 points 0 rep. Best: 1409.6667078982857
+Smartigan: 10 clusters 250 points 0 rep. Best: 1409.6667078982857
+
+Hartigan: 10 clusters 250 points 1 rep. Best: 969.7065932924314
+Smartigan: 10 clusters 250 points 1 rep. Best: 496.0953538013113
+
+Hartigan: 10 clusters 250 points 2 rep. Best: 1408.9471755200977
+Smartigan: 10 clusters 250 points 2 rep. Best: 1408.9471755200977
+
+Hartigan: 10 clusters 250 points 3 rep. Best: 497.18586494663504
+Smartigan: 10 clusters 250 points 3 rep. Best: 481.10228734248733
+
+Hartigan: 10 clusters 250 points 4 rep. Best: 1405.2010174775419
+Smartigan: 10 clusters 250 points 4 rep. Best: 1389.1207447715942
+
+Hartigan: 10 clusters 250 points 5 rep. Best: 482.2215048286081
+Smartigan: 10 clusters 250 points 5 rep. Best: 482.2215048286081
+
+Hartigan: 10 clusters 250 points 6 rep. Best: 1411.5861635184979
+Smartigan: 10 clusters 250 points 6 rep. Best: 1402.8860191098831
+
+Hartigan: 10 clusters 250 points 7 rep. Best: 487.1119458454596
+Smartigan: 10 clusters 250 points 7 rep. Best: 468.58621455867626
+
+Hartigan: 10 clusters 250 points 8 rep. Best: 1419.043778197926
+Smartigan: 10 clusters 250 points 8 rep. Best: 1404.5886562313217
+
+Hartigan: 10 clusters 250 points 9 rep. Best: 839.5552906854011
+Smartigan: 10 clusters 250 points 9 rep. Best: 473.01459273264146
+
+Hartigan: 10 clusters 250 points 10 rep. Best: 1432.4002228151737
+Smartigan: 10 clusters 250 points 10 rep. Best: 1421.3155586854812
+
+Hartigan: 10 clusters 250 points 11 rep. Best: 493.93971871989345
+Smartigan: 10 clusters 250 points 11 rep. Best: 837.6459642231231
+
+Hartigan: 10 clusters 250 points 12 rep. Best: 1418.5458191020143
+Smartigan: 10 clusters 250 points 12 rep. Best: 1418.5458191020143
+
+Hartigan: 10 clusters 250 points 13 rep. Best: 482.48314815954257
+Smartigan: 10 clusters 250 points 13 rep. Best: 482.48314815954257
+
+Hartigan: 10 clusters 250 points 14 rep. Best: 1386.746924348458
+Smartigan: 10 clusters 250 points 14 rep. Best: 1386.746924348458
+
+Hartigan: 10 clusters 250 points 15 rep. Best: 943.9263390209151
+Smartigan: 10 clusters 250 points 15 rep. Best: 480.40582881151715
+
+Hartigan: 10 clusters 250 points 16 rep. Best: 1407.0747961317495
+Smartigan: 10 clusters 250 points 16 rep. Best: 1408.5643474343597
+
+Hartigan: 10 clusters 250 points 17 rep. Best: 469.0249320439161
+Smartigan: 10 clusters 250 points 17 rep. Best: 470.9674943978734
+
+Hartigan: 10 clusters 250 points 18 rep. Best: 1414.3163642893717
+Smartigan: 10 clusters 250 points 18 rep. Best: 1403.3494539354406
+
+Hartigan: 10 clusters 250 points 19 rep. Best: 471.4387880964568
+Smartigan: 10 clusters 250 points 19 rep. Best: 484.5452574476648
+
+Hartigan: 10 clusters 250 points 20 rep. Best: 1439.231650974149
+Smartigan: 10 clusters 250 points 20 rep. Best: 1434.9300844648571
+
+Hartigan: 10 clusters 250 points 21 rep. Best: 943.3016512566685
+Smartigan: 10 clusters 250 points 21 rep. Best: 814.6439336025244
+
+Hartigan: 10 clusters 250 points 22 rep. Best: 1397.7924302693516
+Smartigan: 10 clusters 250 points 22 rep. Best: 1405.4145549035602
+
+Hartigan: 10 clusters 250 points 23 rep. Best: 474.82453828531305
+Smartigan: 10 clusters 250 points 23 rep. Best: 474.07208330585286
+
+Hartigan: 10 clusters 250 points 24 rep. Best: 1425.9307494328825
+Smartigan: 10 clusters 250 points 24 rep. Best: 1400.7591486383174
+
+Hartigan: 10 clusters 250 points 25 rep. Best: 1154.9544662406986
+Smartigan: 10 clusters 250 points 25 rep. Best: 935.991723952125
+
+Hartigan: 10 clusters 250 points 26 rep. Best: 1403.2062608957629
+Smartigan: 10 clusters 250 points 26 rep. Best: 1359.9741996665707
+
+Hartigan: 10 clusters 250 points 27 rep. Best: 486.67946405433287
+Smartigan: 10 clusters 250 points 27 rep. Best: 486.67946405433287
+
+Hartigan: 10 clusters 250 points 28 rep. Best: 1405.7935765887796
+Smartigan: 10 clusters 250 points 28 rep. Best: 1352.716684350915
+
+Hartigan: 10 clusters 250 points 29 rep. Best: 478.572160347089
+Smartigan: 10 clusters 250 points 29 rep. Best: 478.572160347089
+
+Hartigan: 10 clusters 250 points 30 rep. Best: 1409.0560360629681
+Smartigan: 10 clusters 250 points 30 rep. Best: 1413.6943150001239
+
+Hartigan: 10 clusters 250 points 31 rep. Best: 481.9516938755673
+Smartigan: 10 clusters 250 points 31 rep. Best: 478.7644869627171
+
+Hartigan: 10 clusters 250 points 32 rep. Best: 1431.8530250646816
+Smartigan: 10 clusters 250 points 32 rep. Best: 1393.2300791922746
+
+Hartigan: 10 clusters 250 points 33 rep. Best: 835.3186333842432
+Smartigan: 10 clusters 250 points 33 rep. Best: 499.22639760886847
+
+Hartigan: 10 clusters 250 points 34 rep. Best: 1449.8690065999294
+Smartigan: 10 clusters 250 points 34 rep. Best: 1377.8101968541491
+
+Hartigan: 10 clusters 250 points 35 rep. Best: 503.19144519015646
+Smartigan: 10 clusters 250 points 35 rep. Best: 479.688624124176
+
+Hartigan: 10 clusters 250 points 36 rep. Best: 1421.3613998024089
+Smartigan: 10 clusters 250 points 36 rep. Best: 1383.343058033915
+
+Hartigan: 10 clusters 250 points 37 rep. Best: 484.04962544437524
+Smartigan: 10 clusters 250 points 37 rep. Best: 479.9038572235417
+
+Hartigan: 10 clusters 250 points 38 rep. Best: 1380.4050808890609
+Smartigan: 10 clusters 250 points 38 rep. Best: 1380.4050808890609
+
+Hartigan: 10 clusters 250 points 39 rep. Best: 897.4018220711283
+Smartigan: 10 clusters 250 points 39 rep. Best: 483.61970286551735
+
+Hartigan: 10 clusters 250 points 40 rep. Best: 1419.9016156588496
+Smartigan: 10 clusters 250 points 40 rep. Best: 1410.8690125388327
+
+Hartigan: 10 clusters 250 points 41 rep. Best: 473.74321119362423
+Smartigan: 10 clusters 250 points 41 rep. Best: 872.4431889987042
+
+Hartigan: 10 clusters 250 points 42 rep. Best: 1453.2699353893518
+Smartigan: 10 clusters 250 points 42 rep. Best: 1403.9691057114371
+
+Hartigan: 10 clusters 250 points 43 rep. Best: 850.1265066586407
+Smartigan: 10 clusters 250 points 43 rep. Best: 475.18987144169694
+
+Hartigan: 10 clusters 250 points 44 rep. Best: 1414.5869003424662
+Smartigan: 10 clusters 250 points 44 rep. Best: 1411.2819849176242
+
+Hartigan: 10 clusters 250 points 45 rep. Best: 913.822343071497
+Smartigan: 10 clusters 250 points 45 rep. Best: 864.3391234637936
+
+Hartigan: 10 clusters 250 points 46 rep. Best: 1418.43811017206
+Smartigan: 10 clusters 250 points 46 rep. Best: 1388.0795235002201
+
+Hartigan: 10 clusters 250 points 47 rep. Best: 472.8127033906867
+Smartigan: 10 clusters 250 points 47 rep. Best: 460.9671925344117
+
+Hartigan: 10 clusters 250 points 48 rep. Best: 1391.9418305646893
+Smartigan: 10 clusters 250 points 48 rep. Best: 1391.9418305646893
+
+Hartigan: 10 clusters 250 points 49 rep. Best: 465.1992965167162
+Smartigan: 10 clusters 250 points 49 rep. Best: 465.1992965167162
+
+Hartigan: 10 clusters 250 points 50 rep. Best: 1404.618474150239
+Smartigan: 10 clusters 250 points 50 rep. Best: 1384.3693484084145
+
+Hartigan: 10 clusters 250 points 51 rep. Best: 491.41952859263193
+Smartigan: 10 clusters 250 points 51 rep. Best: 482.9253654328947
+
+Hartigan: 10 clusters 250 points 52 rep. Best: 1513.239142783554
+Smartigan: 10 clusters 250 points 52 rep. Best: 1389.151416393634
+
+Hartigan: 10 clusters 250 points 53 rep. Best: 470.6355973628357
+Smartigan: 10 clusters 250 points 53 rep. Best: 468.7689412644954
+
+Hartigan: 10 clusters 250 points 54 rep. Best: 1411.7438381961401
+Smartigan: 10 clusters 250 points 54 rep. Best: 1399.7436327722469
+
+Hartigan: 10 clusters 250 points 55 rep. Best: 480.3255025490353
+Smartigan: 10 clusters 250 points 55 rep. Best: 477.8091237464917
+
+Hartigan: 10 clusters 250 points 56 rep. Best: 1487.4482907470313
+Smartigan: 10 clusters 250 points 56 rep. Best: 1422.199286043085
+
+Hartigan: 10 clusters 250 points 57 rep. Best: 497.916448348284
+Smartigan: 10 clusters 250 points 57 rep. Best: 495.8385169372877
+
+Hartigan: 10 clusters 250 points 58 rep. Best: 1395.7208661468248
+Smartigan: 10 clusters 250 points 58 rep. Best: 1455.628484006783
+
+Hartigan: 10 clusters 250 points 59 rep. Best: 462.073503171974
+Smartigan: 10 clusters 250 points 59 rep. Best: 475.93755199620244
+
+Hartigan: 10 clusters 250 points 60 rep. Best: 1408.7218378988339
+Smartigan: 10 clusters 250 points 60 rep. Best: 1440.2279209961507
+
+Hartigan: 10 clusters 250 points 61 rep. Best: 474.39275217874183
+Smartigan: 10 clusters 250 points 61 rep. Best: 469.30029838279313
+
+Hartigan: 10 clusters 250 points 62 rep. Best: 1434.9667440354842
+Smartigan: 10 clusters 250 points 62 rep. Best: 1427.6631759639702
+
+Hartigan: 10 clusters 250 points 63 rep. Best: 476.09737446985423
+Smartigan: 10 clusters 250 points 63 rep. Best: 465.12082222509446
+
+Hartigan: 10 clusters 250 points 64 rep. Best: 1409.8747445942604
+Smartigan: 10 clusters 250 points 64 rep. Best: 1409.8747445942604
+
+Hartigan: 10 clusters 250 points 65 rep. Best: 468.80322613151895
+Smartigan: 10 clusters 250 points 65 rep. Best: 473.60578168119514
+
+Hartigan: 10 clusters 250 points 66 rep. Best: 1434.620539400582
+Smartigan: 10 clusters 250 points 66 rep. Best: 1407.0838010056539
+
+Hartigan: 10 clusters 250 points 67 rep. Best: 793.7051421283267
+Smartigan: 10 clusters 250 points 67 rep. Best: 793.9208357255287
+
+Hartigan: 10 clusters 250 points 68 rep. Best: 1456.7461902904652
+Smartigan: 10 clusters 250 points 68 rep. Best: 1401.7685810243668
+
+Hartigan: 10 clusters 250 points 69 rep. Best: 876.9046832194306
+Smartigan: 10 clusters 250 points 69 rep. Best: 485.4930405109058
+
+Hartigan: 10 clusters 250 points 70 rep. Best: 1419.237124064332
+Smartigan: 10 clusters 250 points 70 rep. Best: 1378.3550225106026
+
+Hartigan: 10 clusters 250 points 71 rep. Best: 854.2192466711557
+Smartigan: 10 clusters 250 points 71 rep. Best: 496.57870791870374
+
+Hartigan: 10 clusters 250 points 72 rep. Best: 1432.2762380614106
+Smartigan: 10 clusters 250 points 72 rep. Best: 1426.240541928948
+
+Hartigan: 10 clusters 250 points 73 rep. Best: 968.9046641541004
+Smartigan: 10 clusters 250 points 73 rep. Best: 482.1874722487767
+
+Hartigan: 10 clusters 250 points 74 rep. Best: 1420.8141033773054
+Smartigan: 10 clusters 250 points 74 rep. Best: 1399.536116740803
+
+Hartigan: 10 clusters 250 points 75 rep. Best: 903.2223359817599
+Smartigan: 10 clusters 250 points 75 rep. Best: 479.1002736261075
+
+Hartigan: 10 clusters 250 points 76 rep. Best: 1403.306098014036
+Smartigan: 10 clusters 250 points 76 rep. Best: 1366.8668619944033
+
+Hartigan: 10 clusters 250 points 77 rep. Best: 467.76869933801197
+Smartigan: 10 clusters 250 points 77 rep. Best: 467.76869933801197
+
+Hartigan: 10 clusters 250 points 78 rep. Best: 1427.4698062191164
+Smartigan: 10 clusters 250 points 78 rep. Best: 1430.69944594064
+
+Hartigan: 10 clusters 250 points 79 rep. Best: 890.9567545026996
+Smartigan: 10 clusters 250 points 79 rep. Best: 490.5767636206214
+
+Hartigan: 10 clusters 250 points 80 rep. Best: 1462.4052002289254
+Smartigan: 10 clusters 250 points 80 rep. Best: 1372.4269672961223
+
+Hartigan: 10 clusters 250 points 81 rep. Best: 804.3742590486538
+Smartigan: 10 clusters 250 points 81 rep. Best: 465.84201859513274
+
+Hartigan: 10 clusters 250 points 82 rep. Best: 1410.0255740156736
+Smartigan: 10 clusters 250 points 82 rep. Best: 1408.481717717295
+
+Hartigan: 10 clusters 250 points 83 rep. Best: 478.4319639486523
+Smartigan: 10 clusters 250 points 83 rep. Best: 478.4319639486523
+
+Hartigan: 10 clusters 250 points 84 rep. Best: 1407.9831524225076
+Smartigan: 10 clusters 250 points 84 rep. Best: 1402.2484354399014
+
+Hartigan: 10 clusters 250 points 85 rep. Best: 1068.6657918937267
+Smartigan: 10 clusters 250 points 85 rep. Best: 871.3325246578434
+
+Hartigan: 10 clusters 250 points 86 rep. Best: 1409.8078322121114
+Smartigan: 10 clusters 250 points 86 rep. Best: 1434.0875883760145
+
+Hartigan: 10 clusters 250 points 87 rep. Best: 981.6767435623349
+Smartigan: 10 clusters 250 points 87 rep. Best: 449.8344321789038
+
+Hartigan: 10 clusters 250 points 88 rep. Best: 1414.5300886926948
+Smartigan: 10 clusters 250 points 88 rep. Best: 1412.9751479961408
+
+Hartigan: 10 clusters 250 points 89 rep. Best: 898.5836960167933
+Smartigan: 10 clusters 250 points 89 rep. Best: 477.055768855436
+
+Hartigan: 10 clusters 250 points 90 rep. Best: 1433.0699545592556
+Smartigan: 10 clusters 250 points 90 rep. Best: 1417.915843684698
+
+Hartigan: 10 clusters 250 points 91 rep. Best: 477.6899848530851
+Smartigan: 10 clusters 250 points 91 rep. Best: 477.6899848530851
+
+Hartigan: 10 clusters 250 points 92 rep. Best: 1404.433940815481
+Smartigan: 10 clusters 250 points 92 rep. Best: 1404.433940815481
+
+Hartigan: 10 clusters 250 points 93 rep. Best: 905.958627737265
+Smartigan: 10 clusters 250 points 93 rep. Best: 473.8918647310132
+
+Hartigan: 10 clusters 250 points 94 rep. Best: 1424.9688389766704
+Smartigan: 10 clusters 250 points 94 rep. Best: 1424.9688389766704
+
+Hartigan: 10 clusters 250 points 95 rep. Best: 889.1360428603275
+Smartigan: 10 clusters 250 points 95 rep. Best: 952.5180626127989
+
+Hartigan: 10 clusters 250 points 96 rep. Best: 1375.0914222555243
+Smartigan: 10 clusters 250 points 96 rep. Best: 1375.0914222555243
+
+Hartigan: 10 clusters 250 points 97 rep. Best: 466.84709348517436
+Smartigan: 10 clusters 250 points 97 rep. Best: 877.0619062496728
+
+Hartigan: 10 clusters 250 points 98 rep. Best: 1412.1194583239576
+Smartigan: 10 clusters 250 points 98 rep. Best: 1408.161568803187
+
+Hartigan: 10 clusters 250 points 99 rep. Best: 478.1717224496246
+Smartigan: 10 clusters 250 points 99 rep. Best: 483.5945902662692
+
+Hartigan: 10 clusters 500 points 0 rep. Best: 2933.1082738864134
+Smartigan: 10 clusters 500 points 0 rep. Best: 2875.2991972042264
+
+Hartigan: 10 clusters 500 points 1 rep. Best: 989.5565735832029
+Smartigan: 10 clusters 500 points 1 rep. Best: 978.9165242928916
+
+Hartigan: 10 clusters 500 points 2 rep. Best: 2880.839184559517
+Smartigan: 10 clusters 500 points 2 rep. Best: 2880.839184559517
+
+Hartigan: 10 clusters 500 points 3 rep. Best: 1690.4504866449795
+Smartigan: 10 clusters 500 points 3 rep. Best: 1780.7806407839685
+
+Hartigan: 10 clusters 500 points 4 rep. Best: 2916.9596918741927
+Smartigan: 10 clusters 500 points 4 rep. Best: 2916.9596918741927
+
+Hartigan: 10 clusters 500 points 5 rep. Best: 975.1749979727573
+Smartigan: 10 clusters 500 points 5 rep. Best: 975.1749979727573
+
+Hartigan: 10 clusters 500 points 6 rep. Best: 2959.1915045880864
+Smartigan: 10 clusters 500 points 6 rep. Best: 2929.134693678664
+
+Hartigan: 10 clusters 500 points 7 rep. Best: 1754.192124840758
+Smartigan: 10 clusters 500 points 7 rep. Best: 1754.792253344836
+
+Hartigan: 10 clusters 500 points 8 rep. Best: 2878.372550329851
+Smartigan: 10 clusters 500 points 8 rep. Best: 2878.372550329851
+
+Hartigan: 10 clusters 500 points 9 rep. Best: 963.2705729589853
+Smartigan: 10 clusters 500 points 9 rep. Best: 960.0633047318729
+
+Hartigan: 10 clusters 500 points 10 rep. Best: 2934.244962679567
+Smartigan: 10 clusters 500 points 10 rep. Best: 2871.009374408662
+
+Hartigan: 10 clusters 500 points 11 rep. Best: 1718.1807961376576
+Smartigan: 10 clusters 500 points 11 rep. Best: 957.0031248028872
+
+Hartigan: 10 clusters 500 points 12 rep. Best: 2922.9500836933785
+Smartigan: 10 clusters 500 points 12 rep. Best: 2888.595393766402
+
+Hartigan: 10 clusters 500 points 13 rep. Best: 2043.656747543926
+Smartigan: 10 clusters 500 points 13 rep. Best: 998.9408669817485
+
+Hartigan: 10 clusters 500 points 14 rep. Best: 2905.8208460412184
+Smartigan: 10 clusters 500 points 14 rep. Best: 2898.466475795312
+
+Hartigan: 10 clusters 500 points 15 rep. Best: 966.1554919317708
+Smartigan: 10 clusters 500 points 15 rep. Best: 981.9411039450843
+
+Hartigan: 10 clusters 500 points 16 rep. Best: 2859.8890033117077
+Smartigan: 10 clusters 500 points 16 rep. Best: 2934.4184243335494
+
+Hartigan: 10 clusters 500 points 17 rep. Best: 973.5749145365726
+Smartigan: 10 clusters 500 points 17 rep. Best: 960.2050572419658
+
+Hartigan: 10 clusters 500 points 18 rep. Best: 2915.9550366257827
+Smartigan: 10 clusters 500 points 18 rep. Best: 2839.6716715959974
+
+Hartigan: 10 clusters 500 points 19 rep. Best: 1711.353876368417
+Smartigan: 10 clusters 500 points 19 rep. Best: 1655.8649772054782
+
+Hartigan: 10 clusters 500 points 20 rep. Best: 2862.8159850903744
+Smartigan: 10 clusters 500 points 20 rep. Best: 2862.8159850903744
+
+Hartigan: 10 clusters 500 points 21 rep. Best: 954.2719950301256
+Smartigan: 10 clusters 500 points 21 rep. Best: 1499.4989706890178
+
+Hartigan: 10 clusters 500 points 22 rep. Best: 2895.172170874379
+Smartigan: 10 clusters 500 points 22 rep. Best: 2895.172170874379
+
+Hartigan: 10 clusters 500 points 23 rep. Best: 985.4981656405613
+Smartigan: 10 clusters 500 points 23 rep. Best: 985.4981656405613
+
+Hartigan: 10 clusters 500 points 24 rep. Best: 2915.219141359292
+Smartigan: 10 clusters 500 points 24 rep. Best: 2887.0152913173456
+
+Hartigan: 10 clusters 500 points 25 rep. Best: 1734.6206012692253
+Smartigan: 10 clusters 500 points 25 rep. Best: 1734.864818294445
+
+Hartigan: 10 clusters 500 points 26 rep. Best: 2864.9172136142815
+Smartigan: 10 clusters 500 points 26 rep. Best: 2864.9172136142815
+
+Hartigan: 10 clusters 500 points 27 rep. Best: 969.1930125266014
+Smartigan: 10 clusters 500 points 27 rep. Best: 2083.6888323460194
+
+Hartigan: 10 clusters 500 points 28 rep. Best: 2915.32539188579
+Smartigan: 10 clusters 500 points 28 rep. Best: 2934.76671332155
+
+Hartigan: 10 clusters 500 points 29 rep. Best: 1786.9146178602134
+Smartigan: 10 clusters 500 points 29 rep. Best: 990.6311275364397
+
+Hartigan: 10 clusters 500 points 30 rep. Best: 2854.9365502184164
+Smartigan: 10 clusters 500 points 30 rep. Best: 2854.9365502184164
+
+Hartigan: 10 clusters 500 points 31 rep. Best: 1766.156620785728
+Smartigan: 10 clusters 500 points 31 rep. Best: 1013.6123052591396
+
+Hartigan: 10 clusters 500 points 32 rep. Best: 2940.687908003103
+Smartigan: 10 clusters 500 points 32 rep. Best: 2884.7386816485355
+
+Hartigan: 10 clusters 500 points 33 rep. Best: 993.1531660909939
+Smartigan: 10 clusters 500 points 33 rep. Best: 984.2494528644844
+
+Hartigan: 10 clusters 500 points 34 rep. Best: 2921.6380129755516
+Smartigan: 10 clusters 500 points 34 rep. Best: 2924.79095554415
+
+Hartigan: 10 clusters 500 points 35 rep. Best: 982.9711598165593
+Smartigan: 10 clusters 500 points 35 rep. Best: 974.8257606278434
+
+Hartigan: 10 clusters 500 points 36 rep. Best: 2899.3406370498783
+Smartigan: 10 clusters 500 points 36 rep. Best: 2899.3406370498788
+
+Hartigan: 10 clusters 500 points 37 rep. Best: 968.881122716049
+Smartigan: 10 clusters 500 points 37 rep. Best: 944.4852948776571
+
+Hartigan: 10 clusters 500 points 38 rep. Best: 3185.0640378358476
+Smartigan: 10 clusters 500 points 38 rep. Best: 2881.015939140382
+
+Hartigan: 10 clusters 500 points 39 rep. Best: 1699.1106527903041
+Smartigan: 10 clusters 500 points 39 rep. Best: 982.7189428378691
+
+Hartigan: 10 clusters 500 points 40 rep. Best: 2948.564146898219
+Smartigan: 10 clusters 500 points 40 rep. Best: 2910.3255240001877
+
+Hartigan: 10 clusters 500 points 41 rep. Best: 982.8547156327401
+Smartigan: 10 clusters 500 points 41 rep. Best: 1990.0339996724224
+
+Hartigan: 10 clusters 500 points 42 rep. Best: 2894.300112709627
+Smartigan: 10 clusters 500 points 42 rep. Best: 2894.300112709627
+
+Hartigan: 10 clusters 500 points 43 rep. Best: 2206.0071612537477
+Smartigan: 10 clusters 500 points 43 rep. Best: 1937.8412918791744
+
+Hartigan: 10 clusters 500 points 44 rep. Best: 2879.421440739671
+Smartigan: 10 clusters 500 points 44 rep. Best: 2850.5864896013813
+
+Hartigan: 10 clusters 500 points 45 rep. Best: 1801.1204773677432
+Smartigan: 10 clusters 500 points 45 rep. Best: 973.6472428510168
+
+Hartigan: 10 clusters 500 points 46 rep. Best: 2931.0399948226277
+Smartigan: 10 clusters 500 points 46 rep. Best: 2947.656921451222
+
+Hartigan: 10 clusters 500 points 47 rep. Best: 977.0133316075426
+Smartigan: 10 clusters 500 points 47 rep. Best: 963.8450618394963
+
+Hartigan: 10 clusters 500 points 48 rep. Best: 2864.724244612485
+Smartigan: 10 clusters 500 points 48 rep. Best: 2922.780901476803
+
+Hartigan: 10 clusters 500 points 49 rep. Best: 1776.7132578250794
+Smartigan: 10 clusters 500 points 49 rep. Best: 974.2603004922677
+
+Hartigan: 10 clusters 500 points 50 rep. Best: 2969.1547282442516
+Smartigan: 10 clusters 500 points 50 rep. Best: 2926.733379534878
+
+Hartigan: 10 clusters 500 points 51 rep. Best: 1611.94015147211
+Smartigan: 10 clusters 500 points 51 rep. Best: 1621.5211268621265
+
+Hartigan: 10 clusters 500 points 52 rep. Best: 2956.2748394700693
+Smartigan: 10 clusters 500 points 52 rep. Best: 2857.1859353786076
+
+Hartigan: 10 clusters 500 points 53 rep. Best: 2011.4889999668956
+Smartigan: 10 clusters 500 points 53 rep. Best: 952.3953117928689
+
+Hartigan: 10 clusters 500 points 54 rep. Best: 2906.226813168554
+Smartigan: 10 clusters 500 points 54 rep. Best: 2906.226813168554
+
+Hartigan: 10 clusters 500 points 55 rep. Best: 1542.7694885984677
+Smartigan: 10 clusters 500 points 55 rep. Best: 968.742271056185
+
+Hartigan: 10 clusters 500 points 56 rep. Best: 2900.2234213193483
+Smartigan: 10 clusters 500 points 56 rep. Best: 2930.8849011781153
+
+Hartigan: 10 clusters 500 points 57 rep. Best: 1470.7684356482325
+Smartigan: 10 clusters 500 points 57 rep. Best: 1469.2849939568569
+
+Hartigan: 10 clusters 500 points 58 rep. Best: 2900.063179640352
+Smartigan: 10 clusters 500 points 58 rep. Best: 2900.063179640352
+
+Hartigan: 10 clusters 500 points 59 rep. Best: 2143.4366989836626
+Smartigan: 10 clusters 500 points 59 rep. Best: 962.7478950892893
+
+Hartigan: 10 clusters 500 points 60 rep. Best: 2832.736896567535
+Smartigan: 10 clusters 500 points 60 rep. Best: 2904.4704991653316
+
+Hartigan: 10 clusters 500 points 61 rep. Best: 944.2456321891785
+Smartigan: 10 clusters 500 points 61 rep. Best: 944.2456321891785
+
+Hartigan: 10 clusters 500 points 62 rep. Best: 2891.578990412668
+Smartigan: 10 clusters 500 points 62 rep. Best: 2891.578990412668
+
+Hartigan: 10 clusters 500 points 63 rep. Best: 964.3775269547019
+Smartigan: 10 clusters 500 points 63 rep. Best: 964.3775269547019
+
+Hartigan: 10 clusters 500 points 64 rep. Best: 2906.841953015947
+Smartigan: 10 clusters 500 points 64 rep. Best: 2906.841953015947
+
+Hartigan: 10 clusters 500 points 65 rep. Best: 962.504831260606
+Smartigan: 10 clusters 500 points 65 rep. Best: 1016.2963469639676
+
+Hartigan: 10 clusters 500 points 66 rep. Best: 2893.1626944921745
+Smartigan: 10 clusters 500 points 66 rep. Best: 2893.1626944921745
+
+Hartigan: 10 clusters 500 points 67 rep. Best: 964.3875648307253
+Smartigan: 10 clusters 500 points 67 rep. Best: 994.0086442163831
+
+Hartigan: 10 clusters 500 points 68 rep. Best: 2944.3498292196987
+Smartigan: 10 clusters 500 points 68 rep. Best: 2864.6079077709524
+
+Hartigan: 10 clusters 500 points 69 rep. Best: 1758.2118113897864
+Smartigan: 10 clusters 500 points 69 rep. Best: 970.8654657890737
+
+Hartigan: 10 clusters 500 points 70 rep. Best: 2898.351279439901
+Smartigan: 10 clusters 500 points 70 rep. Best: 2865.334130215467
+
+Hartigan: 10 clusters 500 points 71 rep. Best: 985.2478790857017
+Smartigan: 10 clusters 500 points 71 rep. Best: 984.197531304604
+
+Hartigan: 10 clusters 500 points 72 rep. Best: 2990.716004858412
+Smartigan: 10 clusters 500 points 72 rep. Best: 2869.2368770000926
+
+Hartigan: 10 clusters 500 points 73 rep. Best: 948.6006009755652
+Smartigan: 10 clusters 500 points 73 rep. Best: 995.515447652948
+
+Hartigan: 10 clusters 500 points 74 rep. Best: 2889.9751734248516
+Smartigan: 10 clusters 500 points 74 rep. Best: 2866.2109748615467
+
+Hartigan: 10 clusters 500 points 75 rep. Best: 1924.4407562242568
+Smartigan: 10 clusters 500 points 75 rep. Best: 983.2448340987034
+
+Hartigan: 10 clusters 500 points 76 rep. Best: 2880.2761444765024
+Smartigan: 10 clusters 500 points 76 rep. Best: 2880.2761444765024
+
+Hartigan: 10 clusters 500 points 77 rep. Best: 1871.1175858421757
+Smartigan: 10 clusters 500 points 77 rep. Best: 976.9697030933845
+
+Hartigan: 10 clusters 500 points 78 rep. Best: 2910.930898765721
+Smartigan: 10 clusters 500 points 78 rep. Best: 2829.8329873767075
+
+Hartigan: 10 clusters 500 points 79 rep. Best: 2187.33034742254
+Smartigan: 10 clusters 500 points 79 rep. Best: 949.9741002788676
+
+Hartigan: 10 clusters 500 points 80 rep. Best: 2894.1499522940308
+Smartigan: 10 clusters 500 points 80 rep. Best: 2870.58337766699
+
+Hartigan: 10 clusters 500 points 81 rep. Best: 1740.8800735120558
+Smartigan: 10 clusters 500 points 81 rep. Best: 990.6723541111204
+
+Hartigan: 10 clusters 500 points 82 rep. Best: 2838.6568982062126
+Smartigan: 10 clusters 500 points 82 rep. Best: 2927.4457145352717
+
+Hartigan: 10 clusters 500 points 83 rep. Best: 974.8773639819822
+Smartigan: 10 clusters 500 points 83 rep. Best: 974.8773639819822
+
+Hartigan: 10 clusters 500 points 84 rep. Best: 2950.2145326401333
+Smartigan: 10 clusters 500 points 84 rep. Best: 2872.0649388704524
+
+Hartigan: 10 clusters 500 points 85 rep. Best: 966.6785838449965
+Smartigan: 10 clusters 500 points 85 rep. Best: 992.3227880374975
+
+Hartigan: 10 clusters 500 points 86 rep. Best: 2895.2212717333337
+Smartigan: 10 clusters 500 points 86 rep. Best: 2875.596322605151
+
+Hartigan: 10 clusters 500 points 87 rep. Best: 1907.2839445938255
+Smartigan: 10 clusters 500 points 87 rep. Best: 958.5321075350485
+
+Hartigan: 10 clusters 500 points 88 rep. Best: 2938.609186301874
+Smartigan: 10 clusters 500 points 88 rep. Best: 2917.2409737901253
+
+Hartigan: 10 clusters 500 points 89 rep. Best: 976.6181299228656
+Smartigan: 10 clusters 500 points 89 rep. Best: 985.4247139122328
+
+Hartigan: 10 clusters 500 points 90 rep. Best: 2909.922997329351
+Smartigan: 10 clusters 500 points 90 rep. Best: 2909.922997329351
+
+Hartigan: 10 clusters 500 points 91 rep. Best: 1923.6792878922183
+Smartigan: 10 clusters 500 points 91 rep. Best: 1746.2585099558294
+
+Hartigan: 10 clusters 500 points 92 rep. Best: 2919.8315201946266
+Smartigan: 10 clusters 500 points 92 rep. Best: 2921.837621858262
+
+Hartigan: 10 clusters 500 points 93 rep. Best: 981.3383821680701
+Smartigan: 10 clusters 500 points 93 rep. Best: 973.411341900033
+
+Hartigan: 10 clusters 500 points 94 rep. Best: 2900.8001230034856
+Smartigan: 10 clusters 500 points 94 rep. Best: 2900.8001230034856
+
+Hartigan: 10 clusters 500 points 95 rep. Best: 2163.9038285668516
+Smartigan: 10 clusters 500 points 95 rep. Best: 998.7960091593908
+
+Hartigan: 10 clusters 500 points 96 rep. Best: 2941.651481332855
+Smartigan: 10 clusters 500 points 96 rep. Best: 2896.209745875982
+
+Hartigan: 10 clusters 500 points 97 rep. Best: 961.6285485225355
+Smartigan: 10 clusters 500 points 97 rep. Best: 961.6285485225355
+
+Hartigan: 10 clusters 500 points 98 rep. Best: 2846.79167535009
+Smartigan: 10 clusters 500 points 98 rep. Best: 2866.9122236669878
+
+Hartigan: 10 clusters 500 points 99 rep. Best: 2038.477596100572
+Smartigan: 10 clusters 500 points 99 rep. Best: 976.9575416656334
+
+Hartigan: 10 clusters 1000 points 0 rep. Best: 5962.374700200675
+Smartigan: 10 clusters 1000 points 0 rep. Best: 5769.185219736358
+
+Hartigan: 10 clusters 1000 points 1 rep. Best: 3363.870368215583
+Smartigan: 10 clusters 1000 points 1 rep. Best: 1962.7877589175964
+
+Hartigan: 10 clusters 1000 points 2 rep. Best: 5802.204536959257
+Smartigan: 10 clusters 1000 points 2 rep. Best: 5802.204536959257
+
+Hartigan: 10 clusters 1000 points 3 rep. Best: 3567.654008104775
+Smartigan: 10 clusters 1000 points 3 rep. Best: 1965.3626287212005
+
+Hartigan: 10 clusters 1000 points 4 rep. Best: 5777.943398365388
+Smartigan: 10 clusters 1000 points 4 rep. Best: 5777.943398365388
+
+Hartigan: 10 clusters 1000 points 5 rep. Best: 3617.8948749990304
+Smartigan: 10 clusters 1000 points 5 rep. Best: 1963.038684452964
+
+Hartigan: 10 clusters 1000 points 6 rep. Best: 5946.007348541793
+Smartigan: 10 clusters 1000 points 6 rep. Best: 5868.700955542643
+
+Hartigan: 10 clusters 1000 points 7 rep. Best: 1961.4495810713345
+Smartigan: 10 clusters 1000 points 7 rep. Best: 1961.4495810713345
+
+Hartigan: 10 clusters 1000 points 8 rep. Best: 5887.431389717029
+Smartigan: 10 clusters 1000 points 8 rep. Best: 5860.463892604609
+
+Hartigan: 10 clusters 1000 points 9 rep. Best: 3787.2274622752802
+Smartigan: 10 clusters 1000 points 9 rep. Best: 2023.7928158506552
+
+Hartigan: 10 clusters 1000 points 10 rep. Best: 5837.522432640271
+Smartigan: 10 clusters 1000 points 10 rep. Best: 5847.622429208273
+
+Hartigan: 10 clusters 1000 points 11 rep. Best: 1949.2074764027593
+Smartigan: 10 clusters 1000 points 11 rep. Best: 1967.7894068827397
+
+Hartigan: 10 clusters 1000 points 12 rep. Best: 5936.75260549548
+Smartigan: 10 clusters 1000 points 12 rep. Best: 5895.384798907178
+
+Hartigan: 10 clusters 1000 points 13 rep. Best: 1985.1320382156778
+Smartigan: 10 clusters 1000 points 13 rep. Best: 1985.1320382156778
+
+Hartigan: 10 clusters 1000 points 14 rep. Best: 5960.322257537545
+Smartigan: 10 clusters 1000 points 14 rep. Best: 5960.322257537545
+
+Hartigan: 10 clusters 1000 points 15 rep. Best: 3837.2656944053324
+Smartigan: 10 clusters 1000 points 15 rep. Best: 3130.765383578812
+
+Hartigan: 10 clusters 1000 points 16 rep. Best: 5899.457100983536
+Smartigan: 10 clusters 1000 points 16 rep. Best: 5886.42436280544
+
+Hartigan: 10 clusters 1000 points 17 rep. Best: 1978.9511793244742
+Smartigan: 10 clusters 1000 points 17 rep. Best: 1948.0897331748156
+
+Hartigan: 10 clusters 1000 points 18 rep. Best: 5832.5429002828305
+Smartigan: 10 clusters 1000 points 18 rep. Best: 5880.046652629887
+
+Hartigan: 10 clusters 1000 points 19 rep. Best: 3871.9223060495347
+Smartigan: 10 clusters 1000 points 19 rep. Best: 3653.3856896318343
+
+Hartigan: 10 clusters 1000 points 20 rep. Best: 5938.311411909686
+Smartigan: 10 clusters 1000 points 20 rep. Best: 5917.835914727765
+
+Hartigan: 10 clusters 1000 points 21 rep. Best: 1992.8932190069836
+Smartigan: 10 clusters 1000 points 21 rep. Best: 1992.8932190069836
+
+Hartigan: 10 clusters 1000 points 22 rep. Best: 5928.235182547556
+Smartigan: 10 clusters 1000 points 22 rep. Best: 5922.937179265008
+
+Hartigan: 10 clusters 1000 points 23 rep. Best: 1974.3123930883323
+Smartigan: 10 clusters 1000 points 23 rep. Best: 1974.3123930883323
+
+Hartigan: 10 clusters 1000 points 24 rep. Best: 5899.440682079237
+Smartigan: 10 clusters 1000 points 24 rep. Best: 5945.627619198073
+
+Hartigan: 10 clusters 1000 points 25 rep. Best: 1966.4802273597516
+Smartigan: 10 clusters 1000 points 25 rep. Best: 3368.8166945948506
+
+Hartigan: 10 clusters 1000 points 26 rep. Best: 5865.384072099262
+Smartigan: 10 clusters 1000 points 26 rep. Best: 5865.384072099262
+
+Hartigan: 10 clusters 1000 points 27 rep. Best: 3831.4812032915183
+Smartigan: 10 clusters 1000 points 27 rep. Best: 1954.998752375507
+
+Hartigan: 10 clusters 1000 points 28 rep. Best: 5955.820278392354
+Smartigan: 10 clusters 1000 points 28 rep. Best: 5841.002067692896
+
+Hartigan: 10 clusters 1000 points 29 rep. Best: 1974.6100578282571
+Smartigan: 10 clusters 1000 points 29 rep. Best: 1972.5020936820129
+
+Hartigan: 10 clusters 1000 points 30 rep. Best: 5925.785375469004
+Smartigan: 10 clusters 1000 points 30 rep. Best: 5897.628834162761
+
+Hartigan: 10 clusters 1000 points 31 rep. Best: 1975.2617918230026
+Smartigan: 10 clusters 1000 points 31 rep. Best: 1983.1261791394513
+
+Hartigan: 10 clusters 1000 points 32 rep. Best: 6384.800664915609
+Smartigan: 10 clusters 1000 points 32 rep. Best: 5849.406711882845
+
+Hartigan: 10 clusters 1000 points 33 rep. Best: 4017.0213569616867
+Smartigan: 10 clusters 1000 points 33 rep. Best: 3999.3221276493728
+
+Hartigan: 10 clusters 1000 points 34 rep. Best: 5936.213756941732
+Smartigan: 10 clusters 1000 points 34 rep. Best: 5892.204421167054
+
+Hartigan: 10 clusters 1000 points 35 rep. Best: 1974.4913973133375
+Smartigan: 10 clusters 1000 points 35 rep. Best: 3400.968803782553
+
+Hartigan: 10 clusters 1000 points 36 rep. Best: 5862.160163291112
+Smartigan: 10 clusters 1000 points 36 rep. Best: 5796.90552139339
+
+Hartigan: 10 clusters 1000 points 37 rep. Best: 4095.70989791158
+Smartigan: 10 clusters 1000 points 37 rep. Best: 1991.6967120185125
+
+Hartigan: 10 clusters 1000 points 38 rep. Best: 5890.751879123038
+Smartigan: 10 clusters 1000 points 38 rep. Best: 5890.751879123038
+
+Hartigan: 10 clusters 1000 points 39 rep. Best: 4879.444751777703
+Smartigan: 10 clusters 1000 points 39 rep. Best: 1980.128241434001
+
+Hartigan: 10 clusters 1000 points 40 rep. Best: 5903.854859775727
+Smartigan: 10 clusters 1000 points 40 rep. Best: 5875.808638191902
+
+Hartigan: 10 clusters 1000 points 41 rep. Best: 3865.42719110234
+Smartigan: 10 clusters 1000 points 41 rep. Best: 1958.6028793973
+
+Hartigan: 10 clusters 1000 points 42 rep. Best: 5778.750105645174
+Smartigan: 10 clusters 1000 points 42 rep. Best: 5778.750105645174
+
+Hartigan: 10 clusters 1000 points 43 rep. Best: 4108.741990733171
+Smartigan: 10 clusters 1000 points 43 rep. Best: 4111.465055327422
+
+Hartigan: 10 clusters 1000 points 44 rep. Best: 5837.665903776795
+Smartigan: 10 clusters 1000 points 44 rep. Best: 5837.665903776795
+
+Hartigan: 10 clusters 1000 points 45 rep. Best: 1979.8520348416941
+Smartigan: 10 clusters 1000 points 45 rep. Best: 1963.185760990439
+
+Hartigan: 10 clusters 1000 points 46 rep. Best: 5882.79910543856
+Smartigan: 10 clusters 1000 points 46 rep. Best: 5882.79910543856
+
+Hartigan: 10 clusters 1000 points 47 rep. Best: 1960.9330351461886
+Smartigan: 10 clusters 1000 points 47 rep. Best: 1960.9330351461886
+
+Hartigan: 10 clusters 1000 points 48 rep. Best: 5818.570923827456
+Smartigan: 10 clusters 1000 points 48 rep. Best: 5818.570923827456
+
+Hartigan: 10 clusters 1000 points 49 rep. Best: 1989.6632003279549
+Smartigan: 10 clusters 1000 points 49 rep. Best: 1987.5878421553818
+
+Hartigan: 10 clusters 1000 points 50 rep. Best: 5988.645917624455
+Smartigan: 10 clusters 1000 points 50 rep. Best: 5841.2640326668725
+
+Hartigan: 10 clusters 1000 points 51 rep. Best: 4137.528425021524
+Smartigan: 10 clusters 1000 points 51 rep. Best: 1975.9947613399977
+
+Hartigan: 10 clusters 1000 points 52 rep. Best: 5893.237932575035
+Smartigan: 10 clusters 1000 points 52 rep. Best: 5812.403617491687
+
+Hartigan: 10 clusters 1000 points 53 rep. Best: 2004.4372879714329
+Smartigan: 10 clusters 1000 points 53 rep. Best: 1958.4034891568417
+
+Hartigan: 10 clusters 1000 points 54 rep. Best: 5815.335881387362
+Smartigan: 10 clusters 1000 points 54 rep. Best: 5922.556591167495
+
+Hartigan: 10 clusters 1000 points 55 rep. Best: 4600.546289980811
+Smartigan: 10 clusters 1000 points 55 rep. Best: 4247.007308906653
+
+Hartigan: 10 clusters 1000 points 56 rep. Best: 5960.157569839263
+Smartigan: 10 clusters 1000 points 56 rep. Best: 5915.88520046472
+
+Hartigan: 10 clusters 1000 points 57 rep. Best: 2002.4097195646532
+Smartigan: 10 clusters 1000 points 57 rep. Best: 2002.4097195646532
+
+Hartigan: 10 clusters 1000 points 58 rep. Best: 5926.429746014984
+Smartigan: 10 clusters 1000 points 58 rep. Best: 5869.431063643334
+
+Hartigan: 10 clusters 1000 points 59 rep. Best: 2003.1664490891606
+Smartigan: 10 clusters 1000 points 59 rep. Best: 2003.1664490891606
+
+Hartigan: 10 clusters 1000 points 60 rep. Best: 5865.091918242516
+Smartigan: 10 clusters 1000 points 60 rep. Best: 5966.782739990186
+
+Hartigan: 10 clusters 1000 points 61 rep. Best: 5052.436435195746
+Smartigan: 10 clusters 1000 points 61 rep. Best: 1978.647751551552
+
+Hartigan: 10 clusters 1000 points 62 rep. Best: 5877.406332118796
+Smartigan: 10 clusters 1000 points 62 rep. Best: 5877.406332118796
+
+Hartigan: 10 clusters 1000 points 63 rep. Best: 3565.4998049643345
+Smartigan: 10 clusters 1000 points 63 rep. Best: 4308.59386619112
+
+Hartigan: 10 clusters 1000 points 64 rep. Best: 6082.878597961514
+Smartigan: 10 clusters 1000 points 64 rep. Best: 5922.439052380492
+
+Hartigan: 10 clusters 1000 points 65 rep. Best: 1986.7333842337275
+Smartigan: 10 clusters 1000 points 65 rep. Best: 3068.1561109735235
+
+Hartigan: 10 clusters 1000 points 66 rep. Best: 5886.780525745382
+Smartigan: 10 clusters 1000 points 66 rep. Best: 5886.780525745382
+
+Hartigan: 10 clusters 1000 points 67 rep. Best: 1979.342541575954
+Smartigan: 10 clusters 1000 points 67 rep. Best: 1976.282386800273
+
+Hartigan: 10 clusters 1000 points 68 rep. Best: 5861.559031624706
+Smartigan: 10 clusters 1000 points 68 rep. Best: 5924.983215866718
+
+Hartigan: 10 clusters 1000 points 69 rep. Best: 1955.112021179573
+Smartigan: 10 clusters 1000 points 69 rep. Best: 3653.650734595395
+
+Hartigan: 10 clusters 1000 points 70 rep. Best: 5857.885847875049
+Smartigan: 10 clusters 1000 points 70 rep. Best: 5906.02043214698
+
+Hartigan: 10 clusters 1000 points 71 rep. Best: 4411.101788907615
+Smartigan: 10 clusters 1000 points 71 rep. Best: 1973.9029220788354
+
+Hartigan: 10 clusters 1000 points 72 rep. Best: 5852.86295842028
+Smartigan: 10 clusters 1000 points 72 rep. Best: 5941.4260413040065
+
+Hartigan: 10 clusters 1000 points 73 rep. Best: 1973.103130009546
+Smartigan: 10 clusters 1000 points 73 rep. Best: 1982.5953708538357
+
+Hartigan: 10 clusters 1000 points 74 rep. Best: 5879.6042186023515
+Smartigan: 10 clusters 1000 points 74 rep. Best: 5868.821602745129
+
+Hartigan: 10 clusters 1000 points 75 rep. Best: 4002.0960177547445
+Smartigan: 10 clusters 1000 points 75 rep. Best: 1950.8675385819652
+
+Hartigan: 10 clusters 1000 points 76 rep. Best: 5907.883935516711
+Smartigan: 10 clusters 1000 points 76 rep. Best: 5907.883935516711
+
+Hartigan: 10 clusters 1000 points 77 rep. Best: 1983.9175062428
+Smartigan: 10 clusters 1000 points 77 rep. Best: 1983.9175062428
+
+Hartigan: 10 clusters 1000 points 78 rep. Best: 5904.389718592053
+Smartigan: 10 clusters 1000 points 78 rep. Best: 5915.554163602041
+
+Hartigan: 10 clusters 1000 points 79 rep. Best: 4391.9493342045735
+Smartigan: 10 clusters 1000 points 79 rep. Best: 3661.1276452476304
+
+Hartigan: 10 clusters 1000 points 80 rep. Best: 5926.407383829466
+Smartigan: 10 clusters 1000 points 80 rep. Best: 5854.473329017358
+
+Hartigan: 10 clusters 1000 points 81 rep. Best: 1953.0243806628362
+Smartigan: 10 clusters 1000 points 81 rep. Best: 4112.094079252976
+
+Hartigan: 10 clusters 1000 points 82 rep. Best: 5958.436624396762
+Smartigan: 10 clusters 1000 points 82 rep. Best: 5857.330213643873
+
+Hartigan: 10 clusters 1000 points 83 rep. Best: 3483.1064054194258
+Smartigan: 10 clusters 1000 points 83 rep. Best: 2857.3688672063563
+
+Hartigan: 10 clusters 1000 points 84 rep. Best: 6010.099629391158
+Smartigan: 10 clusters 1000 points 84 rep. Best: 5825.873629113116
+
+Hartigan: 10 clusters 1000 points 85 rep. Best: 1986.464734234999
+Smartigan: 10 clusters 1000 points 85 rep. Best: 1986.464734234999
+
+Hartigan: 10 clusters 1000 points 86 rep. Best: 5907.783517258538
+Smartigan: 10 clusters 1000 points 86 rep. Best: 5877.893870031184
+
+Hartigan: 10 clusters 1000 points 87 rep. Best: 4772.810792255969
+Smartigan: 10 clusters 1000 points 87 rep. Best: 2015.4063983599592
+
+Hartigan: 10 clusters 1000 points 88 rep. Best: 5923.895233053666
+Smartigan: 10 clusters 1000 points 88 rep. Best: 5857.71127833312
+
+Hartigan: 10 clusters 1000 points 89 rep. Best: 4126.140978004545
+Smartigan: 10 clusters 1000 points 89 rep. Best: 2003.4406220744431
+
+Hartigan: 10 clusters 1000 points 90 rep. Best: 5877.745163860437
+Smartigan: 10 clusters 1000 points 90 rep. Best: 5877.745163860437
+
+Hartigan: 10 clusters 1000 points 91 rep. Best: 1996.6270513111397
+Smartigan: 10 clusters 1000 points 91 rep. Best: 3886.101004770914
+
+Hartigan: 10 clusters 1000 points 92 rep. Best: 5952.71438287681
+Smartigan: 10 clusters 1000 points 92 rep. Best: 5824.258753769906
+
+Hartigan: 10 clusters 1000 points 93 rep. Best: 3898.54011852935
+Smartigan: 10 clusters 1000 points 93 rep. Best: 3595.941070121666
+
+Hartigan: 10 clusters 1000 points 94 rep. Best: 5931.953119497053
+Smartigan: 10 clusters 1000 points 94 rep. Best: 5912.768799848868
+
+Hartigan: 10 clusters 1000 points 95 rep. Best: 1977.7447242103647
+Smartigan: 10 clusters 1000 points 95 rep. Best: 1977.7447242103647
+
+Hartigan: 10 clusters 1000 points 96 rep. Best: 5869.478803522608
+Smartigan: 10 clusters 1000 points 96 rep. Best: 5869.478803522608
+
+Hartigan: 10 clusters 1000 points 97 rep. Best: 1948.7284652179499
+Smartigan: 10 clusters 1000 points 97 rep. Best: 1948.7284652179499
+
+Hartigan: 10 clusters 1000 points 98 rep. Best: 5844.0876179836805
+Smartigan: 10 clusters 1000 points 98 rep. Best: 5844.0876179836805
+
+Hartigan: 10 clusters 1000 points 99 rep. Best: 4688.491435020408
+Smartigan: 10 clusters 1000 points 99 rep. Best: 1979.0977519617657
+
+Hartigan: 25 clusters 250 points 0 rep. Best: 1377.8261379272635
+Smartigan: 25 clusters 250 points 0 rep. Best: 1339.156996542081
+
+Hartigan: 25 clusters 250 points 1 rep. Best: 709.0422632021359
+Smartigan: 25 clusters 250 points 1 rep. Best: 715.696284283841
+
+Hartigan: 25 clusters 250 points 2 rep. Best: 1362.0616304784273
+Smartigan: 25 clusters 250 points 2 rep. Best: 1347.164389540893
+
+Hartigan: 25 clusters 250 points 3 rep. Best: 703.3937356353459
+Smartigan: 25 clusters 250 points 3 rep. Best: 643.2127651639277
+
+Hartigan: 25 clusters 250 points 4 rep. Best: 1363.190801887199
+Smartigan: 25 clusters 250 points 4 rep. Best: 1334.971993283517
+
+Hartigan: 25 clusters 250 points 5 rep. Best: 567.438885136506
+Smartigan: 25 clusters 250 points 5 rep. Best: 646.4215031900311
+
+Hartigan: 25 clusters 250 points 6 rep. Best: 1335.6774053822305
+Smartigan: 25 clusters 250 points 6 rep. Best: 1329.2735955184664
+
+Hartigan: 25 clusters 250 points 7 rep. Best: 915.4356969477557
+Smartigan: 25 clusters 250 points 7 rep. Best: 607.9221064324682
+
+Hartigan: 25 clusters 250 points 8 rep. Best: 1418.5564458171755
+Smartigan: 25 clusters 250 points 8 rep. Best: 1312.2457537420785
+
+Hartigan: 25 clusters 250 points 9 rep. Best: 566.4439602493009
+Smartigan: 25 clusters 250 points 9 rep. Best: 547.2700275119222
+
+Hartigan: 25 clusters 250 points 10 rep. Best: 1345.8878868341296
+Smartigan: 25 clusters 250 points 10 rep. Best: 1331.7872008865254
+
+Hartigan: 25 clusters 250 points 11 rep. Best: 836.3092187628932
+Smartigan: 25 clusters 250 points 11 rep. Best: 605.6961474599144
+
+Hartigan: 25 clusters 250 points 12 rep. Best: 1370.728218655784
+Smartigan: 25 clusters 250 points 12 rep. Best: 1332.4606197897715
+
+Hartigan: 25 clusters 250 points 13 rep. Best: 796.8143247761808
+Smartigan: 25 clusters 250 points 13 rep. Best: 817.5474736273237
+
+Hartigan: 25 clusters 250 points 14 rep. Best: 1381.7485985078106
+Smartigan: 25 clusters 250 points 14 rep. Best: 1323.9987536531323
+
+Hartigan: 25 clusters 250 points 15 rep. Best: 822.9399789340672
+Smartigan: 25 clusters 250 points 15 rep. Best: 574.7925094612831
+
+Hartigan: 25 clusters 250 points 16 rep. Best: 1358.3507384445572
+Smartigan: 25 clusters 250 points 16 rep. Best: 1282.295769769782
+
+Hartigan: 25 clusters 250 points 17 rep. Best: 965.7807194366646
+Smartigan: 25 clusters 250 points 17 rep. Best: 672.911990940698
+
+Hartigan: 25 clusters 250 points 18 rep. Best: 1355.1503698640895
+Smartigan: 25 clusters 250 points 18 rep. Best: 1313.1163942736564
+
+Hartigan: 25 clusters 250 points 19 rep. Best: 734.7709355231142
+Smartigan: 25 clusters 250 points 19 rep. Best: 765.0086553304158
+
+Hartigan: 25 clusters 250 points 20 rep. Best: 1375.830494009442
+Smartigan: 25 clusters 250 points 20 rep. Best: 1335.4659937229192
+
+Hartigan: 25 clusters 250 points 21 rep. Best: 746.3597139055302
+Smartigan: 25 clusters 250 points 21 rep. Best: 798.1557048348607
+
+Hartigan: 25 clusters 250 points 22 rep. Best: 1375.3608943223667
+Smartigan: 25 clusters 250 points 22 rep. Best: 1336.543384888485
+
+Hartigan: 25 clusters 250 points 23 rep. Best: 528.8171709396322
+Smartigan: 25 clusters 250 points 23 rep. Best: 675.3412981056538
+
+Hartigan: 25 clusters 250 points 24 rep. Best: 1400.133036256615
+Smartigan: 25 clusters 250 points 24 rep. Best: 1351.7160726590714
+
+Hartigan: 25 clusters 250 points 25 rep. Best: 811.1322223246478
+Smartigan: 25 clusters 250 points 25 rep. Best: 594.1781208458403
+
+Hartigan: 25 clusters 250 points 26 rep. Best: 1384.6459915188213
+Smartigan: 25 clusters 250 points 26 rep. Best: 1317.5176987244356
+
+Hartigan: 25 clusters 250 points 27 rep. Best: 612.7712179730368
+Smartigan: 25 clusters 250 points 27 rep. Best: 753.5250289710964
+
+Hartigan: 25 clusters 250 points 28 rep. Best: 1380.5938349270862
+Smartigan: 25 clusters 250 points 28 rep. Best: 1306.2258611090128
+
+Hartigan: 25 clusters 250 points 29 rep. Best: 968.5321148401601
+Smartigan: 25 clusters 250 points 29 rep. Best: 605.6359943353305
+
+Hartigan: 25 clusters 250 points 30 rep. Best: 1388.397270582122
+Smartigan: 25 clusters 250 points 30 rep. Best: 1314.9087296338184
+
+Hartigan: 25 clusters 250 points 31 rep. Best: 851.3958651567156
+Smartigan: 25 clusters 250 points 31 rep. Best: 646.6802891965347
+
+Hartigan: 25 clusters 250 points 32 rep. Best: 1417.7980413946814
+Smartigan: 25 clusters 250 points 32 rep. Best: 1325.4923441658104
+
+Hartigan: 25 clusters 250 points 33 rep. Best: 925.7791018623185
+Smartigan: 25 clusters 250 points 33 rep. Best: 562.0614953270413
+
+Hartigan: 25 clusters 250 points 34 rep. Best: 1368.7131462803402
+Smartigan: 25 clusters 250 points 34 rep. Best: 1334.1667742217514
+
+Hartigan: 25 clusters 250 points 35 rep. Best: 808.2780982333597
+Smartigan: 25 clusters 250 points 35 rep. Best: 728.1986120699157
+
+Hartigan: 25 clusters 250 points 36 rep. Best: 1404.673553741787
+Smartigan: 25 clusters 250 points 36 rep. Best: 1355.61132134062
+
+Hartigan: 25 clusters 250 points 37 rep. Best: 902.1711831197823
+Smartigan: 25 clusters 250 points 37 rep. Best: 730.8201538501031
+
+Hartigan: 25 clusters 250 points 38 rep. Best: 1408.9789474141626
+Smartigan: 25 clusters 250 points 38 rep. Best: 1344.0416268674358
+
+Hartigan: 25 clusters 250 points 39 rep. Best: 938.7626484125187
+Smartigan: 25 clusters 250 points 39 rep. Best: 655.4943498634948
+
+Hartigan: 25 clusters 250 points 40 rep. Best: 1400.985773747933
+Smartigan: 25 clusters 250 points 40 rep. Best: 1354.398773744538
+
+Hartigan: 25 clusters 250 points 41 rep. Best: 1043.0407917737969
+Smartigan: 25 clusters 250 points 41 rep. Best: 764.5048454002556
+
+Hartigan: 25 clusters 250 points 42 rep. Best: 1345.7147116485226
+Smartigan: 25 clusters 250 points 42 rep. Best: 1306.5747790445184
+
+Hartigan: 25 clusters 250 points 43 rep. Best: 852.6962692184367
+Smartigan: 25 clusters 250 points 43 rep. Best: 719.6917098885639
+
+Hartigan: 25 clusters 250 points 44 rep. Best: 1341.9106581820738
+Smartigan: 25 clusters 250 points 44 rep. Best: 1316.816705852643
+
+Hartigan: 25 clusters 250 points 45 rep. Best: 824.0192231951262
+Smartigan: 25 clusters 250 points 45 rep. Best: 568.18819672603
+
+Hartigan: 25 clusters 250 points 46 rep. Best: 1361.384189495002
+Smartigan: 25 clusters 250 points 46 rep. Best: 1341.9578198952986
+
+Hartigan: 25 clusters 250 points 47 rep. Best: 830.4734065982897
+Smartigan: 25 clusters 250 points 47 rep. Best: 822.6856378775228
+
+Hartigan: 25 clusters 250 points 48 rep. Best: 1398.5223565973897
+Smartigan: 25 clusters 250 points 48 rep. Best: 1348.6933503012099
+
+Hartigan: 25 clusters 250 points 49 rep. Best: 965.3155723292015
+Smartigan: 25 clusters 250 points 49 rep. Best: 648.2780297351993
+
+Hartigan: 25 clusters 250 points 50 rep. Best: 1395.140302687877
+Smartigan: 25 clusters 250 points 50 rep. Best: 1340.3098358114394
+
+Hartigan: 25 clusters 250 points 51 rep. Best: 704.6049574547494
+Smartigan: 25 clusters 250 points 51 rep. Best: 580.3003426787345
+
+Hartigan: 25 clusters 250 points 52 rep. Best: 1432.0240307828424
+Smartigan: 25 clusters 250 points 52 rep. Best: 1359.852052998053
+
+Hartigan: 25 clusters 250 points 53 rep. Best: 1005.5162329474052
+Smartigan: 25 clusters 250 points 53 rep. Best: 734.2305799415753
+
+Hartigan: 25 clusters 250 points 54 rep. Best: 1383.4451335648387
+Smartigan: 25 clusters 250 points 54 rep. Best: 1327.6775135613443
+
+Hartigan: 25 clusters 250 points 55 rep. Best: 886.4759092364467
+Smartigan: 25 clusters 250 points 55 rep. Best: 627.1406380198746
+
+Hartigan: 25 clusters 250 points 56 rep. Best: 1349.5547817477354
+Smartigan: 25 clusters 250 points 56 rep. Best: 1330.7374134208442
+
+Hartigan: 25 clusters 250 points 57 rep. Best: 1070.2361910569684
+Smartigan: 25 clusters 250 points 57 rep. Best: 662.4378868278278
+
+Hartigan: 25 clusters 250 points 58 rep. Best: 1383.90112596338
+Smartigan: 25 clusters 250 points 58 rep. Best: 1346.7131112182217
+
+Hartigan: 25 clusters 250 points 59 rep. Best: 904.4986319913394
+Smartigan: 25 clusters 250 points 59 rep. Best: 456.52636154386124
+
+Hartigan: 25 clusters 250 points 60 rep. Best: 1381.0315681649565
+Smartigan: 25 clusters 250 points 60 rep. Best: 1350.3075110481775
+
+Hartigan: 25 clusters 250 points 61 rep. Best: 638.3165440029475
+Smartigan: 25 clusters 250 points 61 rep. Best: 589.2695202517126
+
+Hartigan: 25 clusters 250 points 62 rep. Best: 1371.8685718827896
+Smartigan: 25 clusters 250 points 62 rep. Best: 1372.4551652737734
+
+Hartigan: 25 clusters 250 points 63 rep. Best: 1074.5891794767792
+Smartigan: 25 clusters 250 points 63 rep. Best: 707.9963269667494
+
+Hartigan: 25 clusters 250 points 64 rep. Best: 1367.0460851616326
+Smartigan: 25 clusters 250 points 64 rep. Best: 1336.5901046976887
+
+Hartigan: 25 clusters 250 points 65 rep. Best: 575.5560973767323
+Smartigan: 25 clusters 250 points 65 rep. Best: 763.6577956040147
+
+Hartigan: 25 clusters 250 points 66 rep. Best: 1394.099581036754
+Smartigan: 25 clusters 250 points 66 rep. Best: 1345.974390578083
+
+Hartigan: 25 clusters 250 points 67 rep. Best: 843.2022360034188
+Smartigan: 25 clusters 250 points 67 rep. Best: 675.1639883276154
+
+Hartigan: 25 clusters 250 points 68 rep. Best: 1399.8230812675363
+Smartigan: 25 clusters 250 points 68 rep. Best: 1339.2578244712806
+
+Hartigan: 25 clusters 250 points 69 rep. Best: 872.1117239028503
+Smartigan: 25 clusters 250 points 69 rep. Best: 852.7373245521177
+
+Hartigan: 25 clusters 250 points 70 rep. Best: 1353.0913004872257
+Smartigan: 25 clusters 250 points 70 rep. Best: 1331.3523181222104
+
+Hartigan: 25 clusters 250 points 71 rep. Best: 949.8016814803601
+Smartigan: 25 clusters 250 points 71 rep. Best: 607.47455196034
+
+Hartigan: 25 clusters 250 points 72 rep. Best: 1412.1421057612993
+Smartigan: 25 clusters 250 points 72 rep. Best: 1335.8743696407064
+
+Hartigan: 25 clusters 250 points 73 rep. Best: 1043.5626826870507
+Smartigan: 25 clusters 250 points 73 rep. Best: 641.7122216082506
+
+Hartigan: 25 clusters 250 points 74 rep. Best: 1407.3903986045077
+Smartigan: 25 clusters 250 points 74 rep. Best: 1350.3623044380681
+
+Hartigan: 25 clusters 250 points 75 rep. Best: 878.7745497553024
+Smartigan: 25 clusters 250 points 75 rep. Best: 606.5074741456497
+
+Hartigan: 25 clusters 250 points 76 rep. Best: 1408.4330659998898
+Smartigan: 25 clusters 250 points 76 rep. Best: 1332.1853354970326
+
+Hartigan: 25 clusters 250 points 77 rep. Best: 1055.0242445962078
+Smartigan: 25 clusters 250 points 77 rep. Best: 673.9501672277916
+
+Hartigan: 25 clusters 250 points 78 rep. Best: 1336.4726909907636
+Smartigan: 25 clusters 250 points 78 rep. Best: 1336.0937310317092
+
+Hartigan: 25 clusters 250 points 79 rep. Best: 865.2994237333158
+Smartigan: 25 clusters 250 points 79 rep. Best: 609.917451409202
+
+Hartigan: 25 clusters 250 points 80 rep. Best: 1378.6125721786054
+Smartigan: 25 clusters 250 points 80 rep. Best: 1346.0436408356516
+
+Hartigan: 25 clusters 250 points 81 rep. Best: 755.9680472469416
+Smartigan: 25 clusters 250 points 81 rep. Best: 749.9859671751642
+
+Hartigan: 25 clusters 250 points 82 rep. Best: 1353.9336666548365
+Smartigan: 25 clusters 250 points 82 rep. Best: 1320.3227886332097
+
+Hartigan: 25 clusters 250 points 83 rep. Best: 1049.6343829176521
+Smartigan: 25 clusters 250 points 83 rep. Best: 534.4387760254565
+
+Hartigan: 25 clusters 250 points 84 rep. Best: 1439.1878921698353
+Smartigan: 25 clusters 250 points 84 rep. Best: 1343.5789662731938
+
+Hartigan: 25 clusters 250 points 85 rep. Best: 881.0625822608181
+Smartigan: 25 clusters 250 points 85 rep. Best: 497.8593838848738
+
+Hartigan: 25 clusters 250 points 86 rep. Best: 1382.061177986386
+Smartigan: 25 clusters 250 points 86 rep. Best: 1299.1649823583305
+
+Hartigan: 25 clusters 250 points 87 rep. Best: 750.4705914885405
+Smartigan: 25 clusters 250 points 87 rep. Best: 699.0769833121019
+
+Hartigan: 25 clusters 250 points 88 rep. Best: 1366.472528126222
+Smartigan: 25 clusters 250 points 88 rep. Best: 1341.9715319465722
+
+Hartigan: 25 clusters 250 points 89 rep. Best: 933.9959315485954
+Smartigan: 25 clusters 250 points 89 rep. Best: 735.7277891374772
+
+Hartigan: 25 clusters 250 points 90 rep. Best: 1348.5920459649042
+Smartigan: 25 clusters 250 points 90 rep. Best: 1338.734409345568
+
+Hartigan: 25 clusters 250 points 91 rep. Best: 778.133748423714
+Smartigan: 25 clusters 250 points 91 rep. Best: 737.7677412723455
+
+Hartigan: 25 clusters 250 points 92 rep. Best: 1388.356917588409
+Smartigan: 25 clusters 250 points 92 rep. Best: 1339.1506794534378
+
+Hartigan: 25 clusters 250 points 93 rep. Best: 691.972048338135
+Smartigan: 25 clusters 250 points 93 rep. Best: 637.2101535024767
+
+Hartigan: 25 clusters 250 points 94 rep. Best: 1341.0339700165607
+Smartigan: 25 clusters 250 points 94 rep. Best: 1337.0661187847747
+
+Hartigan: 25 clusters 250 points 95 rep. Best: 788.0106454849893
+Smartigan: 25 clusters 250 points 95 rep. Best: 798.9633735801316
+
+Hartigan: 25 clusters 250 points 96 rep. Best: 1323.5014147305428
+Smartigan: 25 clusters 250 points 96 rep. Best: 1314.1864771948126
+
+Hartigan: 25 clusters 250 points 97 rep. Best: 726.3939158448818
+Smartigan: 25 clusters 250 points 97 rep. Best: 683.7333464795244
+
+Hartigan: 25 clusters 250 points 98 rep. Best: 1391.3953737206334
+Smartigan: 25 clusters 250 points 98 rep. Best: 1336.118615676116
+
+Hartigan: 25 clusters 250 points 99 rep. Best: 831.538294648217
+Smartigan: 25 clusters 250 points 99 rep. Best: 683.2149821936738
+
+Hartigan: 25 clusters 500 points 0 rep. Best: 2895.8142371569866
+Smartigan: 25 clusters 500 points 0 rep. Best: 2769.869414108935
+
+Hartigan: 25 clusters 500 points 1 rep. Best: 1550.1992220804893
+Smartigan: 25 clusters 500 points 1 rep. Best: 1824.1603982728698
+
+Hartigan: 25 clusters 500 points 2 rep. Best: 2891.2749582034185
+Smartigan: 25 clusters 500 points 2 rep. Best: 2784.1738202384427
+
+Hartigan: 25 clusters 500 points 3 rep. Best: 1182.463657209848
+Smartigan: 25 clusters 500 points 3 rep. Best: 1451.3830606409622
+
+Hartigan: 25 clusters 500 points 4 rep. Best: 3031.263892978265
+Smartigan: 25 clusters 500 points 4 rep. Best: 2889.151625973283
+
+Hartigan: 25 clusters 500 points 5 rep. Best: 1413.2497699452622
+Smartigan: 25 clusters 500 points 5 rep. Best: 1490.5195237911612
+
+Hartigan: 25 clusters 500 points 6 rep. Best: 3004.181936713692
+Smartigan: 25 clusters 500 points 6 rep. Best: 2843.0508636488235
+
+Hartigan: 25 clusters 500 points 7 rep. Best: 1800.9778812939026
+Smartigan: 25 clusters 500 points 7 rep. Best: 1372.1780471329719
+
+Hartigan: 25 clusters 500 points 8 rep. Best: 2861.3791910684354
+Smartigan: 25 clusters 500 points 8 rep. Best: 2824.6955731180547
+
+Hartigan: 25 clusters 500 points 9 rep. Best: 1805.9101547557432
+Smartigan: 25 clusters 500 points 9 rep. Best: 964.9166850339803
+
+Hartigan: 25 clusters 500 points 10 rep. Best: 2948.2659554155534
+Smartigan: 25 clusters 500 points 10 rep. Best: 2885.6973847391355
+
+Hartigan: 25 clusters 500 points 11 rep. Best: 1515.6948939965177
+Smartigan: 25 clusters 500 points 11 rep. Best: 1912.8382705598765
+
+Hartigan: 25 clusters 500 points 12 rep. Best: 2972.49889609413
+Smartigan: 25 clusters 500 points 12 rep. Best: 2876.751344326722
+
+Hartigan: 25 clusters 500 points 13 rep. Best: 2041.0448471200896
+Smartigan: 25 clusters 500 points 13 rep. Best: 2030.9383394228164
+
+Hartigan: 25 clusters 500 points 14 rep. Best: 2902.0341582053084
+Smartigan: 25 clusters 500 points 14 rep. Best: 2887.933458694574
+
+Hartigan: 25 clusters 500 points 15 rep. Best: 1742.5674420592934
+Smartigan: 25 clusters 500 points 15 rep. Best: 1480.031553477256
+
+Hartigan: 25 clusters 500 points 16 rep. Best: 2941.1455321999283
+Smartigan: 25 clusters 500 points 16 rep. Best: 2894.7788308139507
+
+Hartigan: 25 clusters 500 points 17 rep. Best: 1720.7280643209317
+Smartigan: 25 clusters 500 points 17 rep. Best: 1588.4871166407568
+
+Hartigan: 25 clusters 500 points 18 rep. Best: 2944.671588641923
+Smartigan: 25 clusters 500 points 18 rep. Best: 2818.057405488908
+
+Hartigan: 25 clusters 500 points 19 rep. Best: 1754.8397723486828
+Smartigan: 25 clusters 500 points 19 rep. Best: 1565.7474110585688
+
+Hartigan: 25 clusters 500 points 20 rep. Best: 3063.1997943777715
+Smartigan: 25 clusters 500 points 20 rep. Best: 2857.739222905601
+
+Hartigan: 25 clusters 500 points 21 rep. Best: 2139.808103825323
+Smartigan: 25 clusters 500 points 21 rep. Best: 1196.5585389959917
+
+Hartigan: 25 clusters 500 points 22 rep. Best: 2910.178260506048
+Smartigan: 25 clusters 500 points 22 rep. Best: 2953.7405601848013
+
+Hartigan: 25 clusters 500 points 23 rep. Best: 2246.0144013104923
+Smartigan: 25 clusters 500 points 23 rep. Best: 1677.1420151185364
+
+Hartigan: 25 clusters 500 points 24 rep. Best: 2942.3489368657783
+Smartigan: 25 clusters 500 points 24 rep. Best: 2787.3569634911073
+
+Hartigan: 25 clusters 500 points 25 rep. Best: 2248.647675951703
+Smartigan: 25 clusters 500 points 25 rep. Best: 1771.383065600823
+
+Hartigan: 25 clusters 500 points 26 rep. Best: 2864.5247255484064
+Smartigan: 25 clusters 500 points 26 rep. Best: 2865.336536702282
+
+Hartigan: 25 clusters 500 points 27 rep. Best: 2119.057787285569
+Smartigan: 25 clusters 500 points 27 rep. Best: 1297.0606358236757
+
+Hartigan: 25 clusters 500 points 28 rep. Best: 2962.9758599789975
+Smartigan: 25 clusters 500 points 28 rep. Best: 2826.411014940399
+
+Hartigan: 25 clusters 500 points 29 rep. Best: 1514.0808676005527
+Smartigan: 25 clusters 500 points 29 rep. Best: 1675.2569297657926
+
+Hartigan: 25 clusters 500 points 30 rep. Best: 2839.2949885390008
+Smartigan: 25 clusters 500 points 30 rep. Best: 2839.2949885390008
+
+Hartigan: 25 clusters 500 points 31 rep. Best: 1955.4213382376472
+Smartigan: 25 clusters 500 points 31 rep. Best: 1647.0632305709921
+
+Hartigan: 25 clusters 500 points 32 rep. Best: 2960.639408050786
+Smartigan: 25 clusters 500 points 32 rep. Best: 2876.7198910395173
+
+Hartigan: 25 clusters 500 points 33 rep. Best: 1942.3817955595816
+Smartigan: 25 clusters 500 points 33 rep. Best: 1707.9939368922142
+
+Hartigan: 25 clusters 500 points 34 rep. Best: 2955.6233542289656
+Smartigan: 25 clusters 500 points 34 rep. Best: 2795.486768619087
+
+Hartigan: 25 clusters 500 points 35 rep. Best: 2019.2074333194187
+Smartigan: 25 clusters 500 points 35 rep. Best: 1539.9718472575537
+
+Hartigan: 25 clusters 500 points 36 rep. Best: 2895.182300725158
+Smartigan: 25 clusters 500 points 36 rep. Best: 2879.5536761588323
+
+Hartigan: 25 clusters 500 points 37 rep. Best: 2095.2061155946967
+Smartigan: 25 clusters 500 points 37 rep. Best: 1303.2698705853243
+
+Hartigan: 25 clusters 500 points 38 rep. Best: 2960.0432122101665
+Smartigan: 25 clusters 500 points 38 rep. Best: 2803.356570072484
+
+Hartigan: 25 clusters 500 points 39 rep. Best: 1693.4888755550949
+Smartigan: 25 clusters 500 points 39 rep. Best: 1991.5535294691165
+
+Hartigan: 25 clusters 500 points 40 rep. Best: 2872.526419447469
+Smartigan: 25 clusters 500 points 40 rep. Best: 2791.774926457486
+
+Hartigan: 25 clusters 500 points 41 rep. Best: 2002.9830254912165
+Smartigan: 25 clusters 500 points 41 rep. Best: 1532.2168501851208
+
+Hartigan: 25 clusters 500 points 42 rep. Best: 3000.820386210183
+Smartigan: 25 clusters 500 points 42 rep. Best: 2835.728726878632
+
+Hartigan: 25 clusters 500 points 43 rep. Best: 1676.2088889211227
+Smartigan: 25 clusters 500 points 43 rep. Best: 1480.5167017703977
+
+Hartigan: 25 clusters 500 points 44 rep. Best: 2995.489990149148
+Smartigan: 25 clusters 500 points 44 rep. Best: 2843.3966803584376
+
+Hartigan: 25 clusters 500 points 45 rep. Best: 2161.8271842393237
+Smartigan: 25 clusters 500 points 45 rep. Best: 1607.4925108130083
+
+Hartigan: 25 clusters 500 points 46 rep. Best: 2904.090850610871
+Smartigan: 25 clusters 500 points 46 rep. Best: 2855.3262322564874
+
+Hartigan: 25 clusters 500 points 47 rep. Best: 1900.2071230601655
+Smartigan: 25 clusters 500 points 47 rep. Best: 1259.8098833452295
+
+Hartigan: 25 clusters 500 points 48 rep. Best: 3019.4532127534776
+Smartigan: 25 clusters 500 points 48 rep. Best: 2829.982010062571
+
+Hartigan: 25 clusters 500 points 49 rep. Best: 1827.5819422455045
+Smartigan: 25 clusters 500 points 49 rep. Best: 1599.6396983370346
+
+Hartigan: 25 clusters 500 points 50 rep. Best: 3006.697057131414
+Smartigan: 25 clusters 500 points 50 rep. Best: 2842.234360593181
+
+Hartigan: 25 clusters 500 points 51 rep. Best: 2076.265395212933
+Smartigan: 25 clusters 500 points 51 rep. Best: 1598.1810453632888
+
+Hartigan: 25 clusters 500 points 52 rep. Best: 2996.197267300396
+Smartigan: 25 clusters 500 points 52 rep. Best: 2792.938303532061
+
+Hartigan: 25 clusters 500 points 53 rep. Best: 1608.1672580241834
+Smartigan: 25 clusters 500 points 53 rep. Best: 1626.6116123373345
+
+Hartigan: 25 clusters 500 points 54 rep. Best: 2923.5272955610344
+Smartigan: 25 clusters 500 points 54 rep. Best: 2860.6318619630238
+
+Hartigan: 25 clusters 500 points 55 rep. Best: 2257.3775849604717
+Smartigan: 25 clusters 500 points 55 rep. Best: 1867.6482667414546
+
+Hartigan: 25 clusters 500 points 56 rep. Best: 2918.53028256619
+Smartigan: 25 clusters 500 points 56 rep. Best: 2800.1591586993945
+
+Hartigan: 25 clusters 500 points 57 rep. Best: 2177.5190923760224
+Smartigan: 25 clusters 500 points 57 rep. Best: 1666.106735629899
+
+Hartigan: 25 clusters 500 points 58 rep. Best: 3033.599136136455
+Smartigan: 25 clusters 500 points 58 rep. Best: 2839.975162723187
+
+Hartigan: 25 clusters 500 points 59 rep. Best: 1883.1199253611555
+Smartigan: 25 clusters 500 points 59 rep. Best: 1576.5272527402806
+
+Hartigan: 25 clusters 500 points 60 rep. Best: 2855.3486151379834
+Smartigan: 25 clusters 500 points 60 rep. Best: 2905.4427555141597
+
+Hartigan: 25 clusters 500 points 61 rep. Best: 1817.114361617518
+Smartigan: 25 clusters 500 points 61 rep. Best: 1744.6147996990364
+
+Hartigan: 25 clusters 500 points 62 rep. Best: 2912.695055161117
+Smartigan: 25 clusters 500 points 62 rep. Best: 2834.006528228485
+
+Hartigan: 25 clusters 500 points 63 rep. Best: 2129.943927382415
+Smartigan: 25 clusters 500 points 63 rep. Best: 1554.3724512286287
+
+Hartigan: 25 clusters 500 points 64 rep. Best: 2929.6421574022197
+Smartigan: 25 clusters 500 points 64 rep. Best: 2866.00968730847
+
+Hartigan: 25 clusters 500 points 65 rep. Best: 2208.124082653297
+Smartigan: 25 clusters 500 points 65 rep. Best: 1740.3252596078291
+
+Hartigan: 25 clusters 500 points 66 rep. Best: 2942.424700769013
+Smartigan: 25 clusters 500 points 66 rep. Best: 2820.7291276641013
+
+Hartigan: 25 clusters 500 points 67 rep. Best: 1981.6691536886765
+Smartigan: 25 clusters 500 points 67 rep. Best: 1768.1475340788256
+
+Hartigan: 25 clusters 500 points 68 rep. Best: 2954.6431946893817
+Smartigan: 25 clusters 500 points 68 rep. Best: 2874.9913718065986
+
+Hartigan: 25 clusters 500 points 69 rep. Best: 2258.6244235079353
+Smartigan: 25 clusters 500 points 69 rep. Best: 1605.290656736645
+
+Hartigan: 25 clusters 500 points 70 rep. Best: 2894.922624052267
+Smartigan: 25 clusters 500 points 70 rep. Best: 2892.3581707511375
+
+Hartigan: 25 clusters 500 points 71 rep. Best: 1738.0188959505115
+Smartigan: 25 clusters 500 points 71 rep. Best: 1467.0367598697037
+
+Hartigan: 25 clusters 500 points 72 rep. Best: 2930.8502495894154
+Smartigan: 25 clusters 500 points 72 rep. Best: 2863.999694740312
+
+Hartigan: 25 clusters 500 points 73 rep. Best: 1438.206583881345
+Smartigan: 25 clusters 500 points 73 rep. Best: 1411.960679264039
+
+Hartigan: 25 clusters 500 points 74 rep. Best: 2881.8539913005147
+Smartigan: 25 clusters 500 points 74 rep. Best: 2822.126058797586
+
+Hartigan: 25 clusters 500 points 75 rep. Best: 1690.5341408891616
+Smartigan: 25 clusters 500 points 75 rep. Best: 1559.2647346049507
+
+Hartigan: 25 clusters 500 points 76 rep. Best: 2903.570056917446
+Smartigan: 25 clusters 500 points 76 rep. Best: 2831.6785049307387
+
+Hartigan: 25 clusters 500 points 77 rep. Best: 1947.1168965601364
+Smartigan: 25 clusters 500 points 77 rep. Best: 944.4229366273055
+
+Hartigan: 25 clusters 500 points 78 rep. Best: 2831.5060311466646
+Smartigan: 25 clusters 500 points 78 rep. Best: 2807.2020227948824
+
+Hartigan: 25 clusters 500 points 79 rep. Best: 2043.385828488994
+Smartigan: 25 clusters 500 points 79 rep. Best: 1654.961642137525
+
+Hartigan: 25 clusters 500 points 80 rep. Best: 2827.7433883202707
+Smartigan: 25 clusters 500 points 80 rep. Best: 2851.926691102592
+
+Hartigan: 25 clusters 500 points 81 rep. Best: 1650.8686503201195
+Smartigan: 25 clusters 500 points 81 rep. Best: 1479.7246938411781
+
+Hartigan: 25 clusters 500 points 82 rep. Best: 2901.3526389527815
+Smartigan: 25 clusters 500 points 82 rep. Best: 2879.0193635655696
+
+Hartigan: 25 clusters 500 points 83 rep. Best: 1708.4329364608411
+Smartigan: 25 clusters 500 points 83 rep. Best: 1534.738471671056
+
+Hartigan: 25 clusters 500 points 84 rep. Best: 2974.3677060730147
+Smartigan: 25 clusters 500 points 84 rep. Best: 2880.520445190914
+
+Hartigan: 25 clusters 500 points 85 rep. Best: 2018.9390256990393
+Smartigan: 25 clusters 500 points 85 rep. Best: 1379.7622897412384
+
+Hartigan: 25 clusters 500 points 86 rep. Best: 2979.1920410728376
+Smartigan: 25 clusters 500 points 86 rep. Best: 2864.57168970133
+
+Hartigan: 25 clusters 500 points 87 rep. Best: 1988.1282355475937
+Smartigan: 25 clusters 500 points 87 rep. Best: 1515.4684985406345
+
+Hartigan: 25 clusters 500 points 88 rep. Best: 2930.049564864466
+Smartigan: 25 clusters 500 points 88 rep. Best: 2840.4321402654195
+
+Hartigan: 25 clusters 500 points 89 rep. Best: 2029.1483735347429
+Smartigan: 25 clusters 500 points 89 rep. Best: 1973.2887893761183
+
+Hartigan: 25 clusters 500 points 90 rep. Best: 2951.374758036976
+Smartigan: 25 clusters 500 points 90 rep. Best: 2891.469693602698
+
+Hartigan: 25 clusters 500 points 91 rep. Best: 1966.8230679627559
+Smartigan: 25 clusters 500 points 91 rep. Best: 1383.7577493320457
+
+Hartigan: 25 clusters 500 points 92 rep. Best: 2986.404640237414
+Smartigan: 25 clusters 500 points 92 rep. Best: 2871.992658292267
+
+Hartigan: 25 clusters 500 points 93 rep. Best: 2088.847567241651
+Smartigan: 25 clusters 500 points 93 rep. Best: 1653.3103246633875
+
+Hartigan: 25 clusters 500 points 94 rep. Best: 2999.3965153681756
+Smartigan: 25 clusters 500 points 94 rep. Best: 2828.9511451895364
+
+Hartigan: 25 clusters 500 points 95 rep. Best: 1719.810109685713
+Smartigan: 25 clusters 500 points 95 rep. Best: 1399.5616735801357
+
+Hartigan: 25 clusters 500 points 96 rep. Best: 2835.762006278388
+Smartigan: 25 clusters 500 points 96 rep. Best: 2835.762006278388
+
+Hartigan: 25 clusters 500 points 97 rep. Best: 1941.8030967587817
+Smartigan: 25 clusters 500 points 97 rep. Best: 1734.2224249115454
+
+Hartigan: 25 clusters 500 points 98 rep. Best: 2864.019808211917
+Smartigan: 25 clusters 500 points 98 rep. Best: 2799.368153962882
+
+Hartigan: 25 clusters 500 points 99 rep. Best: 1637.923806337294
+Smartigan: 25 clusters 500 points 99 rep. Best: 1843.3146372833473
+
+Hartigan: 25 clusters 1000 points 0 rep. Best: 5796.766033846624
+Smartigan: 25 clusters 1000 points 0 rep. Best: 5772.5968797814685
+
+Hartigan: 25 clusters 1000 points 1 rep. Best: 3856.27053840695
+Smartigan: 25 clusters 1000 points 1 rep. Best: 3818.9859262125137
+
+Hartigan: 25 clusters 1000 points 2 rep. Best: 6138.050479309087
+Smartigan: 25 clusters 1000 points 2 rep. Best: 6059.973741537727
+
+Hartigan: 25 clusters 1000 points 3 rep. Best: 3136.7143179685618
+Smartigan: 25 clusters 1000 points 3 rep. Best: 2992.2575437655446
+
+Hartigan: 25 clusters 1000 points 4 rep. Best: 5801.506380821236
+Smartigan: 25 clusters 1000 points 4 rep. Best: 5836.284908869156
+
+Hartigan: 25 clusters 1000 points 5 rep. Best: 2938.9063595817656
+Smartigan: 25 clusters 1000 points 5 rep. Best: 3850.9672084368644
+
+Hartigan: 25 clusters 1000 points 6 rep. Best: 6085.483913294186
+Smartigan: 25 clusters 1000 points 6 rep. Best: 5996.147588814383
+
+Hartigan: 25 clusters 1000 points 7 rep. Best: 4299.168057314546
+Smartigan: 25 clusters 1000 points 7 rep. Best: 3397.616115305885
+
+Hartigan: 25 clusters 1000 points 8 rep. Best: 6087.423795363231
+Smartigan: 25 clusters 1000 points 8 rep. Best: 5769.9821208783205
+
+Hartigan: 25 clusters 1000 points 9 rep. Best: 4906.854657597081
+Smartigan: 25 clusters 1000 points 9 rep. Best: 3053.1697165418973
+
+Hartigan: 25 clusters 1000 points 10 rep. Best: 6131.567337694393
+Smartigan: 25 clusters 1000 points 10 rep. Best: 5885.236594166714
+
+Hartigan: 25 clusters 1000 points 11 rep. Best: 3311.9219165211566
+Smartigan: 25 clusters 1000 points 11 rep. Best: 4176.910017950042
+
+Hartigan: 25 clusters 1000 points 12 rep. Best: 6092.042050116035
+Smartigan: 25 clusters 1000 points 12 rep. Best: 5858.993005651917
+
+Hartigan: 25 clusters 1000 points 13 rep. Best: 3074.034881049333
+Smartigan: 25 clusters 1000 points 13 rep. Best: 2673.310717127074
+
+Hartigan: 25 clusters 1000 points 14 rep. Best: 6178.417298597657
+Smartigan: 25 clusters 1000 points 14 rep. Best: 5938.45271137035
+
+Hartigan: 25 clusters 1000 points 15 rep. Best: 3900.239716021957
+Smartigan: 25 clusters 1000 points 15 rep. Best: 3516.8288964359126
+
+Hartigan: 25 clusters 1000 points 16 rep. Best: 5933.783353939355
+Smartigan: 25 clusters 1000 points 16 rep. Best: 5808.743090095019
+
+Hartigan: 25 clusters 1000 points 17 rep. Best: 4928.856307511531
+Smartigan: 25 clusters 1000 points 17 rep. Best: 3866.853960494114
+
+Hartigan: 25 clusters 1000 points 18 rep. Best: 6179.523884937583
+Smartigan: 25 clusters 1000 points 18 rep. Best: 6003.989809365003
+
+Hartigan: 25 clusters 1000 points 19 rep. Best: 3502.0147349244066
+Smartigan: 25 clusters 1000 points 19 rep. Best: 2667.37733954846
+
+Hartigan: 25 clusters 1000 points 20 rep. Best: 6290.881020555419
+Smartigan: 25 clusters 1000 points 20 rep. Best: 5826.642979033978
+
+Hartigan: 25 clusters 1000 points 21 rep. Best: 4997.854293183737
+Smartigan: 25 clusters 1000 points 21 rep. Best: 2878.584996865789
+
+Hartigan: 25 clusters 1000 points 22 rep. Best: 6182.705287845677
+Smartigan: 25 clusters 1000 points 22 rep. Best: 6101.621532472504
+
+Hartigan: 25 clusters 1000 points 23 rep. Best: 3438.7410727814618
+Smartigan: 25 clusters 1000 points 23 rep. Best: 2788.510814650359
+
+Hartigan: 25 clusters 1000 points 24 rep. Best: 6166.977000260117
+Smartigan: 25 clusters 1000 points 24 rep. Best: 6036.738201536956
+
+Hartigan: 25 clusters 1000 points 25 rep. Best: 3901.0991837477604
+Smartigan: 25 clusters 1000 points 25 rep. Best: 3487.653456202646
+
+Hartigan: 25 clusters 1000 points 26 rep. Best: 6014.035862295666
+Smartigan: 25 clusters 1000 points 26 rep. Best: 5921.75015929291
+
+Hartigan: 25 clusters 1000 points 27 rep. Best: 4361.987742270656
+Smartigan: 25 clusters 1000 points 27 rep. Best: 2932.952258762523
+
+Hartigan: 25 clusters 1000 points 28 rep. Best: 6218.582459328579
+Smartigan: 25 clusters 1000 points 28 rep. Best: 6007.606719183305
+
+Hartigan: 25 clusters 1000 points 29 rep. Best: 4141.021890959129
+Smartigan: 25 clusters 1000 points 29 rep. Best: 3047.896166757738
+
+Hartigan: 25 clusters 1000 points 30 rep. Best: 6182.092281737689
+Smartigan: 25 clusters 1000 points 30 rep. Best: 5829.51047198376
+
+Hartigan: 25 clusters 1000 points 31 rep. Best: 3244.6166205317295
+Smartigan: 25 clusters 1000 points 31 rep. Best: 3892.094948980022
+
+Hartigan: 25 clusters 1000 points 32 rep. Best: 6278.116132719239
+Smartigan: 25 clusters 1000 points 32 rep. Best: 5926.198305858497
+
+Hartigan: 25 clusters 1000 points 33 rep. Best: 2723.6219492743253
+Smartigan: 25 clusters 1000 points 33 rep. Best: 3734.935250547068
+
+Hartigan: 25 clusters 1000 points 34 rep. Best: 6092.930793239488
+Smartigan: 25 clusters 1000 points 34 rep. Best: 5897.164131134127
+
+Hartigan: 25 clusters 1000 points 35 rep. Best: 4125.348429064845
+Smartigan: 25 clusters 1000 points 35 rep. Best: 3481.848147575307
+
+Hartigan: 25 clusters 1000 points 36 rep. Best: 6034.859967078503
+Smartigan: 25 clusters 1000 points 36 rep. Best: 5895.543327352785
+
+Hartigan: 25 clusters 1000 points 37 rep. Best: 4220.296401464628
+Smartigan: 25 clusters 1000 points 37 rep. Best: 3026.054241568752
+
+Hartigan: 25 clusters 1000 points 38 rep. Best: 5992.737539954389
+Smartigan: 25 clusters 1000 points 38 rep. Best: 6046.32937245605
+
+Hartigan: 25 clusters 1000 points 39 rep. Best: 4487.8774548817055
+Smartigan: 25 clusters 1000 points 39 rep. Best: 3270.372016737813
+
+Hartigan: 25 clusters 1000 points 40 rep. Best: 6010.542368820128
+Smartigan: 25 clusters 1000 points 40 rep. Best: 6030.233997337455
+
+Hartigan: 25 clusters 1000 points 41 rep. Best: 4077.6727545097137
+Smartigan: 25 clusters 1000 points 41 rep. Best: 2711.6568108732886
+
+Hartigan: 25 clusters 1000 points 42 rep. Best: 6089.093530066251
+Smartigan: 25 clusters 1000 points 42 rep. Best: 5873.886739866912
+
+Hartigan: 25 clusters 1000 points 43 rep. Best: 3882.0609535783615
+Smartigan: 25 clusters 1000 points 43 rep. Best: 3960.9765469031063
+
+Hartigan: 25 clusters 1000 points 44 rep. Best: 6122.347251973146
+Smartigan: 25 clusters 1000 points 44 rep. Best: 6000.785146553872
+
+Hartigan: 25 clusters 1000 points 45 rep. Best: 3883.7351969333163
+Smartigan: 25 clusters 1000 points 45 rep. Best: 3047.725842171772
+
+Hartigan: 25 clusters 1000 points 46 rep. Best: 6036.569381954991
+Smartigan: 25 clusters 1000 points 46 rep. Best: 5985.48912698201
+
+Hartigan: 25 clusters 1000 points 47 rep. Best: 4942.402185544085
+Smartigan: 25 clusters 1000 points 47 rep. Best: 3653.064816596931
+
+Hartigan: 25 clusters 1000 points 48 rep. Best: 6003.323625847757
+Smartigan: 25 clusters 1000 points 48 rep. Best: 5831.099138573546
+
+Hartigan: 25 clusters 1000 points 49 rep. Best: 4281.023932334448
+Smartigan: 25 clusters 1000 points 49 rep. Best: 3069.711443443297
+
+Hartigan: 25 clusters 1000 points 50 rep. Best: 6064.538376669208
+Smartigan: 25 clusters 1000 points 50 rep. Best: 5808.08054852321
+
+Hartigan: 25 clusters 1000 points 51 rep. Best: 2821.313333535732
+Smartigan: 25 clusters 1000 points 51 rep. Best: 1933.4251934810366
+
+Hartigan: 25 clusters 1000 points 52 rep. Best: 5906.062962947625
+Smartigan: 25 clusters 1000 points 52 rep. Best: 5909.788192419869
+
+Hartigan: 25 clusters 1000 points 53 rep. Best: 4007.653990926987
+Smartigan: 25 clusters 1000 points 53 rep. Best: 3570.3282041120774
+
+Hartigan: 25 clusters 1000 points 54 rep. Best: 6385.124300626456
+Smartigan: 25 clusters 1000 points 54 rep. Best: 5819.902099646552
+
+Hartigan: 25 clusters 1000 points 55 rep. Best: 4480.182333397394
+Smartigan: 25 clusters 1000 points 55 rep. Best: 3640.051295459065
+
+Hartigan: 25 clusters 1000 points 56 rep. Best: 6131.757802752162
+Smartigan: 25 clusters 1000 points 56 rep. Best: 5803.73707678043
+
+Hartigan: 25 clusters 1000 points 57 rep. Best: 4665.076225594774
+Smartigan: 25 clusters 1000 points 57 rep. Best: 2555.8607674832306
+
+Hartigan: 25 clusters 1000 points 58 rep. Best: 6161.053296181585
+Smartigan: 25 clusters 1000 points 58 rep. Best: 5965.544910487632
+
+Hartigan: 25 clusters 1000 points 59 rep. Best: 4841.123737125914
+Smartigan: 25 clusters 1000 points 59 rep. Best: 3695.0487789922763
+
+Hartigan: 25 clusters 1000 points 60 rep. Best: 6006.531190159387
+Smartigan: 25 clusters 1000 points 60 rep. Best: 5793.252647388197
+
+Hartigan: 25 clusters 1000 points 61 rep. Best: 3653.1560092755963
+Smartigan: 25 clusters 1000 points 61 rep. Best: 3653.190347186132
+
+Hartigan: 25 clusters 1000 points 62 rep. Best: 6042.858179531713
+Smartigan: 25 clusters 1000 points 62 rep. Best: 6032.08564840505
+
+Hartigan: 25 clusters 1000 points 63 rep. Best: 3787.7475866410437
+Smartigan: 25 clusters 1000 points 63 rep. Best: 3056.8787333034934
+
+Hartigan: 25 clusters 1000 points 64 rep. Best: 6058.663966226064
+Smartigan: 25 clusters 1000 points 64 rep. Best: 6018.87131697495
+
+Hartigan: 25 clusters 1000 points 65 rep. Best: 4254.530326862903
+Smartigan: 25 clusters 1000 points 65 rep. Best: 3633.5735208340448
+
+Hartigan: 25 clusters 1000 points 66 rep. Best: 6215.044476999267
+Smartigan: 25 clusters 1000 points 66 rep. Best: 6033.084840116098
+
+Hartigan: 25 clusters 1000 points 67 rep. Best: 3876.047642533376
+Smartigan: 25 clusters 1000 points 67 rep. Best: 3069.645553390285
+
+Hartigan: 25 clusters 1000 points 68 rep. Best: 6298.358467367737
+Smartigan: 25 clusters 1000 points 68 rep. Best: 6072.567663386208
+
+Hartigan: 25 clusters 1000 points 69 rep. Best: 3739.2282331617726
+Smartigan: 25 clusters 1000 points 69 rep. Best: 3893.1285993708243
+
+Hartigan: 25 clusters 1000 points 70 rep. Best: 6174.853996166068
+Smartigan: 25 clusters 1000 points 70 rep. Best: 5789.883864006191
+
+Hartigan: 25 clusters 1000 points 71 rep. Best: 4030.088285667557
+Smartigan: 25 clusters 1000 points 71 rep. Best: 2824.153818633209
+
+Hartigan: 25 clusters 1000 points 72 rep. Best: 6386.43021884251
+Smartigan: 25 clusters 1000 points 72 rep. Best: 5815.845392552918
+
+Hartigan: 25 clusters 1000 points 73 rep. Best: 3613.38265373977
+Smartigan: 25 clusters 1000 points 73 rep. Best: 3918.468305427082
+
+Hartigan: 25 clusters 1000 points 74 rep. Best: 6002.760640174331
+Smartigan: 25 clusters 1000 points 74 rep. Best: 6014.453942129574
+
+Hartigan: 25 clusters 1000 points 75 rep. Best: 4365.312008474724
+Smartigan: 25 clusters 1000 points 75 rep. Best: 3090.041567942908
+
+Hartigan: 25 clusters 1000 points 76 rep. Best: 6093.289817826136
+Smartigan: 25 clusters 1000 points 76 rep. Best: 5797.533600978309
+
+Hartigan: 25 clusters 1000 points 77 rep. Best: 4897.643473896954
+Smartigan: 25 clusters 1000 points 77 rep. Best: 2768.3445288870184
+
+Hartigan: 25 clusters 1000 points 78 rep. Best: 6042.862263915894
+Smartigan: 25 clusters 1000 points 78 rep. Best: 6091.123723150859
+
+Hartigan: 25 clusters 1000 points 79 rep. Best: 4225.713319174359
+Smartigan: 25 clusters 1000 points 79 rep. Best: 3627.624527287268
+
+Hartigan: 25 clusters 1000 points 80 rep. Best: 5806.604256945614
+Smartigan: 25 clusters 1000 points 80 rep. Best: 5806.604256945614
+
+Hartigan: 25 clusters 1000 points 81 rep. Best: 4295.088540109722
+Smartigan: 25 clusters 1000 points 81 rep. Best: 3500.9850169843517
+
+Hartigan: 25 clusters 1000 points 82 rep. Best: 6173.905857991954
+Smartigan: 25 clusters 1000 points 82 rep. Best: 6006.316876720818
+
+Hartigan: 25 clusters 1000 points 83 rep. Best: 3763.0600976540227
+Smartigan: 25 clusters 1000 points 83 rep. Best: 1953.7714716964192
+
+Hartigan: 25 clusters 1000 points 84 rep. Best: 5959.70772562612
+Smartigan: 25 clusters 1000 points 84 rep. Best: 5945.912622401811
+
+Hartigan: 25 clusters 1000 points 85 rep. Best: 3423.225251666726
+Smartigan: 25 clusters 1000 points 85 rep. Best: 3499.605310586768
+
+Hartigan: 25 clusters 1000 points 86 rep. Best: 6047.909962121576
+Smartigan: 25 clusters 1000 points 86 rep. Best: 6011.476589868222
+
+Hartigan: 25 clusters 1000 points 87 rep. Best: 2686.114684315391
+Smartigan: 25 clusters 1000 points 87 rep. Best: 3751.0565407746044
+
+Hartigan: 25 clusters 1000 points 88 rep. Best: 6004.47450213439
+Smartigan: 25 clusters 1000 points 88 rep. Best: 6151.785340715366
+
+Hartigan: 25 clusters 1000 points 89 rep. Best: 5153.394450326251
+Smartigan: 25 clusters 1000 points 89 rep. Best: 3292.3729176531033
+
+Hartigan: 25 clusters 1000 points 90 rep. Best: 6201.31993290096
+Smartigan: 25 clusters 1000 points 90 rep. Best: 5801.266078587582
+
+Hartigan: 25 clusters 1000 points 91 rep. Best: 3872.5930337861537
+Smartigan: 25 clusters 1000 points 91 rep. Best: 2743.4593447373295
+
+Hartigan: 25 clusters 1000 points 92 rep. Best: 6109.560308054284
+Smartigan: 25 clusters 1000 points 92 rep. Best: 5836.432889822885
+
+Hartigan: 25 clusters 1000 points 93 rep. Best: 3101.7969456485666
+Smartigan: 25 clusters 1000 points 93 rep. Best: 3836.336912379764
+
+Hartigan: 25 clusters 1000 points 94 rep. Best: 5900.684174537951
+Smartigan: 25 clusters 1000 points 94 rep. Best: 5792.728323813127
+
+Hartigan: 25 clusters 1000 points 95 rep. Best: 4219.6752840196505
+Smartigan: 25 clusters 1000 points 95 rep. Best: 2596.590500573374
+
+Hartigan: 25 clusters 1000 points 96 rep. Best: 6081.564227167075
+Smartigan: 25 clusters 1000 points 96 rep. Best: 5987.004315490861
+
+Hartigan: 25 clusters 1000 points 97 rep. Best: 4207.70237919994
+Smartigan: 25 clusters 1000 points 97 rep. Best: 3261.633839882134
+
+Hartigan: 25 clusters 1000 points 98 rep. Best: 6101.011799314719
+Smartigan: 25 clusters 1000 points 98 rep. Best: 5726.830847582888
+
+Hartigan: 25 clusters 1000 points 99 rep. Best: 4398.501796331188
+Smartigan: 25 clusters 1000 points 99 rep. Best: 3449.852079074382
+
