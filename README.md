@@ -1,5 +1,5 @@
 # smartigan
-Code for the results in https://arxiv.org/abs/2604.21798
+Code for the results in "An effective variant of the Hartigan k-means algorithm"
 # Gaussians
 submit.py contains sufficient code to copy the Gaussian experiments. The implementation does not aim to be optimal, we recommend simply adapting any existing implementation for efficient code.
 
